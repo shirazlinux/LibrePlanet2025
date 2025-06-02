@@ -1,0 +1,913 @@
+1
+00:00:00,000 --> 00:00:02,000
+‫این زیرنویس با ابزار مترجم سگارو ترجمه شده‬
+‫برای ترجمه اتوماتیک زیرنویس از وبسایت iSega.ro دیدن کنید‬
+
+2
+00:00:00,000 --> 00:00:02,000
+‫‫This subtitle was translated with the Segaro Translator tool‬
+‫For automatic subtitle translation, visit iSega.ro website‬‬
+
+3
+00:00:07,160 --> 00:00:12,080
+‫‫Let me introduce myself, well, hello. I am Mohammadmahdi.‬‬
+
+4
+00:00:12,080 --> 00:00:19,240
+‫‫I am Shafiei. I'm not a programmer or anything like that. I don't have technical expertise. I have a very small technical website, mostly‬‬
+
+5
+00:00:19,240 --> 00:00:25,080
+‫‫I'm a blogger and I try to work on culture and development and things like that.‬‬
+
+6
+00:00:25,080 --> 00:00:31,320
+‫‫I said you came very close.‬‬
+
+7
+00:00:31,560 --> 00:00:38,160
+‫‫I have a blog where I write, and in the Avaye Azad project, Mozilla Common Voice, I also‬‬
+
+8
+00:00:38,160 --> 00:00:45,840
+‫‫contribute there. I am very happy that I am very happy that today at Libre‬‬
+
+9
+00:00:45,840 --> 00:00:49,719
+‫‫Planet Shiraz, we are going to talk about Common Voice.‬‬
+
+10
+00:00:49,719 --> 00:00:56,079
+‫‫I have a few small notes because I don't trust my memory very much. If I look at‬‬
+
+11
+00:00:56,079 --> 00:01:00,680
+‫‫this, the point is this. The kids who are here... No, louder. The kids who are here‬‬
+
+12
+00:01:00,680 --> 00:01:05,479
+‫‫could talk about Common Voice much better than me. Dear Farooq, Mr.‬‬
+
+13
+00:01:05,479 --> 00:01:13,600
+‫‫Dear Goodarzi, both of them are main contributors to this project.‬‬
+
+14
+00:01:13,600 --> 00:01:21,079
+‫‫But well, I took the liberty and I'm going to talk.‬‬
+
+15
+00:01:21,079 --> 00:01:27,280
+‫‫Let's go to it. Imagine a world where speech recognition tools‬‬
+
+16
+00:01:27,280 --> 00:01:34,960
+‫‫are going to support all languages. We don't have a shortage of speech recognition tools now.‬‬
+
+17
+00:01:34,960 --> 00:01:39,320
+‫‫From Google's own keyboard, that little icon‬‬
+
+18
+00:01:39,320 --> 00:01:50,360
+‫‫next to it, and this one, and you can touch it and you say something and it will be typed for you and‬‬
+
+19
+00:01:50,360 --> 00:01:55,880
+‫‫I don't know how many of you have used this so far. Up to user interfaces that are‬‬
+
+20
+00:01:55,880 --> 00:02:03,240
+‫‫fundamentally and from the beginning based on speech. But all of these have a problem. That is‬‬
+
+21
+00:02:03,240 --> 00:02:07,840
+‫‫that the main focus of all these speech-to-text engines is‬‬
+
+22
+00:02:07,840 --> 00:02:15,879
+‫‫on major languages, on languages with many speakers, like English, Chinese, Spanish, and‬‬
+
+23
+00:02:15,879 --> 00:02:23,440
+‫‫smaller languages, languages with fewer speakers, like Persian now,‬‬
+
+24
+00:02:23,440 --> 00:02:30,680
+‫‫like languages and dialects that have fewer speakers, are neglected in them and‬‬
+
+25
+00:02:30,680 --> 00:02:35,280
+‫‫the tools don't work well with these languages in that way. They work like English.‬‬
+
+26
+00:02:35,280 --> 00:02:42,000
+‫‫If you have probably used the same speech-to-text service, text and‬‬
+
+27
+00:02:42,000 --> 00:02:48,000
+‫‫Google speech, it often makes mistakes, it doesn't understand what we are saying, and it writes something else.‬‬
+
+28
+00:02:48,000 --> 00:02:53,239
+‫‫Common Voice, or Mozilla Common Voice, is going to‬‬
+
+29
+00:02:53,239 --> 00:03:00,680
+‫‫solve this problem and a series of other problems. It is going to solve the problem of this focus and it is going to‬‬
+
+30
+00:03:00,680 --> 00:03:09,799
+‫‫make Common Voice ensure that no one feels unheard because they are speaking a‬‬
+
+31
+00:03:09,799 --> 00:03:15,000
+‫‫language that is not among those main languages that big companies are focusing on‬‬
+
+32
+00:03:15,000 --> 00:03:19,280
+‫‫and investing in.‬‬
+
+33
+00:03:20,120 --> 00:03:26,560
+‫‫Behind the founder of this project, the founder of Common Voice, is the Mozilla Foundation. Now I don't know, kids,‬‬
+
+34
+00:03:26,560 --> 00:03:30,799
+‫‫probably all of you here know the Mozilla Foundation. If you don't know the Mozilla Foundation itself,‬‬
+
+35
+00:03:30,799 --> 00:03:39,400
+‫‫you probably know its browser, Firefox. The Mozilla Foundation, if I'm not mistaken,‬‬
+
+36
+00:03:39,400 --> 00:03:45,720
+‫‫started its work in 2003, and the goal of the Mozilla Foundation from the beginning was to make the internet‬‬
+
+37
+00:03:45,720 --> 00:03:51,720
+‫‫more decentralized, to make it more democratic as much as possible, and to increase collective participation in‬‬
+
+38
+00:03:51,720 --> 00:03:56,519
+‫‫the internet and in other related projects.‬‬
+
+39
+00:03:56,519 --> 00:04:04,959
+‫‫One of the projects that, as I said, it has started in order to achieve this goal is Common Voice.‬‬
+
+40
+00:04:04,959 --> 00:04:10,959
+‫‫Common Voice wants to come and fill this gap, this gap that exists for‬‬
+
+41
+00:04:10,959 --> 00:04:20,639
+‫‫smaller languages and increase our accessibility, and a good thing about Common Voice, a strong point it has, is that it‬‬
+
+42
+00:04:20,639 --> 00:04:27,720
+‫‫started from the beginning with collective participation and is going to collect and validate data through collective participation‬‬
+
+43
+00:04:27,720 --> 00:04:33,919
+‫‫and make it available for free and open source to programmers and developers.‬‬
+
+44
+00:04:33,919 --> 00:04:37,639
+‫‫So they can build better tools for us. Let's take a look at the project history. This project started in‬‬
+
+45
+00:04:37,639 --> 00:04:43,919
+‫‫2017. Common Voice started working in 2017 and only started with English.‬‬
+
+46
+00:04:43,919 --> 00:04:48,680
+‫‫In the first year, less than, I think, 9 months, around 500 hours of audio was recorded, segments of audio‬‬
+
+47
+00:04:48,680 --> 00:04:55,080
+‫‫were recorded and validated. Very soon, in 2019, the number of languages that‬‬
+
+48
+00:04:55,080 --> 00:05:00,800
+‫‫were being worked on in this project reached 18, and we had 1400 hours of recorded audio.‬‬
+
+49
+00:05:00,800 --> 00:05:08,440
+‫‫In 2020, the total hours of recorded audio reached 7200‬‬
+
+50
+00:05:08,440 --> 00:05:14,520
+‫‫hours in 54 languages. We know that we have 700 living languages in the world now, but‬‬
+
+51
+00:05:14,520 --> 00:05:23,440
+‫‫ساعت رسید توی ۵۴ تا زبان. می‌دونیم که ما
+الان ۷۰۰ تا زبان زنده داریم تو دنیا، اما‬‬
+
+52
+00:05:23,440 --> 00:05:31,199
+‫The focus of text-to-speech or speech-to-text engines is on less than 10% of them, on those three‬
+
+53
+00:05:31,199 --> 00:05:37,160
+‫besides those four major languages I mentioned: English, Spanish and...‬
+
+54
+00:05:37,160 --> 00:05:45,000
+‫Chinese. But for those 54 languages they started with, 700 hours of audio samples have been collected. A large and‬
+
+55
+00:05:45,000 --> 00:05:50,360
+‫significant number. In 2022, the number of languages reached more than 100. Right now, this‬
+
+56
+00:05:50,360 --> 00:05:57,479
+‫number of languages is increasing. In 2024, the total hours of recorded data was 3100 hours‬
+
+57
+00:05:57,479 --> 00:06:05,680
+‫in 129 languages, of which 2000 hours are verified, and in 2025, the 21st dataset of‬
+
+58
+00:06:05,680 --> 00:06:11,520
+‫Common Voice has been released, which everyone can go and download for free and use.‬
+
+59
+00:06:11,520 --> 00:06:20,440
+‫But why is this important? Why is collecting this data important? Why is collecting these audio snippets‬
+
+60
+00:06:20,440 --> 00:06:26,400
+‫important? That also goes back to this future‬
+
+61
+00:06:26,400 --> 00:06:30,400
+‫of user interfaces. We have user interfaces that are moving towards‬
+
+62
+00:06:30,400 --> 00:06:36,440
+‫this direction to reduce our interaction with our operating systems, with our devices, via the keyboard,‬
+
+63
+00:06:36,440 --> 00:06:42,479
+‫via touch. To minimize it as much as possible and focus on‬
+
+64
+00:06:42,479 --> 00:06:50,039
+‫voice. This trend is so important that many large companies have their own voice assistants.‬
+
+65
+00:06:50,039 --> 00:06:55,080
+‫Apple had Siri, Samsung had Bixby,‬
+
+66
+00:06:55,080 --> 00:07:00,840
+‫Google, I don't remember Google's name, but yes, Google‬
+
+67
+00:07:00,840 --> 00:07:07,680
+‫Assistant. Microsoft also had Cortana. Even larger companies that had supplementary resources Alexa‬
+
+68
+00:07:07,680 --> 00:07:13,039
+‫on Windows... Yes, even larger companies that had more financial resources took a step‬
+
+69
+00:07:13,039 --> 00:07:19,560
+‫further. Even introduced dedicated hardware for communication via voice with those devices, with‬
+
+70
+00:07:19,560 --> 00:07:27,120
+‫that software. Like Alexa Home or Google... it had one, I don't remember its name.‬
+
+71
+00:07:27,120 --> 00:07:32,759
+‫And as you can see, the statistics... I got these statistics from Statista. People are moving‬
+
+72
+00:07:32,759 --> 00:07:39,120
+‫towards more use, more daily use of voice user interfaces. In the car‬
+
+73
+00:07:39,120 --> 00:07:43,800
+‫they use it more, where their access to typing and now touching their phone is harder. More‬
+
+74
+00:07:43,800 --> 00:07:48,520
+‫after that, home, and then now public places.‬
+
+75
+00:07:50,000 --> 00:07:54,599
+‫If we want to give an overall statistic... Oh, I forgot to say this:‬
+
+76
+00:07:54,599 --> 00:08:01,199
+‫I mentioned the future is moving towards our interaction with our devices being through‬
+
+77
+00:08:01,199 --> 00:08:05,720
+‫our voice. Here it's important who controls...‬
+
+78
+00:08:05,720 --> 00:08:12,360
+‫this user interface and this data? Who owns these speech recognition engines?‬
+
+79
+00:08:12,360 --> 00:08:17,960
+‫Right now, there is a lot of discussion about the significant concentration, both on data and on...‬
+
+80
+00:08:17,960 --> 00:08:23,120
+‫tools, in large companies that have many resources. These abundant resources can be...‬
+
+81
+00:08:23,120 --> 00:08:28,039
+‫their financial resources that they can spend and buy datasets and different models...‬
+
+82
+00:08:28,039 --> 00:08:34,360
+‫train, and it can also be on the data they have. Google has enormous access to...‬
+
+83
+00:08:34,360 --> 00:08:40,000
+‫video, to YouTube which has subtitles. For all of them, it can much easier and more powerfully build a model...‬
+
+84
+00:08:40,000 --> 00:08:45,680
+‫that it wants to build, train, teach. That's why, for example, we see that the strongest model...‬
+
+85
+00:08:45,680 --> 00:08:50,560
+‫now... speech-to-text for the Persian language is that...‬
+
+86
+00:08:50,560 --> 00:08:54,800
+‫same Google Assistant.‬
+
+87
+00:08:54,800 --> 00:09:02,959
+‫But Common Voice has come to break this monopoly and change this situation, which is a situation...‬
+
+88
+00:09:02,959 --> 00:09:10,279
+‫concentrated, into a decentralized situation. By focusing on collective participation, on crowdsourcing.‬
+
+89
+00:09:10,279 --> 00:09:13,959
+‫So far, I said that over 100 languages in this project, in Common Voice, are...‬
+
+90
+00:09:13,959 --> 00:09:21,120
+‫working and more than 18,000 hours of audio have been collected, and its participants are throughout the...‬
+
+91
+00:09:21,120 --> 00:09:27,399
+‫world, 450,000 people. More than 2000 developers are now working on its technical side...‬
+
+92
+00:09:27,399 --> 00:09:33,200
+‫working, which I don't specialize in, the technical guys should talk about that. These statistics were from 2022, statistics...‬
+
+93
+00:09:33,200 --> 00:09:37,920
+‫newer than this I couldn't find. The statistics are definitely more than this. The Persian language too, thank God...‬
+
+94
+00:09:37,920 --> 00:09:42,600
+‫thanks to the kids who, as I said, have been working long before me and better than me, has been added to...‬
+
+95
+00:09:42,600 --> 00:09:49,320
+‫this project, to Common Voice. These statistics are the latest statistics on the status of the Persian language on...‬
+
+96
+00:09:49,320 --> 00:09:59,000
+‫Common Voice. The total recorded hours, hours of audio recorded and donated to the project is 434 hours...‬
+
+97
+00:09:59,000 --> 00:10:08,200
+‫donated by 400 people, 86 verified, and the total number of sentences is around 52,000, which...‬
+
+98
+00:10:08,200 --> 00:10:14,360
+‫This statistic is really low. To train, to teach a model...‬
+
+99
+00:10:14,360 --> 00:10:20,760
+‫is good. For speech recognition, we need much more and much more diverse data. For...‬
+
+100
+00:10:20,760 --> 00:10:26,440
+‫this is why we need more people to come to the project and donate their voice, or if...‬
+
+101
+00:10:26,440 --> 00:10:32,320
+‫they reach you, or if they are not interested, or for any reason don't want to donate their voice, in the section...‬
+
+102
+00:10:32,320 --> 00:10:37,320
+‫validate, in the section for approving or rejecting
+donated voice clips. In addition...‬
+
+103
+00:10:37,320 --> 00:10:43,079
+‫we need more participation.
+We also need more diversity. This diversity...‬
+
+104
+00:10:43,079 --> 00:10:47,040
+‫in terms of both gender and...‬
+
+105
+00:10:47,160 --> 00:10:56,079
+‫dialect. I don't think I brought the statistics, but a large portion
+of these 434 hours collected‬
+
+106
+00:10:56,079 --> 00:11:03,040
+‫is male voices. We need women to also
+come and participate in this project. For after...‬
+
+107
+00:11:03,040 --> 00:11:07,240
+‫This helps us make the engine we're
+building, based on this data, the voice of...‬
+
+108
+00:11:07,240 --> 00:11:13,279
+‫women better. Let's go to the next one. This is the status of the Persian language.‬
+
+109
+00:11:13,279 --> 00:11:21,480
+‫It's Persian. Here, the quality is low in the percentage
+of the total donated voice in terms of‬
+
+110
+00:11:21,480 --> 00:11:26,519
+‫gender, well, I can't read this and tell you...‬
+
+111
+00:11:26,519 --> 00:11:34,079
+‫tell you. That red part is the women in the... language.‬
+
+112
+00:11:34,079 --> 00:11:39,800
+‫In Persian, it seems that even compared to other
+projects, the least participation‬
+
+113
+00:11:39,800 --> 00:11:44,040
+‫was by women in the Persian language.‬
+
+114
+00:11:44,760 --> 00:11:54,600
+‫If you have questions, ask, so I can move on to
+participation. Please add that one thing is three‬
+
+115
+00:11:54,600 --> 00:12:01,079
+‫top ASR models. For those who don't know,
+automatic‬
+
+116
+00:12:01,079 --> 00:12:07,920
+‫speech recognition. Three of its top models, one is Whisper.
+Whisper Large is by OpenAI, which is also open source,‬
+
+117
+00:12:07,920 --> 00:12:16,519
+‫by the way, and the second model, incidentally, has been fine-tuned
+based on this very Common Voice. Its main model is DeepSpeech, yes.‬
+
+118
+00:12:16,519 --> 00:12:24,760
+‫Its main model is Deep Deep DeepSpeech by Mozilla,
+but I saw one of the guys on Hugging Face who fine-tuned‬
+
+119
+00:12:24,760 --> 00:12:31,399
+‫Meta's Wav2vec model using this same
+Common Voice on Persian, and then‬
+
+120
+00:12:31,399 --> 00:12:38,040
+‫it ranks second after Whisper, its performance is very good. This
+is about the models. Now, I myself am working with a‬
+
+121
+00:12:38,040 --> 00:12:41,720
+‫company, contributing in the‬
+
+122
+00:12:42,480 --> 00:12:45,800
+‫Innovation Factory‬
+
+123
+00:12:45,959 --> 00:12:52,720
+‫No, what was that factory in Aryan city? I'm in
+Bandar Abbas, not Shiraz. Shiraz kids, help.‬
+
+124
+00:12:52,720 --> 00:12:58,760
+‫Yeah, we have a Science and Technology Park, we are collaborating.
+I am contributing to train‬
+
+125
+00:12:58,760 --> 00:13:04,680
+‫an ASR model, and then we want to go for
+TTS. Currently, we are collecting data from‬
+
+126
+00:13:04,680 --> 00:13:09,040
+‫Persian podcasts. After that, we want to
+use Whisper to label the podcasts‬
+
+127
+00:13:09,040 --> 00:13:13,480
+‫and train a model with it. Very good.‬
+
+128
+00:13:13,480 --> 00:13:19,519
+‫Thank you, but the main part and my goal was to invite you...‬
+
+129
+00:13:19,519 --> 00:13:24,680
+‫to participate in this project. Participation in the project is very easy, it doesn't even require registration.‬
+
+130
+00:13:24,680 --> 00:13:27,639
+‫You just need to go to this...‬
+
+131
+00:13:29,120 --> 00:13:36,440
+‫address .milla and select the Persian language. The direct link is at the end of the slides.‬
+
+132
+00:13:36,440 --> 00:13:41,720
+‫You can scan, select the Persian language or donate your voice, a sentence...‬
+
+133
+00:13:41,720 --> 00:13:47,320
+‫that it brings up, read it. Give access. You can be comfortable with a mobile phone. Working with other devices is also...‬
+
+134
+00:13:47,320 --> 00:13:54,040
+‫easy with it. Donate your voice to the project, or if you can't or aren't interested...‬
+
+135
+00:13:54,040 --> 00:13:59,639
+‫in participating by donating voice, approve or reject the recorded voices.‬
+
+136
+00:13:59,639 --> 00:14:04,440
+‫You just need to match the voice and the sentence shown here, and approve or...‬
+
+137
+00:14:04,440 --> 00:14:11,079
+‫reject it. This is also easy work. A series of links are provided.‬
+
+138
+00:14:11,079 --> 00:14:17,600
+‫is available. This is also a project need that I remembered at the end and couldn't include in the slides...‬
+
+139
+00:14:17,600 --> 00:14:23,920
+‫include. The Common Voice project also needs text snippets. Text snippets to be added to...‬
+
+140
+00:14:23,920 --> 00:14:29,759
+‫the project so that those who donate their voice can read them. There are some conditions...‬
+
+141
+00:14:29,759 --> 00:14:36,480
+‫on how to add these and what criteria they should meet for the sentence to be able to...‬
+
+142
+00:14:36,480 --> 00:14:42,040
+‫be added to the project. There is a very good video where Ahangar explains it in the Donut event.‬
+
+143
+00:14:42,040 --> 00:14:47,600
+‫I put the link here. You can go see that and participate that way too. But...‬
+
+144
+00:14:47,600 --> 00:14:54,320
+‫it would be great if at least 5 to 10 of you from this audience here would join...‬
+
+145
+00:14:54,320 --> 00:15:00,079
+‫the contributors of this Mozilla Common Voice project and both approve more voices...‬
+
+146
+00:15:00,079 --> 00:15:05,759
+‫and add more voices to this repository, so that in the future, speech recognition engines...‬
+
+147
+00:15:05,759 --> 00:15:12,800
+‫in Persian work much better, have more accuracy. And thank you for listening...‬
+
+148
+00:15:12,800 --> 00:15:18,560
+‫so far. Apologies if there were any shortcomings. If there is any question or point, I am at your service...‬
+
+149
+00:15:18,560 --> 00:15:20,880
+‫Farouq.‬
+
+150
+00:15:21,360 --> 00:15:27,040
+‫Look how happy someone got talking more about Mr.... Just a few...‬
+
+151
+00:15:27,040 --> 00:15:32,399
+‫things I wanted to say. One is this, about its application. In my opinion, if...‬
+
+152
+00:15:32,399 --> 00:15:37,720
+‫‫If you could give a few examples, samples of its use. I'll give one sample...‬‬
+
+153
+00:15:37,720 --> 00:15:42,880
+‫‫People who are blind, in order to be able
+to work with computers, they need something...‬‬
+
+154
+00:15:42,880 --> 00:15:47,000
+‫‫called a screen reader. I think in Persian it's called a screen reader...‬‬
+
+155
+00:15:47,000 --> 00:15:54,160
+‫‫This screen reader, for example, reads the text
+that is on the screen for them.‬‬
+
+156
+00:15:54,160 --> 00:16:00,240
+‫‫One of the guys... I know him as Resaneh Narfzār. I don't know if he's in this group.‬‬
+
+157
+00:16:00,240 --> 00:16:06,480
+‫‫A dialist, stories like that. He's in Tehran, in Tehran, very
+persistent about the matter. He said that he had difficulties working...‬‬
+
+158
+00:16:06,480 --> 00:16:13,000
+‫‫with the blind. For Iran, for Tehran, sorry, and the screen reading technology they use...‬‬
+
+159
+00:16:13,000 --> 00:16:19,240
+‫‫they use, for the language in general, is from 10 years ago, and they have to pay money for it...‬‬
+
+160
+00:16:19,240 --> 00:16:24,800
+‫‫They have to pay. It's not even free. It's not free, it's old.‬‬
+
+161
+00:16:24,800 --> 00:16:31,680
+‫‫It's not free, yeah, and the sound quality isn't very good either. So besides speech recognition, that part...‬‬
+
+162
+00:16:31,680 --> 00:16:38,160
+‫‫of speech synthesis is also very important. Let me give another application. My grandmother never learned...‬‬
+
+163
+00:16:38,160 --> 00:16:43,519
+‫‫how to read and write. At that time, in the village, they believed that girls shouldn't be sent to school.‬‬
+
+164
+00:16:43,519 --> 00:16:49,360
+‫‫Now, if she had a phone she could talk to, where the phone would, for example, want to...‬‬
+
+165
+00:16:49,360 --> 00:16:54,040
+‫‫for example, call Farooq, she would say "I want to call Farooq" in Persian, and the phone would...‬‬
+
+166
+00:16:54,040 --> 00:16:59,680
+‫‫do this for her, she would be very happy, and Mr. Common, the data we need for...‬‬
+
+167
+00:16:59,680 --> 00:17:05,439
+‫‫such a task, gives it to us. Yes, Common Voice, Common Voice can increase the accessibility...‬‬
+
+168
+00:17:05,439 --> 00:17:10,400
+‫‫of projects and technologies. Yes, you're right. I should have said this, that a...‬‬
+
+169
+00:17:10,400 --> 00:17:18,839
+‫‫third point, we Iranians, Persian speakers, our population is much smaller than our Arab and Indian friends.‬‬
+
+170
+00:17:18,839 --> 00:17:24,760
+‫‫But the last time I checked, they each had a two to three gigabyte dataset, while our dataset is over...‬‬
+
+171
+00:17:24,760 --> 00:17:30,320
+‫‫10 gigabytes. Yes, the participation of the Persian language among other languages is very good, considering the population...‬‬
+
+172
+00:17:30,320 --> 00:17:36,160
+‫‫they have. Of course, the Persian-speaking population is limited, and this participation is being done by a very small number of people...‬‬
+
+173
+00:17:36,160 --> 00:17:40,400
+‫‫are participating. Yes, there's no diversity, yes. I said there's no...‬‬
+
+174
+00:17:40,400 --> 00:17:45,760
+‫‫diversity. Much of the data belongs to the guys here, they are among the top contributors. There is a...‬‬
+
+175
+00:17:45,760 --> 00:17:52,080
+‫‫leaderboard list, and some of the guys have stopped contributing so that there is more diversity...‬‬
+
+176
+00:17:52,080 --> 00:17:56,600
+‫‫and again, I invite you again, if you come and contribute to the project, it will be very good...‬‬
+
+177
+00:17:56,600 --> 00:18:02,280
+‫‫It will be. Someone had a question. I wanted to know if this project also does something about the diversity...‬‬
+
+178
+00:18:02,280 --> 00:18:08,360
+‫‫of different Persian accents. We have a lot of...‬‬
+
+179
+00:18:08,360 --> 00:18:14,960
+‫‫different accents. You mean different dialects, meaning, at all...‬‬
+
+180
+00:18:14,960 --> 00:18:19,320
+‫‫the way we speak, if you register, there is a section in the profile where...‬‬
+
+181
+00:18:19,320 --> 00:18:25,440
+‫‫you can categorize your voice according to what Wikipedia has already specified, and put it in the...‬‬
+
+182
+00:18:25,440 --> 00:18:32,760
+‫‫category. In it, your voice with that Kerman, Bandar, Balochi, Ajeebi, or any other accent...‬‬
+
+183
+00:18:32,760 --> 00:18:37,960
+‫‫other accent is saved according to that, and others can use it. That license that allows...‬‬
+
+184
+00:18:37,960 --> 00:18:42,720
+‫‫registering gives these advantages so that many things can be done over time. The file...‬‬
+
+185
+00:18:42,720 --> 00:18:47,679
+‫‫Speaking. That's right, thank you.‬‬
+
+186
+00:18:47,679 --> 00:18:53,559
+‫‫Look, friends who want to participate, I strongly urge you to register and...‬‬
+
+187
+00:18:53,559 --> 00:18:58,960
+‫‫specify your accent, because then it becomes possible for us to, for example, separate the accent of...‬‬
+
+188
+00:18:58,960 --> 00:19:04,720
+‫‫for example, Isfahan, and create a model, a speech synthesis model with the Isfahan accent...‬‬
+
+189
+00:19:04,720 --> 00:19:11,799
+‫‫create. This is very good. Completing the speech. Sir, besides that, gender and age are also very...‬‬
+
+190
+00:19:11,799 --> 00:19:14,159
+‫‫criteria.‬‬
+
+191
+00:19:14,840 --> 00:19:21,840
+‫‫criteria. I really like it if you guys do your 10 voice recordings every week. It helps a lot...‬‬
+
+192
+00:19:21,840 --> 00:19:26,799
+‫‫It's very helpful for you. Long-term, and I recommend that you register and complete your profile.‬‬
+
+193
+00:19:26,799 --> 00:19:32,520
+‫‫Because it has a few very specific items that allow us to do better things much faster in the long run.‬‬
+
+194
+00:19:32,520 --> 00:19:37,799
+‫‫Like specifying your gender, age range, and ear. These are a few...‬‬
+
+195
+00:19:37,799 --> 00:19:43,960
+‫‫simple parameters that are fixed in the long run and very useful in categorizing the voices that...‬‬
+
+196
+00:19:43,960 --> 00:19:49,120
+‫‫you want to do. And thanks to you, and we will be very happy if you are with us in the project...‬‬
+
+197
+00:19:49,120 --> 00:19:55,320
+‫‫by our side. There's also a group, Mr. Moshtarak, whose link I put at the end here.‬‬
+
+198
+00:19:55,320 --> 00:20:01,520
+‫‫If you had any questions there, you can be in the group and ask. The guys are there to help.‬‬
+
+199
+00:20:01,520 --> 00:20:07,080
+‫‫That's it. If there's nothing else, I'll put it right in your own group because the kids...‬‬
+
+200
+00:20:07,080 --> 00:20:12,480
+‫‫most of the kids are lazy, so I'll definitely put the link for them. Oh, just one more thing...‬‬
+
+201
+00:20:12,480 --> 00:20:18,440
+‫‫If you have a Braille book or any text material that you would like to donate, but you don't have the time...‬‬
+
+202
+00:20:18,440 --> 00:20:24,200
+‫‫you don't, we children are volunteers
+to make the license public domain...‬‬
+
+203
+00:20:24,200 --> 00:20:30,360
+‫‫Tell us, we'll take those texts ourselves and
+donate them to the project, and there will be no reference to our name‬‬
+
+204
+00:20:30,360 --> 00:20:35,080
+‫‫mentioned, it's all under your name. The only
+issue is that the number of our words and‬‬
+
+205
+00:20:35,080 --> 00:20:39,799
+‫‫number of sentences is very important. In the long term, have variety, from all categories, not just‬‬
+
+206
+00:20:39,799 --> 00:20:45,480
+‫‫categories that a few main people are adding.‬‬
+
+207
+00:20:46,840 --> 00:20:51,080
+‫‫If you yourselves like, as I said, the Dono kids
+have developed a tool called Avazad.‬‬
+
+208
+00:20:51,080 --> 00:20:56,840
+‫‫You can give it bulk texts yourselves
+and get a lot of text output precisely.‬‬
+
+209
+00:20:56,840 --> 00:21:01,679
+‫‫And submit it yourselves to the Mozilla project.
+That's also available, but the kids say we'll do it ourselves too.‬‬
+
+210
+00:21:01,679 --> 00:21:05,840
+‫‫So that their hands... In that you yourselves can... You can just if you yourselves don't have time,‬‬
+
+211
+00:21:05,840 --> 00:21:09,640
+‫‫yes, send them, we'll do it, because it has a big impact in the long term. Alright, thank you. If it's not dead...‬‬
+
+212
+00:21:09,640 --> 00:21:16,440
+‫‫Thank you for listening. Let me make a request. Now these models, these voices, we want to use them‬‬
+
+213
+00:21:16,440 --> 00:21:22,039
+‫‫to build an open source model.‬‬
+
+214
+00:21:22,039 --> 00:21:28,960
+‫‫If anyone has expertise in this, tell me later. I think Farooq himself was interested for a while, in‬‬
+
+215
+00:21:28,960 --> 00:21:36,240
+‫‫Bashar's group.
+Together... Now I... I need to finish the current research,‬‬
+
+216
+00:21:36,240 --> 00:21:41,000
+‫‫then either go into speech recognition or generation.‬‬
+
+217
+00:21:41,000 --> 00:21:45,360
+‫‫Speech is among my plans, but for now, I can't do anything.‬‬
+
+218
+00:21:45,360 --> 00:21:50,170
+‫‫Thank you for listening.
+[Music]‬‬
+
+219
+00:21:50,170 --> 00:21:55,190
+‫‫[Applause]
+Thank you, thanks.‬‬
+
+220
+00:21:55,190 --> 00:21:58,449
+‫‫[Applause]‬‬
+

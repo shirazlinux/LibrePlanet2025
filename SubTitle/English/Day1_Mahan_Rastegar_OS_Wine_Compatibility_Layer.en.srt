@@ -1,0 +1,1077 @@
+1
+00:00:00,000 --> 00:00:02,000
+‫این زیرنویس با ابزار مترجم سگارو ترجمه شده‬
+‫برای ترجمه اتوماتیک زیرنویس از وبسایت iSega.ro دیدن کنید‬
+
+2
+00:00:00,000 --> 00:00:02,000
+‫This subtitle was translated with Segaro translator tool.
+For automatic subtitle translation, visit iSega.ro website.‬
+
+3
+00:00:02,450 --> 00:00:11,480
+‫[Music]
+Hello, I'm Mahan and I'm interested in...‬
+
+4
+00:00:11,480 --> 00:00:20,320
+‫free software and Linux.
+I use the Arch distribution.‬
+
+5
+00:00:20,320 --> 00:00:29,240
+‫and I'm very interested in Linux. I code with Python, Rust,
+C, and MicroPython. My job is IoT.‬
+
+6
+00:00:29,240 --> 00:00:37,079
+‫I work at a knowledge-based company in Shiraz,
+Jahanpars. And I'm a student at the University of...‬
+
+7
+00:00:37,079 --> 00:00:41,160
+‫Shiraz as well. My field is
+Computer Science.‬
+
+8
+00:00:41,160 --> 00:00:50,239
+‫Okay, the first topic we want to talk
+about is open source systems.‬
+
+9
+00:00:50,239 --> 00:00:56,039
+‫When we talk about open source systems, the first thing
+that comes to our mind is Linux. Perhaps the only thing...‬
+
+10
+00:00:56,039 --> 00:01:00,280
+‫that comes to our mind in open source systems
+is Linux.‬
+
+11
+00:01:00,280 --> 00:01:06,840
+‫But well, we have a lot of open source systems.
+We also have different types of kernels that...‬
+
+12
+00:01:06,840 --> 00:01:13,360
+‫many people might not be aware of. One of the
+most famous ones you've probably heard of is ...‬
+
+13
+00:01:13,360 --> 00:01:19,240
+‫BSDs: FreeBSD, OpenBSD,
+NetBSD. Which also have very different applications...‬
+
+14
+00:01:19,240 --> 00:01:25,920
+‫They do. But Linux is
+the strongest among them and has a very strong and...‬
+
+15
+00:01:25,920 --> 00:01:33,119
+‫large community behind it.
+An open source system gives you the authority and freedom to...‬
+
+16
+00:01:33,119 --> 00:01:39,320
+‫use your system however you like. For example,‬
+
+17
+00:01:39,320 --> 00:01:46,439
+‫you can even
+rewrite your device's lights yourself, if you want...‬
+
+18
+00:01:46,439 --> 00:01:51,920
+‫to redefine how they are used.
+But in an operating system like Windows, you must use it...‬
+
+19
+00:01:51,920 --> 00:01:57,479
+‫exactly as defined, and outside of that,
+it's very difficult to do anything...‬
+
+20
+00:01:57,479 --> 00:02:01,799
+‫else. Let's go to the next one.‬
+
+21
+00:02:03,680 --> 00:02:11,520
+‫Next: What is open source and why is it important?
+The definition of open source is that everyone can...‬
+
+22
+00:02:11,520 --> 00:02:20,120
+‫see its code, everyone can change it and improve it.
+And this causes your code's security to...‬
+
+23
+00:02:20,120 --> 00:02:28,920
+‫increase significantly, and the level of trust in your code to rise.
+If one day, the community that uses it...‬
+
+24
+00:02:28,920 --> 00:02:36,319
+‫is very large or you have a very technical community...
+Why is it important for us to...‬
+
+25
+00:02:36,319 --> 00:02:44,519
+‫support open source systems? Because
+we provide a culture and a freedom of choice to...‬
+
+26
+00:02:44,519 --> 00:02:53,280
+‫users to use their device, their machine,
+and however they are interested...‬
+
+27
+00:02:53,280 --> 00:03:04,200
+‫to use it. And at the same level, we also create some
+limitations for them.‬
+
+28
+00:03:04,200 --> 00:03:15,040
+‫For example, if a very specific program like
+Photoshop is very useful in Windows,‬
+
+29
+00:03:15,040 --> 00:03:22,760
+‫in Linux there is something like GIMP, but there are some
+uses that are only available in Photoshop.‬
+
+30
+00:03:22,760 --> 00:03:29,439
+‫Today, after this presentation, I'm going to introduce you
+to something called Wine, which allows you to run Windows...‬
+
+31
+00:03:29,439 --> 00:03:33,200
+‫programs in Linux as well.‬
+
+32
+00:03:33,200 --> 00:03:38,640
+‫You might not be able to run very new versions, but you
+can definitely use older versions, and your device...‬
+
+33
+00:03:38,640 --> 00:03:47,400
+‫becomes almost completely unnecessary to dual boot
+Windows, run a virtual machine, or use Linux in any other way.‬
+
+34
+00:03:47,400 --> 00:03:53,920
+‫If I want to give you an example of an open source system...
+A little higher... They say even higher is more attractive...‬
+
+35
+00:03:53,920 --> 00:03:59,079
+‫Let's give an example... A little higher... Ah, they say even higher
+is more attractive than this...‬
+
+36
+00:03:59,079 --> 00:04:05,239
+‫Okay, with the same pleasures that you get from these...
+Okay, okay, I said it.‬
+
+37
+00:04:05,239 --> 00:04:13,079
+‫If I want to give you many examples of open source systems,
+Linux and BSD, and some...‬
+
+38
+00:04:13,079 --> 00:04:19,239
+‫specific software, I can tell you Apache and Firefox.
+Although Firefox has recently...‬
+
+39
+00:04:19,239 --> 00:04:26,080
+‫changed its policies, and there has been a big debate
+about this, with people saying that...‬
+
+40
+00:04:26,080 --> 00:04:31,840
+‫it's moving away from open source due to
+its financial needs regarding policy changes.‬
+
+41
+00:04:31,840 --> 00:04:37,720
+‫And Linux is everywhere. The biggest thing
+that you are probably all using if you haven't had Linux on...‬
+
+42
+00:04:37,720 --> 00:04:43,840
+‫your device before is Android. Android's kernel
+is completely Linux.‬
+
+43
+00:04:43,840 --> 00:04:49,240
+‫We've all had an Android phone in our pockets
+at some point. We've all been Linux users in a way...‬
+
+44
+00:04:49,240 --> 00:04:53,880
+‫without knowing it.‬
+
+45
+00:04:53,880 --> 00:05:01,400
+‫Linux, the Linux kernel alone is just a kernel and
+cannot take you anywhere. This...‬
+
+46
+00:05:01,400 --> 00:05:06,919
+‫Linus Torvalds himself said this. The Linux kernel
+started being built in...‬
+
+47
+00:05:06,919 --> 00:05:15,960
+‫1991. And why was it built? Linus Torvalds was looking
+for a system that he could review the code for his university...‬
+
+48
+00:05:15,960 --> 00:05:23,680
+‫and edit or modify it in any way he wanted.‬
+
+49
+00:05:23,680 --> 00:05:29,840
+‫He wanted it himself, and such a thing didn't exist. And one
+day he decided to start an operating system...‬
+
+50
+00:05:29,840 --> 00:05:39,199
+‫which is called Linux today. Linus Torvalds' initial idea
+was a combination of the names "Freaks" and "Linux"...‬
+
+51
+00:05:39,199 --> 00:05:45,440
+‫was Linus, which would be Freaks and Unix.
+Actually, Freaks. But what happened that it became Linux?‬
+
+52
+00:05:45,440 --> 00:05:52,280
+‫‫was renamed. One day, one of the FDP
+Linux administrators named it after this system‬‬
+
+53
+00:05:52,280 --> 00:05:58,080
+‫‫operating system Linux, and Linus Torvalds liked
+it and kept it. And the Linux mascot, which...‬‬
+
+54
+00:05:58,080 --> 00:06:03,919
+‫‫Probably Tux, you all know where this
+came from? The Linux mascot, one day Linus Torvalds...‬‬
+
+55
+00:06:03,919 --> 00:06:11,000
+‫‫had gone to Australia and a penguin bit
+him, and they made a meme out of it, and the mascot...‬‬
+
+56
+00:06:11,000 --> 00:06:15,840
+‫‫of Linux is from that penguin that bit
+Linus Torvalds...‬‬
+
+57
+00:06:15,840 --> 00:06:25,919
+‫‫bit him. The Linux kernel is monolithic.
+We have several types of kernels: one is microkernels...‬‬
+
+58
+00:06:25,919 --> 00:06:31,880
+‫‫are, one is monolithic ones. Linus Torvalds
+himself said that his biggest...‬‬
+
+59
+00:06:31,880 --> 00:06:38,919
+‫‫mistake was writing Linux as monolithic. What
+does monolithic do? It keeps...‬‬
+
+60
+00:06:38,919 --> 00:06:47,199
+‫‫memory management, drivers, and some other things
+in the kernel space and shifts the rest...‬‬
+
+61
+00:06:47,199 --> 00:06:53,400
+‫‫all to user space, where drivers, file
+systems are all on user...‬‬
+
+62
+00:06:53,400 --> 00:07:02,199
+‫‫space which ride on the kernel space and
+deliver the system to you. But microkernels...‬‬
+
+63
+00:07:02,199 --> 00:07:10,759
+‫‫are very minimal, only IPSs and low-level
+memory management are in the kernel...‬‬
+
+64
+00:07:10,759 --> 00:07:18,400
+‫‫space, and the rest all have to ride on this
+microkernel as separate packages.‬‬
+
+65
+00:07:18,400 --> 00:07:24,120
+‫‫Our Linux drivers, however, are in this form.
+For example, you've probably seen that when...‬‬
+
+66
+00:07:24,120 --> 00:07:31,120
+‫‫you want a graphics card, your graphics card is new,
+you have to install that specific driver, for example, N...‬‬
+
+67
+00:07:31,120 --> 00:07:36,319
+‫‫vidia or AMD to have full support,
+otherwise it uses the graphics card...‬‬
+
+68
+00:07:36,319 --> 00:07:42,120
+‫‫of your motherboard which becomes very slow.
+It has very poor rendering...‬‬
+
+69
+00:07:42,120 --> 00:07:48,199
+‫‫and ultimately provides you with bad performance.‬‬
+
+70
+00:07:48,199 --> 00:07:56,280
+‫‫And Linux supports a lot of hardware
+and is far, far ahead of B...‬‬
+
+71
+00:07:56,280 --> 00:08:03,599
+‫‫SD in this regard. BSD primarily focuses
+on boards, whereas Linux...‬‬
+
+72
+00:08:03,599 --> 00:08:08,840
+‫‫also gives a lot of importance to home computers and
+always tries to quickly support many...‬‬
+
+73
+00:08:08,840 --> 00:08:16,599
+‫‫of these hardware pieces in this matter. Some distributions
+like Fedora, like Arch, are called...‬‬
+
+74
+00:08:16,599 --> 00:08:22,879
+‫‫bleeding-edge, which provide the fastest updates.
+Linus Torvalds' own distribution...‬‬
+
+75
+00:08:22,879 --> 00:08:29,840
+‫‫is Fedora, and the speed of supporting new
+hardware in Linux is much...‬‬
+
+76
+00:08:29,840 --> 00:08:37,039
+‫‫higher. Win, in, is higher than BSD.
+Debian and...‬‬
+
+77
+00:08:37,039 --> 00:08:46,680
+‫‫Ubuntu, please, an explanation, a few years ago
+in Tehran, I think, I had, half, is it still active...‬‬
+
+78
+00:08:46,680 --> 00:08:54,720
+‫‫I don't know, I have no information. I don't
+know what I'm doing that...‬‬
+
+79
+00:08:54,720 --> 00:09:00,480
+‫‫Tehran.‬‬
+
+80
+00:09:00,480 --> 00:09:07,480
+‫‫There is a distribution that is also made in Iran.‬‬
+
+81
+00:09:07,480 --> 00:09:14,320
+‫‫Its name is Parch. It is based on Arch, by Mr. Sohrab.‬‬
+
+82
+00:09:14,320 --> 00:09:21,040
+‫‫They are developing it. There is also a distribution
+that is very strange, its name is Predator, oh.‬‬
+
+83
+00:09:21,040 --> 00:09:27,640
+‫‫They came to mix, for example, Black Box and Kali.
+To be very security-oriented, but the result...‬‬
+
+84
+00:09:27,640 --> 00:09:34,399
+‫‫is not interesting at all. But Parch, so far,
+has been the most interesting of all. Another distribution that...‬‬
+
+85
+00:09:34,399 --> 00:09:40,839
+‫‫is very interesting and new that has come...
+which is new, what can I say, it's based on Arch and...‬‬
+
+86
+00:09:40,839 --> 00:09:49,040
+‫‫it's very user-friendly. Its name is Manjaro.
+Assume it's Ubuntu based on Arch.‬‬
+
+87
+00:09:49,040 --> 00:09:58,320
+‫‫And that level of access and drivers that Arch uses
+it provides with a very high level of user-friendliness...‬‬
+
+88
+00:09:58,320 --> 00:10:04,760
+‫‫very, very high. Manjaro, Debian, and Ubuntu.
+Debian is a kernel, a...‬‬
+
+89
+00:10:04,760 --> 00:10:10,880
+‫‫distribution that is very easy, reliable,
+and many power users...‬‬
+
+90
+00:10:10,880 --> 00:10:18,320
+‫‫use it. Many servers that use Linux and
+run Debian server...‬‬
+
+91
+00:10:18,320 --> 00:10:26,079
+‫‫runs. Ubuntu is based on Debian and is very user-friendly.
+It's almost... it's about to become Windows...‬‬
+
+92
+00:10:26,079 --> 00:10:32,040
+‫‫it's so user-friendly and the community support that
+as I said, is behind Linux, is higher than any...‬‬
+
+93
+00:10:32,040 --> 00:10:38,920
+‫‫open-source operating system you can think of.
+And in Linux, something that exists is...‬‬
+
+94
+00:10:38,920 --> 00:10:43,800
+‫‫that no one owns Linux. Linus Torvalds is the
+lead...‬‬
+
+95
+00:10:43,800 --> 00:10:51,959
+‫‫for the project, and there are some things he has
+called Lieutenants or...‬‬
+
+96
+00:10:51,959 --> 00:10:58,040
+‫‫like Major, Colonel, something like that, who
+manage the other developers on how...‬‬
+
+97
+00:10:58,040 --> 00:11:04,519
+‫‫which code merges should be done. Besides the
+mainline kernel, we have LTS and...‬‬
+
+98
+00:11:04,519 --> 00:11:11,519
+‫‫we have. You probably know about them, we have
+Mod Z which is very fast, based on Linux Zen which...‬‬
+
+99
+00:11:11,519 --> 00:11:20,519
+‫‫It also supports many up-to-date hard drives and
+provides very high performance. And...‬‬
+
+100
+00:11:20,519 --> 00:11:27,360
+‫‫Hardened kernel, which is security-based and
+tries to block many accesses to secure the system...‬‬
+
+101
+00:11:27,360 --> 00:11:33,800
+‫‫make it secure. Fedora and CentOS. As I
+told you, Fedora is very...‬
+‫was renamed. One day, one of the FDP
+Linux administrators named it after this system‬‬
+
+102
+00:11:33,800 --> 00:11:41,399
+‫‫It supports all new technologies.
+Bleeding edge. And Linus's personal distribution...‬‬
+
+103
+00:11:41,399 --> 00:11:51,000
+‫‫We have CentOS as an enterprise version
+of Linux that isn't around much anymore.‬‬
+
+104
+00:11:51,000 --> 00:11:58,440
+‫‫Okay, we also have Red Hat which is very enterprise
+and the community made a copy in a way that is‬‬
+
+105
+00:11:58,440 --> 00:12:04,120
+‫‫a complete copy of Red Hat, which became CentOS, and is offered for free.
+And they try to, for example,‬‬
+
+106
+00:12:04,120 --> 00:12:11,360
+‫‫keep all of Red Hat's updates with a one-month delay. Red Hat is financially
+supported by IBM,‬‬
+
+107
+00:12:11,360 --> 00:12:16,079
+‫‫but CentOS is entirely community-driven.‬‬
+
+108
+00:12:17,320 --> 00:12:23,399
+‫‫BSD! Probably many of you haven't heard of it.
+BSD goes back to‬‬
+
+109
+00:12:23,399 --> 00:12:27,160
+‫‫Berkeley University, the place where Unix
+was first‬‬
+
+110
+00:12:27,160 --> 00:12:34,040
+‫‫built, and Unix-like BSD also has
+some distributions. This includes FreeBSD,‬‬
+
+111
+00:12:34,040 --> 00:12:39,959
+‫‫NetBSD, and OpenBSD. Everyone thinks
+that large applications like‬‬
+
+112
+00:12:39,959 --> 00:12:45,000
+‫‫WhatsApp, like Netflix, use Linux for their servers, but they use BSD.‬‬
+
+113
+00:12:45,000 --> 00:12:51,120
+‫‫They also use FreeBSD. The main difference between Linux and BSDs
+is that Linux is a kernel; without GNU,‬‬
+
+114
+00:12:51,120 --> 00:12:55,760
+‫‫it cannot do anything. If there were no
+glibc, no core utilities, no compilers, no shell, Linux is just an empty kernel that only‬‬
+
+115
+00:12:55,760 --> 00:13:02,160
+‫‫manages hardware, it has memory management,
+it has IP addresses, but BSD is provided to you as‬‬
+
+116
+00:13:02,160 --> 00:13:09,360
+‫‫a complete OS. And macOS is written based on BSD. The Darwin kernel‬‬
+
+117
+00:13:09,360 --> 00:13:16,839
+‫‫is entirely based on BSD. PlayStation 3 and 4
+their operating system is based on BSD. Xbox‬‬
+
+118
+00:13:16,839 --> 00:13:24,480
+‫‫is based on BSD, and the focus of BSD
+is to very much in a‬‬
+
+119
+00:13:24,480 --> 00:13:31,199
+‫‫minimal way support hardware, especially
+boards.‬‬
+
+120
+00:13:31,199 --> 00:13:39,279
+‫‫As I told you, BSD's use case is for embedded systems, firewalls,‬‬
+
+121
+00:13:40,079 --> 00:13:47,720
+‫‫and what it specializes in is security.
+Another major difference in the‬‬
+
+122
+00:13:47,720 --> 00:13:55,399
+‫‫security of Linux and BSD is that when Linux boots, it glues all the components
+together in a fixed way in memory.‬‬
+
+123
+00:13:55,399 --> 00:14:02,880
+‫‫They have a specific place and are executed.‬‬
+
+124
+00:14:02,880 --> 00:14:09,240
+‫‫But when BSD boots, it glues these components together randomly, separately, each time.‬‬
+
+125
+00:14:09,240 --> 00:14:15,519
+‫‫That's why in almost over 40 years,
+perhaps only 10 critical errors have been found in BSD,‬‬
+
+126
+00:14:15,519 --> 00:14:21,759
+‫‫but well, Linux has a much higher statistic.‬‬
+
+127
+00:14:21,759 --> 00:14:26,360
+‫‫You had Android, right? Asi, we said we'll bring and attach part by part.‬‬
+
+128
+00:14:28,120 --> 00:14:34,560
+‫‫This is modular, meaning for example, if there's an error in a part... Yes, it's modular, but...‬‬
+
+129
+00:14:34,560 --> 00:14:40,880
+‫‫Linux has a much greater focus on the modularity of the operating system compared to BSD.‬‬
+
+130
+00:14:40,880 --> 00:14:46,560
+‫‫As you...‬‬
+
+131
+00:14:46,560 --> 00:14:48,959
+‫‫see, BSD is much more minimal than even Linux, in terms of the kernel, that's why...‬‬
+
+132
+00:14:49,519 --> 00:14:59,160
+‫‫managing it is easier for them, because it provides the operating system as a whole unit...‬‬
+
+133
+00:14:59,160 --> 00:15:07,320
+‫‫It's monolithic, because of this, BSD is also...‬‬
+
+134
+00:15:07,320 --> 00:15:12,759
+‫‫monolithic. This is something that, for example, you know monolithic means you might not be able to, for example, want to change a part...‬‬
+
+135
+00:15:13,160 --> 00:15:19,639
+‫‫You might have to mess up the whole structure, right? Then this problem doesn't arise.‬‬
+
+136
+00:15:19,639 --> 00:15:25,680
+‫‫The fact that...
+In what you're saying it's easier...‬‬
+
+137
+00:15:25,680 --> 00:15:30,399
+‫‫doesn't fit. BSD's focus is on security, meaning one of the very distinct features, a feature that...‬‬
+
+138
+00:15:30,399 --> 00:15:38,639
+‫‫really distinguishes it from Linux is this stage of being monolithic, and despite being very...‬‬
+
+139
+00:15:38,639 --> 00:15:45,800
+‫‫BSD also has a much smaller community, they are much more specialized. Is your point that...‬‬
+
+140
+00:15:45,800 --> 00:15:50,959
+‫‫it's monolithic when loading? Yes, it connects them randomly, even though...‬‬
+
+141
+00:15:50,959 --> 00:15:57,120
+‫‫it's monolithic. And there is another kernel, Hurd, which is for the FSF. There is another kernel...‬‬
+
+142
+00:15:57,120 --> 00:16:04,440
+‫‫Hybrid.‬‬
+
+143
+00:16:04,440 --> 00:16:07,160
+‫‫which Microsoft Windows uses. ReactOS or Rivos, I don't remember...‬‬
+
+144
+00:16:07,279 --> 00:16:15,680
+‫‫the exact name. It's an operating system that uses a hybrid kernel and is very secure.‬‬
+
+145
+00:16:15,680 --> 00:16:22,560
+‫‫That security-based nature of these operating systems is what makes them very special, even...‬‬
+
+146
+00:16:22,560 --> 00:16:30,440
+‫‫compared to Windows, despite being monolithic and Windows being hybrid.‬‬
+
+147
+00:16:30,440 --> 00:16:37,959
+‫‫In Linux and BSD, this matter exists that despite being monolithic, this focus on...‬‬
+
+148
+00:16:37,959 --> 00:16:44,399
+‫‫security is much more preserved.‬‬
+
+149
+00:16:44,399 --> 00:16:48,199
+‫‫Android OS, which you are all familiar with, which Google built...‬‬
+
+150
+00:16:48,480 --> 00:16:56,240
+‫‫on the base of Linux for mobile phones, and they also have a program called AEP which is for...‬‬
+
+151
+00:16:56,240 --> 00:17:04,839
+‫‫پایه‌ی لینوکس ساختتش برای گوشی و یک برنامه‌ای هم دارن به اسم ای‌پی که برای...‬‬
+
+152
+00:17:04,839 --> 00:17:10,760
+‫the open-source nature of Android, and their focus is on...‬
+
+153
+00:17:10,760 --> 00:17:18,280
+‫We have Chrome OS, which Google has restructured again for cloud-based computers.‬
+
+154
+00:17:18,280 --> 00:17:25,799
+‫Cloud computing and many of the cheaper laptops that have recently entered the market use...‬
+
+155
+00:17:25,799 --> 00:17:32,799
+‫...Chrome OS. It's open source. The main focus of Chrome OS, I'll say it again, is on...‬
+
+156
+00:17:32,799 --> 00:17:41,200
+‫...cloud computing. It has a very fast boot time and runs on very weak systems...‬
+
+157
+00:17:41,200 --> 00:17:47,440
+‫...as well. The difference and... comparison of the operating systems we've mentioned so far...‬
+
+158
+00:17:47,440 --> 00:17:53,559
+‫...whose kernel is Linux. Well, it uses Linux. Something interesting is that...‬
+
+159
+00:17:53,559 --> 00:17:57,679
+‫Richard Stallman really emphasized that this is GNU/Linux.‬
+
+160
+00:17:57,679 --> 00:18:06,039
+‫So his effort wouldn't be wasted. But it wasn't about Wine. Wine came after.‬
+
+161
+00:18:06,039 --> 00:18:10,960
+‫After that. Yes, it was fast. In time... No.‬
+
+162
+00:18:11,200 --> 00:18:18,720
+‫Okay. Lin... Richard Stallman had a special emphasis that this is GNU/Linux, it's not just Linux...‬
+
+163
+00:18:18,720 --> 00:18:24,520
+‫...alone. Linux is just a kernel, and the GCC compiler, these were all provided by Richard Stallman and S...‬
+
+164
+00:18:24,520 --> 00:18:32,440
+‫...FSF. And in everyday speech, Linux was easier, and Richard...‬
+
+165
+00:18:32,440 --> 00:18:37,320
+‫Stallman proposed the word 'Lingakso', which no one uses...‬
+
+166
+00:18:37,320 --> 00:18:44,840
+‫...uses. The use case for Linux, well, is for desktops, servers, and embedded systems. BSD is for servers...‬
+
+167
+00:18:44,840 --> 00:18:51,400
+‫network security, even some hardware firewalls are written based on BSD... C...‬
+
+168
+00:18:51,400 --> 00:18:57,039
+‫Cisco's hardware firewalls are mostly based on BSD...‬
+
+169
+00:18:57,039 --> 00:19:04,000
+‫...are. Android is a modified version of Linux for mobile devices, and Chrome OS is cloud...‬
+
+170
+00:19:04,000 --> 00:19:10,200
+‫...focused and for laptops. The Linux license is GPL, copyleft...‬
+
+171
+00:19:10,200 --> 00:19:14,520
+‫...and BSD has its own special license, which is permissive.‬
+
+172
+00:19:14,520 --> 00:19:23,360
+‫And Android and Chrome OS are mostly offered under Google's license. Linux has a very...‬
+
+173
+00:19:23,360 --> 00:19:29,440
+‫...wide community. BSD is much smaller but they are much more technical, and Android and...‬
+
+174
+00:19:29,440 --> 00:19:35,360
+‫...Chrome OS are chosen by Google employees...‬
+
+175
+00:19:35,360 --> 00:19:41,480
+‫...chose. The operating system can be very important in your daily use of...‬
+
+176
+00:19:41,480 --> 00:19:47,240
+‫...your computer. For some, the freedom of having everything from the kernel upwards...‬
+
+177
+00:19:47,240 --> 00:19:54,880
+‫...in their own hands is important. According to their taste, from their bootloader to their user manager to...‬
+
+178
+00:19:54,880 --> 00:20:01,919
+‫...the protocol that brings up their desktop, which X or Wayland makes this very complicated.‬
+
+179
+00:20:01,919 --> 00:20:09,120
+‫For this, you need to be a power user, and distributions like Arch... like, if you're even‬
+
+180
+00:20:09,120 --> 00:20:14,960
+‫much more advanced, you can use Linux From Scratch or Gentoo, where even‬
+
+181
+00:20:14,960 --> 00:20:19,360
+‫compiling your kernel is completely in your hands. It doesn't provide binaries. You have to build everything‬
+
+182
+00:20:19,360 --> 00:20:23,880
+‫from source on your own system. Of course, building from source...‬
+
+183
+00:20:23,880 --> 00:20:30,200
+‫...increases execution speed because the compiler performs some modifications on the code based on your hardware...‬
+
+184
+00:20:30,200 --> 00:20:39,600
+‫at the assembly level so it runs better on your system. Or‬
+
+185
+00:20:39,600 --> 00:20:46,159
+‫if user-friendliness is important to you, like distributions such as Ubuntu, Debian, Manjaro, Mint...‬
+
+186
+00:20:46,159 --> 00:20:51,480
+‫which are very easy, you might be able to use them even with very little knowledge. There's a distribution‬
+
+187
+00:20:51,480 --> 00:20:58,400
+‫called Zorin OS whose interface is entirely Windows-like, but in the background it runs the Linux kernel.‬
+
+188
+00:20:58,400 --> 00:21:03,720
+‫runs. And if security is important to you, well,‬
+
+189
+00:21:03,720 --> 00:21:10,640
+‫you can go for BSD distributions or some specific Linux distributions that‬
+
+190
+00:21:10,640 --> 00:21:16,200
+‫are made specifically for this purpose. Or if customization is important to you, you can use‬
+
+191
+00:21:16,200 --> 00:21:21,799
+‫a window manager. You don't even need to use a desktop environment like GNOME or like KDE.‬
+
+192
+00:21:21,799 --> 00:21:28,919
+‫You can use Wayland... the Wayland protocol and Hyprland.‬
+
+193
+00:21:28,919 --> 00:21:36,400
+‫use. 5 minutes, now that thing... RAM becomes‬
+
+194
+00:21:36,400 --> 00:21:40,480
+‫Let's bring up the next one, Wine.‬
+
+195
+00:21:41,679 --> 00:21:45,679
+‫the main point of this‬
+
+196
+00:21:46,120 --> 00:21:54,279
+‫Wine... Wine is a compatibility layer for Linux. What it does‬
+
+197
+00:21:54,279 --> 00:22:01,039
+‫is that it brings up Windows API calls, system APIs, and system calls virtually in‬
+
+198
+00:22:01,039 --> 00:22:06,840
+‫Linux, and because of that, you can run Windows programs, DLLs, executables in Linux.‬
+
+199
+00:22:06,840 --> 00:22:14,400
+‫Wine has a site called WineHQ, where you can see the versions that Wine supports...‬
+
+200
+00:22:14,400 --> 00:22:20,480
+‫...supports, which you can install on Linux and use.‬
+
+201
+00:22:20,480 --> 00:22:26,240
+‫For example, a very simple example could be the Minesweeper game.‬
+
+202
+00:22:26,240 --> 00:22:29,360
+‫Okay.‬
+
+203
+00:22:29,360 --> 00:22:38,360
+‫...that even with the Wine debugger, you can at the assembly level trace all API calls between the...‬
+
+204
+00:22:38,360 --> 00:22:47,440
+‫...Windows executable code and Linux system calls, and even manipulate the code in memory...‬
+
+205
+00:22:47,440 --> 00:22:51,360
+‫...and it gives you complete freedom in this library.‬
+
+206
+00:22:51,360 --> 00:22:58,480
+‫You can dump your memory map, in...‬
+
+207
+00:22:58,480 --> 00:23:06,320
+‫...memory, change your clock, change your money. For crackers, if they are here, it can be very...‬
+
+208
+00:23:06,320 --> 00:23:11,200
+‫...interesting to see all the API calls and their exchanges.‬
+
+209
+00:23:11,200 --> 00:23:19,039
+‫And this can be a solution for you to...‬
+
+210
+00:23:19,039 --> 00:23:24,880
+‫...minimize your need for Windows, if there is a specific program that only runs on Windows...‬
+
+211
+00:23:24,880 --> 00:23:27,200
+‫...runs...‬
+
+212
+00:23:28,799 --> 00:23:34,600
+‫...on. Questions?‬
+
+213
+00:23:36,120 --> 00:23:41,480
+‫Please, there's a presentation theme...‬
+
+214
+00:23:43,360 --> 00:23:51,880
+‫...put a theme. This is actually the source [music]‬
+
+215
+00:23:51,880 --> 00:23:57,760
+‫The question isn't why open source programs are better?‬
+
+216
+00:23:57,760 --> 00:24:04,760
+‫Because everyone can see and edit the code. But in closed source, this code is in the hands of a few...‬
+
+217
+00:24:04,760 --> 00:24:12,320
+‫...limited individuals, and errors may occur that those limited individuals don't notice. But if...‬
+
+218
+00:24:12,320 --> 00:24:19,120
+‫...your code is available and everyone can see it every day, these modifications that are provided...‬
+
+219
+00:24:19,120 --> 00:24:25,440
+‫...may be in your code. You say, for example, we release our code, how can it not be bypassed?‬
+
+220
+00:24:25,440 --> 00:24:32,520
+‫If, for instance, there's a certain level of security, part of the core itself and a...‬
+
+221
+00:24:32,520 --> 00:24:38,600
+‫...program that is high-level, programs that are usually important are not open-sourced.‬
+
+222
+00:24:38,600 --> 00:24:45,120
+‫Like banking portals. They remain in the hands of a few specific people who are the only ones who...‬
+
+223
+00:24:45,120 --> 00:24:51,600
+‫...can modify them. The open-source programs that are usually provided...‬
+
+224
+00:24:51,600 --> 00:24:59,000
+‫...are programs that are used daily by everyone and do not have a specific impact on the database.‬
+
+225
+00:24:59,000 --> 00:25:06,559
+‫For example, I'll say banking portals again. If it becomes open source, if someone can find a little, one percent, a...‬
+
+226
+00:25:06,559 --> 00:25:11,320
+‫...bug in the middle, which they find anyway, although there's no need for this...‬
+
+227
+00:25:11,320 --> 00:25:17,000
+‫...this. They can gain critical access and it becomes very terrible. Not every program should...‬
+
+228
+00:25:17,000 --> 00:25:22,760
+‫...maybe become open source, but there are better open-source programs too.‬
+
+229
+00:25:22,760 --> 00:25:29,919
+‫Did you mean that, for example, it shouldn't have additional access...‬
+
+230
+00:25:29,919 --> 00:25:35,200
+‫...for users, so to speak, something like that? Programs that have functional access, or if...‬
+
+231
+00:25:35,200 --> 00:25:42,399
+‫...you open-source it, you shouldn't open-source that part. You should provide a level of openness,‬
+
+232
+00:25:42,399 --> 00:25:49,640
+‫...or you shouldn't open-source it at all, if it's very, very important, yes. But well, for example, even if...‬
+
+233
+00:25:49,640 --> 00:25:55,840
+‫...a software does this and now uses some other user information,‬
+
+234
+00:25:55,840 --> 00:26:04,000
+‫...well, it can just not open-source that part, right? Yes.‬
+
+235
+00:26:04,000 --> 00:26:11,720
+‫Even Android applications, when they compile them, they add an obfuscation layer...‬
+
+236
+00:26:11,720 --> 00:26:20,760
+‫...so that it cannot be bypassed, they cannot reverse engineer it and read the code and bypass it, right? And this...‬
+
+237
+00:26:20,760 --> 00:26:26,679
+‫...and this you said, there's an explanation that the kernel isn't an explanation, it's a layer, a...‬
+
+238
+00:26:26,679 --> 00:26:35,159
+‫...compatibility layer that comes and we can say it's a program through which Windows programs...‬
+
+239
+00:26:35,159 --> 00:26:39,279
+‫...can be run on Linux. Ah, thanks.‬
+
+240
+00:26:39,279 --> 00:26:44,279
+‫It was a misunderstanding on my part then.‬
+
+241
+00:26:44,600 --> 00:26:53,300
+‫It's finished. [Applause]‬
+

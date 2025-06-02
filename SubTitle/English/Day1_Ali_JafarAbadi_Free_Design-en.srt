@@ -1,0 +1,1252 @@
+1
+00:00:00,000 --> 00:00:02,000
+‫این زیرنویس با ابزار مترجم سگارو ترجمه شده‬
+‫برای ترجمه اتوماتیک زیرنویس از وبسایت iSega.ro دیدن کنید‬
+
+2
+00:00:00,000 --> 00:00:02,000
+‫This subtitle has been translated using the Segaro translator tool.
+For automatic subtitle translation, visit the iSega.ro website.‬
+
+3
+00:00:02,450 --> 00:00:10,519
+‫[Music]
+Hi everyone, I hope you're doing well.‬
+
+4
+00:00:10,519 --> 00:00:17,920
+‫I'm very happy to have come to Shiraz and be here with
+you. My name is Ali Ja'farabadi, the tagline that‬
+
+5
+00:00:17,920 --> 00:00:26,240
+‫I'm known by is "Tech Lead" and smartification consultant.
+More than being active in the private sector,‬
+
+6
+00:00:26,240 --> 00:00:33,840
+‫I have worked in government sectors, and we also have a small startup ourselves.‬
+
+7
+00:00:33,840 --> 00:00:40,800
+‫Which I won't name so it's not an advertisement. I was the project
+manager for the smartification of the Heart Center‬
+
+8
+00:00:40,800 --> 00:00:49,559
+‫in Tehran, as well as the Stock Exchange
+Organization. I'm here today to talk a little bit about‬
+
+9
+00:00:49,559 --> 00:00:56,600
+‫freedom in design. I feel that there's truly a lack of it.‬
+
+10
+00:00:56,600 --> 00:01:02,760
+‫When the kids were introducing themselves, the number of front-end workers, application‬
+
+11
+00:01:02,760 --> 00:01:09,640
+‫developers was significant. My request is that
+back-end developers also pay attention to this issue.‬
+
+12
+00:01:09,640 --> 00:01:14,400
+‫You can find me online through these two links and I think‬
+
+13
+00:01:14,400 --> 00:01:20,159
+‫I am only active on these two social networks.‬
+
+14
+00:01:20,360 --> 00:01:26,040
+‫I am. This whole presentation is a brief one, I won't take up too much of your time. The whole presentation is about one‬
+
+15
+00:01:26,040 --> 00:01:32,040
+‫question. Which is limitation or‬
+
+16
+00:01:32,040 --> 00:01:41,119
+‫creativity? Let two or three people answer randomly. Who wants to answer?‬
+
+17
+00:01:41,119 --> 00:01:50,280
+‫What was the question? Limitation or creativity? It's very simple, in my opinion, it depends.‬
+
+18
+00:01:50,280 --> 00:01:58,000
+‫Explanations. Some people like limitation. For example, for initial users, it's okay, it's an operating system.‬
+
+19
+00:01:58,000 --> 00:02:04,479
+‫It has some software, they can't apply all of it in its system... let me talk. Some people in this group probably‬
+
+20
+00:02:04,479 --> 00:02:11,520
+‫prefer creativity. Well, you see, the concept‬
+
+21
+00:02:11,520 --> 00:02:15,400
+‫is usually in contrast with‬
+
+22
+00:02:16,080 --> 00:02:23,280
+‫each other. Well, in the world of [art?], especially now in the world of [unclear], we have no limitations. You can use‬
+
+23
+00:02:23,280 --> 00:02:28,959
+‫any material you want, bring anything you want, but‬
+
+24
+00:02:28,959 --> 00:02:35,400
+‫for example, the world of IT and all that, we have some limitations anyway, now because of‬
+
+25
+00:02:35,400 --> 00:02:43,400
+‫hardware, the technology we work with, there are limitations, but well, it can be much less, and‬
+
+26
+00:02:43,400 --> 00:02:50,040
+‫other friends, your opinion is very...‬
+
+27
+00:02:50,040 --> 00:02:55,519
+‫It can't have a pure definition, why,
+especially in‬
+
+28
+00:02:55,519 --> 00:03:01,760
+‫design, what we now call
+user experience, is something‬
+
+29
+00:03:01,760 --> 00:03:07,760
+‫that is defined by large companies, and
+if, for example, it's not within that range, that‬
+
+30
+00:03:07,760 --> 00:03:16,120
+‫creativity that someone uses is not within that range,
+it won't be welcomed, and the user‬
+
+31
+00:03:16,120 --> 00:03:25,959
+‫user doesn't know what to do with the software, for example.
+Thanks, and in my opinion, it can be like a man, like‬
+
+32
+00:03:25,959 --> 00:03:30,720
+‫like physics which came into being because of this, because‬
+
+33
+00:03:30,720 --> 00:03:38,760
+‫it was created because
+America imposed restrictions on China in‬
+
+34
+00:03:38,760 --> 00:03:47,200
+‫the export of chips and access to information
+for making such chips which are used for artificial intelligence‬
+
+35
+00:03:47,200 --> 00:03:52,200
+‫are useful, and this caused the Chinese‬
+
+36
+00:03:52,200 --> 00:03:59,319
+‫to start building AI that costs
+much, much less than American AI,‬
+
+37
+00:03:59,319 --> 00:04:05,040
+‫and this caused them to show much
+more creativity in this process.‬
+
+38
+00:04:05,040 --> 00:04:13,239
+‫Thank you. The sum of the points we
+heard is valuable and correct, but‬
+
+39
+00:04:13,239 --> 00:04:21,720
+‫the most important thing is that we are free,
+we choose ourselves, whether to be limited or creative.‬
+
+40
+00:04:21,720 --> 00:04:27,919
+‫In my opinion, the limitation you brought up regarding this creativity is mostly a cliché concept. This limitation that‬
+
+41
+00:04:27,919 --> 00:04:33,280
+‫you set is higher than many people's ceiling. For example, as friends said, if someone thinks that‬
+
+42
+00:04:33,280 --> 00:04:39,199
+‫a software, a platform has really limited
+them and they really have the power, they themselves‬
+
+43
+00:04:39,199 --> 00:04:44,880
+‫can go for creativity. It's not necessary
+for the policy to determine whether you become limited or not.‬
+
+44
+00:04:44,880 --> 00:04:50,680
+‫But in my opinion, the thing is that
+the majority of this limitation, which has a negative vibe,‬
+
+45
+00:04:50,680 --> 00:04:55,960
+‫is higher than the ceiling of many users of that platform and that
+collection. There is no need at all for‬
+
+46
+00:04:55,960 --> 00:05:04,160
+‫it to become creativity in the first layer. My opinion
+is that regardless of the concept of limitation and creativity,‬
+
+47
+00:05:04,160 --> 00:05:10,320
+‫which everyone can have a different definition of,
+we should pay attention to the fact that the user is free‬
+
+48
+00:05:10,320 --> 00:05:17,080
+‫to choose for themselves whether to be limited or creative.
+We might be able to line up a few more words here,‬
+
+49
+00:05:17,080 --> 00:05:24,400
+‫but the user's freedom in choosing
+limitation or creativity is in their own hands. So we, as‬
+
+50
+00:05:24,400 --> 00:05:31,680
+‫the user community that defines
+ourselves, are free, and our slogan is that one of‬
+
+51
+00:05:31,680 --> 00:05:39,360
+‫our achievements is creativity. We must have this respect
+for the freedom of users who like‬
+
+52
+00:05:39,360 --> 00:05:45,199
+‫are using macOS, who like to use non-free tools. This‬
+
+53
+00:05:45,199 --> 00:05:52,919
+‫is their choice, so what is our mission? To make people understand...‬
+
+54
+00:05:52,919 --> 00:06:00,400
+‫that free products are the best products. With free products, we can achieve our goals easier, better, and with higher quality...‬
+
+55
+00:06:00,400 --> 00:06:06,599
+‫We can reach our goals more. Let's keep this question in mind, the discussion...‬
+
+56
+00:06:06,599 --> 00:06:12,120
+‫of the whole presentation is about this question. Let's remember...‬
+
+57
+00:06:12,120 --> 00:06:18,599
+‫Saber. I think you should give him a round of applause.‬
+
+58
+00:06:18,660 --> 00:06:24,680
+‫[Applause] I... I know Shiraz by the name Saber.‬
+
+59
+00:06:24,680 --> 00:06:31,240
+‫And maybe many... by Karim Khan Citadel and Vakil Bazaar and these...‬
+
+60
+00:06:31,240 --> 00:06:37,800
+‫things, but I know Shiraz, Fasa, and this entire region by the name Saber.‬
+
+61
+00:06:37,800 --> 00:06:43,759
+‫Before the presentation, we were talking with Abbas, with Mr. Davarpanah. We were saying it doesn't matter if we...‬
+
+62
+00:06:43,759 --> 00:06:49,680
+‫always and everywhere keep raising and glorifying Saber's memory. What matters is how many...‬
+
+63
+00:06:49,680 --> 00:06:56,560
+‫Forks are taken from the Minister font. Now that Saber is gone, is the path he started...‬
+
+64
+00:06:56,560 --> 00:07:05,160
+‫in the field of font design, this is Saber's own words. He said I made what I needed...‬
+
+65
+00:07:05,160 --> 00:07:11,400
+‫myself and then shared it. How much is this continuing? Thank you for your kindness and...‬
+
+66
+00:07:11,400 --> 00:07:19,919
+‫grace. I hope Saber's soul is also happy and a large number of users are using it...‬
+
+67
+00:07:19,919 --> 00:07:25,360
+‫are doing. I also included this so there's one more slide and...‬
+
+68
+00:07:25,360 --> 00:07:33,840
+‫it's not unaffected by today's events. I personally have a special passion for this region and...‬
+
+69
+00:07:33,840 --> 00:07:40,560
+‫felt that since the videos are also going to be published by FSF, it's not bad to include this. We have a...‬
+
+70
+00:07:40,560 --> 00:07:44,160
+‫gulf, and that is the Persian Gulf.‬
+
+71
+00:07:45,479 --> 00:07:52,759
+‫I think these two windows are familiar to you. Which one do you like more? Those who...‬
+
+72
+00:07:52,759 --> 00:07:58,000
+‫like Microsoft Word more, can they raise their hands? In UI/UX, I'm...‬
+
+73
+00:07:58,000 --> 00:08:06,479
+‫just talking about UI/UX, not functionality. Thanks, feel free. I'm the first myself.‬
+
+74
+00:08:06,479 --> 00:08:12,080
+‫Okay, those who like LibreOffice, raise your hands. Thanks, thanks. The rest don't like it at all...‬
+
+75
+00:08:12,080 --> 00:08:18,319
+‫don't? What was that like? Yes, it became somewhat similar...‬
+
+76
+00:08:18,319 --> 00:08:24,039
+‫it did. I want to get to something later. The rest, meaning they don't use either of these products at all...‬
+
+77
+00:08:24,039 --> 00:08:28,199
+‫‫don't? For example, do you use WPS or other things?‬‬
+
+78
+00:08:28,199 --> 00:08:32,560
+‫‫With Notepad and Notepad++, VS Code, and...‬‬
+
+79
+00:08:36,039 --> 00:08:42,479
+‫‫This is one of the weaknesses that free products have: the issue of design and functionality. Libre...‬‬
+
+80
+00:08:42,479 --> 00:08:48,480
+‫‫offers much, much better functionality. The protocols we have in Libre are truly...‬‬
+
+81
+00:08:48,480 --> 00:08:55,040
+‫‫Excellent, truly excellent. But I, whose system is dual-boot, whenever I have office work, I go into...‬‬
+
+82
+00:08:55,040 --> 00:09:00,519
+‫‫Windows, and the rest of my work is here. Now imagine with what difficulty I...‬‬
+
+83
+00:09:00,519 --> 00:09:07,519
+‫‫do documentation work. Because of what? Because this UI seems to be stuck in the same...‬‬
+
+84
+00:09:07,519 --> 00:09:13,399
+‫‫year 2003, stuck in the same year 2010...‬‬
+
+85
+00:09:13,640 --> 00:09:18,839
+‫‫It is. Then the question arises: why should we come and improve its UI?‬‬
+
+86
+00:09:18,839 --> 00:09:30,000
+‫‫Where's the money? Because it's very technical... Yes, yes, yes, it's not for that. I'm comfortable with the technical part...‬‬
+
+87
+00:09:30,000 --> 00:09:35,839
+‫‫Be. Yes, but the technical GUI must be strong, the UX must be strong. This way...‬‬
+
+88
+00:09:35,839 --> 00:09:40,760
+‫‫The person is not comfortable. Do you know why no company goes towards...‬‬
+
+89
+00:09:40,760 --> 00:09:47,160
+‫‫Improving it? I'm talking about Libre. We have free products... not free, we have products that, for example...‬‬
+
+90
+00:09:47,160 --> 00:09:51,600
+‫‫Ubuntu comes up and has a very good UX and UI...‬‬
+
+91
+00:09:51,600 --> 00:09:57,959
+‫‫It has. Don't you know? Look, one issue is the general perception that anything free is gratis.‬‬
+
+92
+00:09:57,959 --> 00:10:04,839
+‫‫This is wrong. Not everything free is gratis. We can put a condition in our license, say...‬‬
+
+93
+00:10:04,839 --> 00:10:10,240
+‫‫It should be copyleft, for example, just as we can put this condition, we can also put other conditions...‬‬
+
+94
+00:10:10,240 --> 00:10:17,440
+‫‫So let's have this rule: freedom is different from price and being free of charge.‬‬
+
+95
+00:10:17,800 --> 00:10:20,200
+‫‫In...‬‬
+
+96
+00:10:20,240 --> 00:10:27,600
+‫‫If we want to discuss freedom in design, we have four laws of freedom that apply to...‬‬
+
+97
+00:10:27,600 --> 00:10:37,480
+‫‫Software is talked about. In design, the space is a bit different. We say what design is...‬‬
+
+98
+00:10:37,480 --> 00:10:41,200
+‫‫Free? Any ideas?‬‬
+
+99
+00:10:43,519 --> 00:10:48,920
+‫‫Can we use free tools for design and say our design is...‬‬
+
+100
+00:10:48,920 --> 00:10:54,279
+‫‫Free design. For example, from Inkscape, for example, from GIMP and...‬‬
+
+101
+00:10:54,279 --> 00:11:01,360
+‫‫And you can freely publish the design we create. These two are...‬‬
+
+102
+00:11:01,360 --> 00:11:06,839
+‫They differ from each other. I think ultimate freedom is when we use tools...‬
+
+103
+00:11:06,839 --> 00:11:12,519
+‫free tools for free productions. What kind of freedom? Anything we can see,‬
+
+104
+00:11:12,519 --> 00:11:17,760
+‫read it, understand it, change it, and...‬
+
+105
+00:11:18,240 --> 00:11:24,160
+‫share what we need and make it available for others to use.‬
+
+106
+00:11:24,160 --> 00:11:30,639
+‫use it ourselves and others can use it too. But why did we come and...‬
+
+107
+00:11:30,639 --> 00:11:36,120
+‫are talking about freedom in design? I am a programmer...‬
+
+108
+00:11:36,120 --> 00:11:46,240
+‫I've been a programmer for almost ten years: QC++, JS, and...‬
+
+109
+00:11:46,240 --> 00:11:53,639
+‫and we presented this topic at Tehran Lug, a bit more detailed. Considering the design...‬
+
+110
+00:11:53,639 --> 00:12:01,680
+‫system, I just came here to Shiraz, and I go to other places too, to say that we should be surprised‬
+
+111
+00:12:01,680 --> 00:12:08,880
+‫by the topic of des... what the user brings to us, the topic of design...‬
+
+112
+00:12:08,880 --> 00:12:16,720
+‫let's not just see freedom in coding our products. Let's not just see freedom in publishing...‬
+
+113
+00:12:16,720 --> 00:12:22,320
+‫our documents, putting types. A musician can produce a free song with a free license‬
+
+114
+00:12:22,320 --> 00:12:30,040
+‫to be used. A designer can create a design system and...‬
+
+115
+00:12:30,040 --> 00:12:36,120
+‫be used. I strongly, strongly, strongly emphasize that we should strive‬
+
+116
+00:12:36,120 --> 00:12:45,680
+‫to use free tools, and the last topic from this set‬
+
+117
+00:12:45,680 --> 00:12:53,040
+‫of slides I want to talk to you about is the topic of designing systems in a project. Usually, there is a manager,‬
+
+118
+00:12:53,040 --> 00:13:01,440
+‫a development team, and a design team. There is a big gap between these three teams‬
+
+119
+00:13:01,440 --> 00:13:08,480
+‫which are usually the common arguments between designers, front-end developers, front-end developers, back-end developers in...‬
+
+120
+00:13:08,480 --> 00:13:12,839
+‫it's more common. If we have a good design system‬
+
+121
+00:13:12,839 --> 00:13:15,040
+‫have,‬
+
+122
+00:13:15,240 --> 00:13:23,839
+‫many problems won't arise, and we can have good software... But when‬
+
+123
+00:13:23,839 --> 00:13:28,320
+‫we are talking about a community, that community must have its own design system‬
+
+124
+00:13:28,320 --> 00:13:34,600
+‫have. Just as you see when you install Gnome, whether on mobile, on a watch,‬
+
+125
+00:13:34,600 --> 00:13:39,360
+‫or on a computer, it is consistent with a design‬
+
+126
+00:13:39,360 --> 00:13:43,160
+‫system and arranges the page for you, shows it.‬
+
+127
+00:13:43,160 --> 00:13:50,320
+‫and provide the designs to you. We are currently lacking something, I'm not saying we don't have it...‬
+
+128
+00:13:50,320 --> 00:13:55,079
+‫We have a design system standard that has worked very well. You can see the...‬
+
+129
+00:13:55,079 --> 00:14:03,199
+‫systems that exist, right-to-left and left-to-right. What I think is missing and needs to be...‬
+
+130
+00:14:03,199 --> 00:14:07,480
+‫addressed is font design, and a design system...‬
+
+131
+00:14:07,480 --> 00:14:13,959
+‫for designing applications. Free applications, if we have our own or contribute...‬
+
+132
+00:14:13,959 --> 00:14:19,160
+‫to free applications that exist in the world, on the design...‬
+
+133
+00:14:19,160 --> 00:14:25,120
+‫systems that are being used in the world...‬
+
+134
+00:14:26,120 --> 00:14:31,480
+‫And here is a... standard that...‬
+
+135
+00:14:31,959 --> 00:14:38,440
+‫...is a very, very, very important topic.‬
+
+136
+00:14:38,440 --> 00:14:45,639
+‫And I think we had one designer in the group, right? Who was it? Was it you? What...‬
+
+137
+00:14:45,639 --> 00:14:52,199
+‫tools do you use? In Figma. You know there are other free tools that...‬
+
+138
+00:14:52,199 --> 00:14:58,160
+‫you can use, but you use Figma? Can I ask why? Because...‬
+
+139
+00:14:58,160 --> 00:15:04,519
+‫it's more in demand in the job market... Figma. Frontend developers can say on what platform...‬
+
+140
+00:15:04,519 --> 00:15:12,480
+‫they get their work analyzed. If anyone uses something other than Figma...‬
+
+141
+00:15:12,639 --> 00:15:16,759
+‫Why is Figma famous? I...‬
+
+142
+00:15:16,759 --> 00:15:22,959
+‫More famous, why? A large community... its community is large. The community it has now is...‬
+
+143
+00:15:22,959 --> 00:15:29,279
+‫any file you want, or even an icon or any page you want, you are connected. We used to have other...‬
+
+144
+00:15:29,279 --> 00:15:34,120
+‫applications before, like Adobe XD, why didn't they...‬
+
+145
+00:15:34,120 --> 00:15:41,920
+‫gain traction? I think... Yes, yes, I know, I know. I want to know even...‬
+
+146
+00:15:41,920 --> 00:15:47,079
+‫among paid ones, why is Figma rising? Why did Adobe...‬
+
+147
+00:15:47,079 --> 00:15:54,519
+‫...Well, personally, the experience I had was years ago... I don't know how many years ago, 20... when I was very interested...‬
+
+148
+00:15:54,519 --> 00:16:01,480
+‫in using open-source software and instead of using that, and I was new to the world of frontend and...‬
+
+149
+00:16:01,480 --> 00:16:06,279
+‫I searched a lot for this, I searched a lot, the only...‬
+
+150
+00:16:06,279 --> 00:16:12,360
+‫alternative was a home one that really had no... it didn't have any proper features at that time...‬
+
+151
+00:16:12,360 --> 00:16:19,800
+‫It hasn't changed now, it didn't have it. I can say because most of my work is...‬
+
+152
+00:16:19,800 --> 00:16:28,160
+‫It has become common for everyone to use the same thing. The point is that...‬
+
+153
+00:16:28,160 --> 00:16:34,319
+‫Adobe XD was there before and offered good features. Movies really, finally from a point...‬
+
+154
+00:16:34,319 --> 00:16:39,680
+‫started, and I think the simplicity...‬
+
+155
+00:16:39,680 --> 00:16:45,000
+‫of design that Figma had and anyone could work with...‬
+
+156
+00:16:45,000 --> 00:16:52,279
+‫The simplicity of design that Figma had and anyone could work with it, is one of the...‬
+
+157
+00:16:52,279 --> 00:16:58,800
+‫KPIs we can discuss and it was definitely the reason for Figma's growth. Something...‬
+
+158
+00:16:58,800 --> 00:17:06,360
+‫that Adobe XD didn't have. Being web-based is one of its important features, which again affects its design...‬
+
+159
+00:17:06,360 --> 00:17:11,520
+‫affects, the point is that...‬
+
+160
+00:17:11,919 --> 00:17:21,000
+‫If we are really talking about free industry, free software, free hardware,‬
+
+161
+00:17:21,000 --> 00:17:27,720
+‫free design, we must shift our role as well.‬
+
+162
+00:17:27,720 --> 00:17:34,200
+‫Our frontend developers should work on UIs, we should have a design system. If someone...‬
+
+163
+00:17:34,200 --> 00:17:40,799
+‫designs, our design system, good internal right-to-left, for example, the two or three that exist, now...‬
+
+164
+00:17:40,799 --> 00:17:47,880
+‫we don't have alternatives and so on anymore. After a while, when their customers increase...‬
+
+165
+00:17:47,880 --> 00:17:54,320
+‫they become a standard in a way, they become dictated in a way.‬
+
+166
+00:17:54,320 --> 00:18:01,440
+‫Commercial goals come behind it. This market diversity can help us a lot and a file...‬
+
+167
+00:18:01,440 --> 00:18:07,960
+‫I had another presentation file that I didn't want to take too much of your time. That's why now it's up to...‬
+
+168
+00:18:07,960 --> 00:18:12,760
+‫Davarpanah. I will suffice with this.‬
+
+169
+00:18:12,760 --> 00:18:22,640
+‫that you take this matter seriously, that we enter the discussion of design and also have contribution towards design...‬
+
+170
+00:18:22,640 --> 00:18:28,080
+‫and I think we should appreciate people like Mr. Davarpanah. Of course, this is part...‬
+
+171
+00:18:28,080 --> 00:18:35,120
+‫of the presentation. I went to Bandar, Mr. Davarpanah was there, I came to Shiraz, Mr. Davarpanah is here, Isfahan...‬
+
+172
+00:18:35,120 --> 00:18:41,600
+‫Mr. Davarpanah was there, and he is everywhere I go. You definitely know that these events are not events...‬
+
+173
+00:18:41,600 --> 00:18:46,520
+‫that just end, and this contribution that he is making for the community...‬
+
+174
+00:18:46,520 --> 00:18:51,600
+‫building in the country is a very, very, very valuable...‬
+
+175
+00:18:51,600 --> 00:19:00,440
+‫activity. I am at your service if there is any question or point to answer...‬
+
+176
+00:19:00,440 --> 00:19:07,280
+‫Let me say something first, firstly I didn't think it would be an attractive presentation, and secondly, no, the difference...‬
+
+177
+00:19:07,280 --> 00:19:13,120
+‫...does. What I want to say about free software,
+what we have a lot of...‬
+
+178
+00:19:13,120 --> 00:19:17,840
+‫What we lack in this program is
+a real artist.‬
+
+179
+00:19:17,840 --> 00:19:29,240
+‫[Music]
+We have very few. I also have this feeling that we need to shake up this...‬
+
+180
+00:19:32,360 --> 00:19:35,360
+‫...system.‬
+
+181
+00:19:37,240 --> 00:19:40,360
+‫Char Sand.‬
+
+182
+00:19:42,440 --> 00:19:49,360
+‫What's happened now is that programmers...
+For example, you go to the log, you go to Shiraz Linux, you come...‬
+
+183
+00:19:49,360 --> 00:19:55,039
+‫...it seems like only programmers are there. It seems like we don't need artists.
+In this community, it seems like, for example, designers...‬
+
+184
+00:19:55,039 --> 00:20:00,000
+‫...we don't need in this community. Then, for example, designers left, designers...‬
+
+185
+00:20:00,000 --> 00:20:07,440
+‫...have other communities. Look, if our goal is freedom, we shouldn't just look at the code...‬
+
+186
+00:20:07,440 --> 00:20:09,679
+‫...see.‬
+
+187
+00:20:09,720 --> 00:20:15,960
+‫No, no, this is what you are saying, I am...‬
+
+188
+00:20:19,559 --> 00:20:26,000
+‫Yeah, I think it has become very cliché.
+I got up from Tehran and came here to...‬
+
+189
+00:20:26,000 --> 00:20:31,280
+‫...say this. I feel a bit like minds are
+stuck in a framework. Everyone thinks they have to be...‬
+
+190
+00:20:31,280 --> 00:20:37,400
+‫...programmers to be in this... It's like someone
+who is a writer cannot be a UX...‬
+
+191
+00:20:37,400 --> 00:20:43,480
+‫...writer or a translator for, say, a free operating
+system. Well, we should bring these people in. We...‬
+
+192
+00:20:43,480 --> 00:20:50,400
+‫...programmers are saturated now. We should
+bring... Go ahead. I have this artist who...‬
+
+193
+00:20:50,400 --> 00:20:55,760
+‫...engage with the community of artists. No artist is willing
+to...‬
+
+194
+00:20:55,760 --> 00:21:04,760
+‫...make their work freely available.
+None of them like the creative work they have done...‬
+
+195
+00:21:04,760 --> 00:21:12,640
+‫...and put a lot of effort into... Now this
+programmer's thinking... is very...‬
+
+196
+00:21:12,640 --> 00:21:20,200
+‫...less, but among those artists, it's a lot. How do you define
+art? A creative work...‬
+
+197
+00:21:20,200 --> 00:21:24,880
+‫Your good name? I don't...
+Ms. Ren.‬
+
+198
+00:21:24,880 --> 00:21:29,880
+‫Ren. A creative work is not necessarily art...‬
+
+199
+00:21:30,000 --> 00:21:36,880
+‫I don't know. I neither confirm nor...
+No, well, what I mean is, for example, a...‬
+
+200
+00:21:36,880 --> 00:21:43,520
+‫...doesn't come and give their work for free. Someone who,
+for example, not for free, but freely makes it available to someone...‬
+
+201
+00:21:43,520 --> 00:21:51,919
+‫...so they can use their idea. Or this
+sculptor... that's not the case. A writer...‬
+
+202
+00:21:51,919 --> 00:21:56,080
+‫‫I agree, I agree in...‬‬
+
+203
+00:21:56,080 --> 00:22:03,360
+‫‫That's exactly the issue, why is this
+mindset not common among artists but more so among programmers?‬‬
+
+204
+00:22:03,360 --> 00:22:06,799
+‫‫More common?‬‬
+
+205
+00:22:08,000 --> 00:22:13,320
+‫‫Yes.
+Dear Ronak, let me get to a point‬‬
+
+206
+00:22:13,320 --> 00:22:19,400
+‫‫I'm saying, programmers know the difference between class and
+instance very well, the difference between class and object very well.‬‬
+
+207
+00:22:19,400 --> 00:22:26,159
+‫‫We consider art the plan of what has been created.‬‬
+
+208
+00:22:26,159 --> 00:22:31,480
+‫‫Let me put it simpler.
+Is the recipe for Ghormeh Sabzi the art of Ghormeh Sabzi or the‬‬
+
+209
+00:22:31,480 --> 00:22:36,799
+‫‫Ghormeh Sabzi that has been cooked? Both. I hope this is well...‬‬
+
+210
+00:22:36,799 --> 00:22:44,279
+‫‫Correct... Both. Both. Which one can
+be free? The recipe, I said, well, everyone knows it.‬‬
+
+211
+00:22:44,279 --> 00:22:51,480
+‫‫Well, the one who executes it is truly now the owner... someone, which one would you like others
+to be free?‬‬
+
+212
+00:22:51,480 --> 00:22:56,520
+‫‫The blueprint or the sculpture? Can the sculpture even be free?‬‬
+
+213
+00:22:56,520 --> 00:23:03,320
+‫‫No, not really. No one is usually willing to own that... the work usually.‬‬
+
+214
+00:23:03,320 --> 00:23:10,960
+‫‫It's very common among artists, and what does he do with it? He likes to, let's say, make it‬‬
+
+215
+00:23:10,960 --> 00:23:15,960
+‫‫worthless? He holds exhibitions and earns income from it,
+and he is free to do this or not.‬‬
+
+216
+00:23:15,960 --> 00:23:23,360
+‫‫He is definitely free to make his art available freely, for example, so that anyone who wants can use it.‬‬
+
+217
+00:23:23,360 --> 00:23:28,400
+‫‫To share the idea that was in his mind and say, for example, this is not mine, I took it from somewhere else.‬‬
+
+218
+00:23:28,400 --> 00:23:35,320
+‫‫You can... Sorry, one thing is that if you speak louder and pause between sentences, it will be much better.‬‬
+
+219
+00:23:35,320 --> 00:23:44,159
+‫‫I have a question. Do you think artists, if they had a source of income for their free work, couldn't do this?‬‬
+
+220
+00:23:45,640 --> 00:23:52,279
+‫‫Well, see, I've always said this.‬‬
+
+221
+00:23:52,279 --> 00:23:57,760
+‫‫I said that from... a lot of opportunities... which, well, within art despite its existence... I always say it too, because an artist‬‬
+
+222
+00:23:57,760 --> 00:24:06,559
+‫‫needs money. Needs money to buy canvases, to employ people, to buy their work tools.‬‬
+
+223
+00:24:06,559 --> 00:24:12,480
+‫‫And if this currency is easily available from this source of income, well, why not? Many of the concerns‬‬
+
+224
+00:24:12,480 --> 00:24:19,080
+‫‫of many artists are precisely the lack of financial resources. That's it. Now, my first point was that being free is different from being free of charge.‬‬
+
+225
+00:24:19,080 --> 00:24:26,240
+‫‫I am now less...‬‬
+
+226
+00:24:26,240 --> 00:24:31,200
+‫‫‬‬
+
+227
+00:24:31,200 --> 00:24:38,440
+‫‫Until a few months ago, I was developing free software
+and getting paid for it.‬‬
+
+228
+00:24:38,440 --> 00:24:44,880
+‫‫Yeah, sorry, I misused some terms, I realized it myself. Instead of...‬‬
+
+229
+00:24:44,880 --> 00:24:52,960
+‫‫...each other, but my point is that the idea, now, the idea of the work that is done...‬‬
+
+230
+00:24:52,960 --> 00:25:01,799
+‫‫...is often exclusive to the artist. Yes, for example, it could be the formulation of a material...‬‬
+
+231
+00:25:01,799 --> 00:25:08,000
+‫‫...that they used to create a design, calculations of the angles that they used exactly for this...‬‬
+
+232
+00:25:08,000 --> 00:25:16,240
+‫‫...sculpture. And this is a very important point that I hope we will get to by the end of today's presentation.‬‬
+
+233
+00:25:16,240 --> 00:25:24,440
+‫‫It's that as someone with a hammer, I see all challenges as nails, and I want to solve this...‬‬
+
+234
+00:25:24,440 --> 00:25:30,640
+‫‫...challenge with it. As someone whose work is data, everything they tell me, I either take it towards ASP or...‬‬
+
+235
+00:25:30,640 --> 00:25:38,559
+‫‫...Laser or WPF or something like that. Well, this point is very important, that if we are talking...‬‬
+
+236
+00:25:38,559 --> 00:25:44,039
+‫‫...about design, we ARE talking about design! I, who was a backend developer...‬‬
+
+237
+00:25:44,039 --> 00:25:49,240
+‫‫...then became a frontend developer, then became a system engineer.‬‬
+
+238
+00:25:49,240 --> 00:25:55,840
+‫‫Now I saw design as something different in each phase. Somewhere I saw database design, somewhere...‬‬
+
+239
+00:25:55,840 --> 00:26:02,520
+‫‫...I saw API design, somewhere I saw system design, for example. Well, or...‬‬
+
+240
+00:26:02,520 --> 00:26:10,679
+‫‫...someone who is a frontend worker, maybe designing a, I don't know, a landing page. Someone who works with hard...‬‬
+
+241
+00:26:10,679 --> 00:26:16,120
+‫‫...ware, designing a PCB. I want to...‬‬
+
+242
+00:26:16,120 --> 00:26:23,279
+‫‫...get out of this space. If we are talking about freedom, if we want...‬‬
+
+243
+00:26:23,279 --> 00:26:27,960
+‫‫...free software to increase, the culture of freedom to spread...‬‬
+
+244
+00:26:27,960 --> 00:26:34,559
+‫‫...please, let's have freedom in all aspects, in all aspects of...‬‬
+
+245
+00:26:34,559 --> 00:26:42,480
+‫‫...life. If we are talking about design, if we are talking about implementation, if we are talking about testing and...‬‬
+
+246
+00:26:43,360 --> 00:26:49,120
+‫‫...something else that we lack a lot in the discussion of free culture, which is a subset of free software...‬‬
+
+247
+00:26:49,120 --> 00:26:57,120
+‫‫...is the discussion of economy, how a free software can... Yes, I, in...‬‬
+
+248
+00:26:57,120 --> 00:27:05,880
+‫‫...'96 SFD, in '95 Jadi had a presentation titled "Free Economy"...‬‬
+
+249
+00:27:05,880 --> 00:27:12,720
+‫‫...Jadi also has another presentation called "Society", I think it was SFD '94. Those...‬‬
+
+250
+00:27:12,720 --> 00:27:16,360
+‫‫...years I was mostly giving programming presentations, it was Q and such...‬‬
+
+251
+00:27:16,360 --> 00:27:23,440
+‫‫...things. I recommend you watch this. Mobin Shatarian also has a presentation again at SFD '95...‬‬
+
+252
+00:27:23,440 --> 00:27:30,039
+‫...under the name of low-ranking employee. He asks what a low-ranking employee is? Someone who joins an organization...‬
+
+253
+00:27:30,039 --> 00:27:36,360
+‫is very motivated, works very hard, and the organization constantly gives them responsibility.‬
+
+254
+00:27:36,360 --> 00:27:42,720
+‫It reaches a point where they are unfair to themselves and to the organization. And Mobin continues...‬
+
+255
+00:27:42,720 --> 00:27:48,320
+‫to talk about how software freedom, the existence of something like WordPress, helps...‬
+
+256
+00:27:48,320 --> 00:27:52,679
+‫us not to have alienated employees, and how this...‬
+
+257
+00:27:52,679 --> 00:27:58,880
+‫culture can be eradicated.
+There was a question at the end of this presentation that I wanted...‬
+
+258
+00:27:58,880 --> 00:28:04,640
+‫to ask you: How do you translate quality in a product?‬
+
+259
+00:28:04,640 --> 00:28:10,360
+‫What is quality? When do we say this is a product with...‬
+
+260
+00:28:10,360 --> 00:28:19,919
+‫award-winning quality? Its products lead to customer satisfaction... ultimately customer satisfaction?‬
+
+261
+00:28:19,919 --> 00:28:30,120
+‫Yes. And that it can be used in the long run and always works correctly... well...‬
+
+262
+00:28:30,120 --> 00:28:38,320
+‫its performance in different areas for people... what should it be? For example, you're now mentioning different areas...‬
+
+263
+00:28:38,320 --> 00:28:44,200
+‫You're giving examples. For a software to come out that is useful for all people who are active in different areas...‬
+
+264
+00:28:44,200 --> 00:28:51,440
+‫different areas here.‬
+
+265
+00:28:51,440 --> 00:28:58,919
+‫I think quality is multi-dimensional. A software that... why do we say this is the best...‬
+
+266
+00:28:58,919 --> 00:29:07,600
+‫software? Meaning it has the best... its speed is good, it uses color psychology correctly...‬
+
+267
+00:29:07,600 --> 00:29:14,399
+‫and... these things. But what is ultimately important in everything?‬
+
+268
+00:29:14,399 --> 00:29:17,760
+‫What is important?‬
+
+269
+00:29:17,760 --> 00:29:26,279
+‫The quality of a product must solve the problem it targets in the best possible way. And that is its quality.‬
+
+270
+00:29:26,279 --> 00:29:33,279
+‫You put it very attractively. Right here... its best possible way, what's its KPI? By what ruler do we measure the best possible...‬
+
+271
+00:29:33,279 --> 00:29:42,240
+‫possible way? User experience. Thanks. Everything and everything and everything in design is related to...‬
+
+272
+00:29:42,240 --> 00:29:47,559
+‫experience engineering. Experience Engineer. We have CX, we have UX...‬
+
+273
+00:29:47,559 --> 00:29:56,559
+‫We have BX, I don't know, we have DX. Ultimately, it's the experience that the user is...‬
+
+274
+00:29:56,559 --> 00:30:02,600
+‫the user is aiming for. This point is very... As a developer, I'm more comfortable with CI/N...‬
+
+275
+00:30:02,600 --> 00:30:11,480
+‫I'm more comfortable. Someone else isn't, CI is easier. We also saw a picture of him here, let's remember...‬
+
+276
+00:30:11,480 --> 00:30:18,919
+‫let's remember him. In the discussion of design systems, these four qualities are very important: focus and problem-solving, certainty...‬
+
+277
+00:30:18,919 --> 00:30:24,399
+‫have. We didn't see anything strange from you once.
+It should have good speed.‬
+
+278
+00:30:24,399 --> 00:30:32,519
+‫Speed doesn't get stuck again, speed
+in development, implementation,
+and testing, everything should be integrated.‬
+
+279
+00:30:32,519 --> 00:30:40,080
+‫Okay, what does integrated mean?
+Look, if I built a prototype and used a...‬
+
+280
+00:30:40,080 --> 00:30:46,480
+‫design system and later decided
+to change a part of it, well...‬
+
+281
+00:30:46,480 --> 00:30:52,039
+‫all the elements that followed that pattern
+must change, it should be integrated.‬
+
+282
+00:30:52,039 --> 00:31:00,320
+‫Okay, piecewise different islands...
+This is the same issue of the teams we had...‬
+
+283
+00:31:00,320 --> 00:31:08,120
+‫Mr. Asadollahi is also a very interesting
+person. He also dedicated his life to this
+and is the creator...‬
+
+284
+00:31:08,120 --> 00:31:19,000
+‫He was the designer of these three designs,
+and since their picture was there, I said
+a black (part) of it too... it didn't have a complete design.‬
+
+285
+00:31:19,000 --> 00:31:24,519
+‫He didn't put the full design
+with its stars.‬
+
+286
+00:31:24,519 --> 00:31:30,519
+‫Now, the design he made was this.
+Now, the design that is currently there, we don't quite accept...‬
+
+287
+00:31:30,519 --> 00:31:37,559
+‫don't have, but it's correct.
+It is there after all, what...‬
+
+288
+00:31:37,679 --> 00:31:45,120
+‫I say guys, thank you for giving me your time.
+Thanks. The fact that you are here...‬
+
+289
+00:31:45,120 --> 00:31:51,840
+‫we have, I think is one of the most important
+and prominent contributions to the community. Just...‬
+
+290
+00:31:51,840 --> 00:31:58,679
+‫that is here, the fact that they came from
+Tehran, from Fesad...‬
+
+291
+00:31:58,679 --> 00:32:03,600
+‫Bandar, I think is one of the most prominent
+contributions that you can have...‬
+
+292
+00:32:03,600 --> 00:32:11,080
+‫be. My time I think is long over and if
+there is a question I am at your service,
+otherwise thank...‬
+
+293
+00:32:11,080 --> 00:32:13,559
+‫you.‬
+
+294
+00:32:16,130 --> 00:32:22,190
+‫[Applause]‬
+

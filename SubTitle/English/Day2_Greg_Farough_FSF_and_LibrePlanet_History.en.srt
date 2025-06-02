@@ -1,0 +1,2369 @@
+1
+00:00:07,802 --> 00:00:14,560
+[Music] so hi everybody I'm Greg Ferrell I'm the 
+campaigns manager of the free software foundation
+
+2
+00:00:14,560 --> 00:00:20,400
+Um thanks for the opportunity for uh letting me 
+introduce the free software foundation introduce
+
+3
+00:00:20,400 --> 00:00:25,760
+software itself If you're not uh too familiar 
+with free software of course I am sitting here
+
+4
+00:00:25,760 --> 00:00:31,920
+in the United States This is not live Um but I 
+am recording it It is May 7th I understand it
+
+5
+00:00:31,920 --> 00:00:39,280
+will be broadcast uh May 9th Um so thanks again 
+for the opportunity Uh basically in this talk I'm
+
+6
+00:00:39,280 --> 00:00:44,720
+just going to give a general overview of the free 
+software foundation the work of the free software
+
+7
+00:00:44,720 --> 00:00:52,640
+foundation and touching on uh the kind of broader 
+free software community in general how people can
+
+8
+00:00:52,640 --> 00:00:57,840
+get involved in the free software community 
+and advocate for free software effectively
+
+9
+00:00:57,840 --> 00:01:05,920
+um like we do on the FSF campaigns team Um that's 
+going to start with a kind of general overview of
+
+10
+00:01:05,920 --> 00:01:12,320
+uh what free software is So as an FSF speaker 
+I'm not literally obligated to go through the
+
+11
+00:01:12,320 --> 00:01:18,560
+free software definition but I kind of include it 
+in every talk Um just because as I'm sure all the
+
+12
+00:01:18,560 --> 00:01:25,440
+free software supporters in the room right now 
+know uh it's it's a topic that's like not always
+
+13
+00:01:25,440 --> 00:01:30,640
+uh immediately understood by people You know they 
+may have heard the term quote unquote open source
+
+14
+00:01:30,640 --> 00:01:36,960
+or quote unquote Linux something like that Um 
+but in the FSF campaign team's language we're
+
+15
+00:01:36,960 --> 00:01:43,920
+always prioritizing freedom uh and the ethical 
+uh imperative that software be free So I will
+
+16
+00:01:43,920 --> 00:01:49,600
+be going through a little bit of that and then 
+a general overview of what I do all day as the
+
+17
+00:01:49,600 --> 00:01:57,120
+campaigns manager of the FSF and uh yeah just how 
+you can improve your free software advocacy get
+
+18
+00:01:57,120 --> 00:02:05,440
+more involved in free software yourself so that 
+we can further the movement Uh so here we go Um
+
+19
+00:02:05,440 --> 00:02:09,200
+so you may have heard the free soft of the free 
+software foundation you may have heard of canoe
+
+20
+00:02:09,200 --> 00:02:16,160
+but you may not know exactly what we do Um and 
+if you go to fsf.org you will see in big bold
+
+21
+00:02:16,160 --> 00:02:20,160
+text that the free software foundation is 
+a nonprofit with the worldwide mission to
+
+22
+00:02:20,160 --> 00:02:26,960
+promote degrees of freedom That is uh one way of 
+putting it The you know more succinct and less
+
+23
+00:02:26,960 --> 00:02:32,640
+um you know standard nonprofit language way of 
+putting it might be the FSF believes that every
+
+24
+00:02:32,640 --> 00:02:38,800
+single person on every single computer everywhere 
+should be using free software all the time
+
+25
+00:02:38,800 --> 00:02:43,920
+They should never be in a situation where they are 
+forced to use non-free software commonly called
+
+26
+00:02:43,920 --> 00:02:50,000
+proprietary software because that is an insult 
+to their freedom Uh it is uh an unfair power
+
+27
+00:02:50,000 --> 00:02:55,600
+dynamic and it gives the developer uh a power 
+over the user that they shouldn't have And of
+
+28
+00:02:55,600 --> 00:03:02,720
+course this is more um evident in you know large 
+tech corporations like Apple or Microsoft but it's
+
+29
+00:03:02,720 --> 00:03:09,200
+a power dynamic that still exists with you know 
+smaller uh uh non-free software developers whether
+
+30
+00:03:09,200 --> 00:03:16,240
+that's like a game company or something like that 
+Um so what the FSF does uh in all of its work is
+
+31
+00:03:16,240 --> 00:03:23,360
+to just educate the public about software freedom 
+uh we founded to uh be the organizational home of
+
+32
+00:03:23,360 --> 00:03:29,440
+the canoe operating system which I'll touch on in 
+a minute Um and so we're constantly talking about
+
+33
+00:03:29,440 --> 00:03:35,120
+free software is the only thing that we talk about 
+Uh but it's it's it's good in that way because you
+
+34
+00:03:35,120 --> 00:03:42,080
+know as more as life becomes digital more and more 
+uh free software becomes increasingly relevant So
+
+35
+00:03:42,080 --> 00:03:47,120
+it's you know never a dull moment when it comes 
+to advocating for free software Um and something
+
+36
+00:03:47,120 --> 00:03:54,960
+that we do as part of that is we do our entire 
+work from top down completely with free software
+
+37
+00:03:54,960 --> 00:04:02,160
+running on free bioses on machines that are often 
+very old uh but they are the state-of-the-art
+
+38
+00:04:02,160 --> 00:04:07,600
+when it comes to freedom and as we are the free 
+software foundation are one of our like main goals
+
+39
+00:04:07,600 --> 00:04:14,080
+and we don't state it maybe as often as we should 
+is that you know we want to show people that it's
+
+40
+00:04:14,080 --> 00:04:20,560
+possible to run a reasonably sized organization 
+using entirely free software with not using any
+
+41
+00:04:20,560 --> 00:04:27,120
+non-free software at all so that's that's one 
+of the thing that we do um so the FSF is kind
+
+42
+00:04:27,120 --> 00:04:32,000
+of broadly split into a few different teams Uh I'm 
+the campaigns manager of course There's also the
+
+43
+00:04:32,000 --> 00:04:37,040
+licensing team and the tech team There's a kind 
+of secret other team called the operations team
+
+44
+00:04:37,040 --> 00:04:43,600
+which handles the mail and stuff like that Um but 
+the FSF licensing team is the steward of the canoe
+
+45
+00:04:43,600 --> 00:04:49,760
+general public license the GPL which is the most 
+popular uh copy left license in use today Copy
+
+46
+00:04:49,760 --> 00:04:56,240
+left of course means that uh if you get a program 
+that is under a copy left license you are legally
+
+47
+00:04:56,240 --> 00:05:03,120
+obligated to give any user downstream any user you 
+know who b who may benefit from your changes the
+
+48
+00:05:03,120 --> 00:05:09,120
+freedom to uh do the same things that you did 
+when you received the program Um and we defend
+
+49
+00:05:09,120 --> 00:05:15,840
+copyright on the GNU operating system So GNU is 
+a uh is an operating system It's a collection of
+
+50
+00:05:15,840 --> 00:05:23,920
+many many many different packages uh all of those 
+packages are uh their copyright is held by the FSF
+
+51
+00:05:23,920 --> 00:05:30,480
+so that you know if we're ever in a position to 
+where we need to defend um the the GPL you know
+
+52
+00:05:30,480 --> 00:05:36,880
+if if a uh if the downstream developer of 
+a program should be releasing uh the source
+
+53
+00:05:36,880 --> 00:05:42,880
+code because a pro a canoe program is licensed 
+under the GPL but they're choosing not to do that
+
+54
+00:05:42,880 --> 00:05:47,280
+uh then that's where we would become involved 
+and you know hopefully resolve it amicably but
+
+55
+00:05:47,280 --> 00:05:53,040
+may end up going to court or what have you Can 
+you maintain or something and I could not do it
+
+56
+00:05:53,040 --> 00:05:58,320
+because I had I got I got together a list of like 
+500 people and I realized like oh this is too much
+
+57
+00:05:58,320 --> 00:06:02,800
+for one person or even the threeperson campaigns 
+team We have to figure out something different
+
+58
+00:06:02,800 --> 00:06:07,680
+And of course there's my favorite GNU uh project 
+my favorite free software program generally GNU
+
+59
+00:06:07,680 --> 00:06:15,920
+AAX which is but I wrote this presentation in So 
+uh it's okay if he is a guy Uh but I I can make
+
+60
+00:06:15,920 --> 00:06:22,000
+um and like I mentioned before the EPF considers 
+proprietary software to be a social injustice Full
+
+61
+00:06:22,000 --> 00:06:27,360
+stop Right Um you should never force someone 
+to use proprietary software You should never
+
+62
+00:06:27,360 --> 00:06:34,240
+be forced to use proprietary software And uh 
+something that often gets miscommunicated around
+
+63
+00:06:34,240 --> 00:06:41,360
+this is this idea that like if I am you know 
+say that I'm an average free software person
+
+64
+00:06:41,360 --> 00:06:46,800
+and I'm using a GNU Linux operating system uh 
+but it's not fully free you know I may be using
+
+65
+00:06:46,800 --> 00:06:52,960
+the non-free firmware that comes with the Linux 
+kernel or something like this There's often this
+
+66
+00:06:52,960 --> 00:06:58,000
+like strange feeling of guilt right like I I I 
+know that I should be using free software fully
+
+67
+00:06:58,000 --> 00:07:03,600
+free software but I can't and I feel bad about 
+that Well you shouldn't feel bad about that right
+
+68
+00:07:03,600 --> 00:07:09,600
+like you're you're the victim in that scenario Um 
+you you know it's it's important to be using the
+
+69
+00:07:09,600 --> 00:07:14,560
+free software that you can at all times you know 
+because it's the best for your freedom But if you
+
+70
+00:07:14,560 --> 00:07:19,040
+can't you know that's not something that you're 
+doing wrong It's something wrong that's being done
+
+71
+00:07:19,040 --> 00:07:26,080
+to you Uh and that's something that the FSF is 
+trying to kind of uh campaign more around lately
+
+72
+00:07:26,080 --> 00:07:32,480
+And on that note you know the licensing team that 
+stewards uh the GPL is also in charge of the FSF's
+
+73
+00:07:32,480 --> 00:07:38,400
+respect your freedom initiative Uh that's way for 
+manufacturers to certify that the hardware that
+
+74
+00:07:38,400 --> 00:07:44,960
+you have uh runs fully free software So basically 
+they submit devices to the stuff the licensing
+
+75
+00:07:44,960 --> 00:07:51,680
+team very uh intently studies those devices to 
+make sure that they are fully free software that
+
+76
+00:07:51,680 --> 00:07:55,840
+all of the software running on them is fully 
+free and that they're compatible with fully
+
+77
+00:07:55,840 --> 00:08:02,560
+free software Um so some examples of this are of 
+course the refurbished laptops that the FSF uses
+
+78
+00:08:02,560 --> 00:08:08,800
+uh themselves but there are also you know um 
+larger more expensive computers like those uh
+
+79
+00:08:08,800 --> 00:08:14,960
+like the Talos 2 a lot of things running the power 
+9 CPU architecture if those words mean anything to
+
+80
+00:08:14,960 --> 00:08:20,720
+you Um and places where you would least expect 
+but we're the first to admit that there is
+
+81
+00:08:20,720 --> 00:08:30,800
+uh far less fully free uh software compatible 
+hardware than there ought to be right like the FSF
+
+82
+00:08:30,800 --> 00:08:35,680
+wants a world where you can go down to the local 
+store and the computer that you purchased is just
+
+83
+00:08:35,680 --> 00:08:41,040
+immediately configured with fully free software 
+all of the device drivers in it are compatible
+
+84
+00:08:41,040 --> 00:08:48,640
+with fully free software That's not a world that 
+we are uh anywhere near getting to but these is
+
+85
+00:08:48,640 --> 00:08:56,240
+going to continue to exist for as long as it will 
+take to get there I'm 100% confident of that Um
+
+86
+00:08:56,240 --> 00:09:02,320
+but part of what the campaigns team does you know 
+it's it's it's it's kind of strange right because
+
+87
+00:09:02,320 --> 00:09:09,440
+we are this threeperson team The FSIF is 10 
+staffers uh in total but the campaigns team is is
+
+88
+00:09:09,440 --> 00:09:16,160
+three people of that of which I'm one of them And 
+we are up against literally billions of dollars
+
+89
+00:09:16,160 --> 00:09:24,400
+in marketing from proprietary software companies 
+right uh like Microsoft like Apple Google X you
+
+90
+00:09:24,400 --> 00:09:31,120
+know whatever it is Uh that's a lot of that's a 
+lot of like advertising money but it's against
+
+91
+00:09:31,120 --> 00:09:36,960
+uh us or against you know not only us but every 
+other free software uh person campaigning for
+
+92
+00:09:36,960 --> 00:09:41,760
+free software and so it's important that we 
+you know like solidify our principles as much
+
+93
+00:09:41,760 --> 00:09:47,680
+as possible and that we like I mentioned before be 
+talking about free software all the time you know
+
+94
+00:09:47,680 --> 00:09:53,840
+essentially um where wherever we can because 
+somehow you know everything becomes a free
+
+95
+00:09:53,840 --> 00:10:01,200
+software issue at some deployed uh just by virtue 
+of how much technology is is in the world today Um
+
+96
+00:10:01,200 --> 00:10:07,040
+but something else that we do is you know the FSF 
+uh campaigns team is the main point of connection
+
+97
+00:10:07,040 --> 00:10:12,560
+with the global free software community So if you 
+send a message to the episte typically an email
+
+98
+00:10:12,560 --> 00:10:19,440
+right um the campaign team will probably be the 
+people who are answering you unless it's a kind of
+
+99
+00:10:19,440 --> 00:10:25,360
+uh you know financial thing Um and so you know 
+part of that part of what I do especially is
+
+100
+00:10:25,360 --> 00:10:32,320
+just constantly keeping up in developments in 
+proprietary software more often than free software
+
+101
+00:10:32,320 --> 00:10:39,040
+right because there's always something about to 
+happen or happening that is you know something
+
+102
+00:10:39,040 --> 00:10:44,720
+that the Avat needs to talk about And that's a lot 
+of what I do Of course we write articles we share
+
+103
+00:10:44,720 --> 00:10:51,680
+software freedom uh however we can with whoever 
+we can Um and that's you know the campaign team
+
+104
+00:10:51,680 --> 00:10:58,480
+work in a nutshell Touching back on this feeling 
+of guilt that I just mentioned uh something that
+
+105
+00:10:58,480 --> 00:11:04,640
+these is working toward in particular is this uh 
+campaign called the freedom ladder which we've
+
+106
+00:11:04,640 --> 00:11:10,960
+been developing for some time now Um and it's 
+it's it's important to highlight that you know
+
+107
+00:11:10,960 --> 00:11:19,280
+anytime any single time in your life when you say 
+no to a non-free program So when you know if if
+
+108
+00:11:19,280 --> 00:11:26,000
+theoretically if I were asked to give this call 
+on Zoom and I said no that would be a win for the
+
+109
+00:11:26,000 --> 00:11:31,200
+free software movement right because I refuse to 
+free soft uh to use non-free software and I told
+
+110
+00:11:31,200 --> 00:11:36,960
+someone about it you know they know now that I am 
+that person who will annoy them because I refuse
+
+111
+00:11:36,960 --> 00:11:43,760
+to use proprietary software Every time that you do 
+that is a net win for the free software movement
+
+112
+00:11:43,760 --> 00:11:50,080
+That's something that the freedom ladder is really 
+trying to highlight right um it's in a nutshell
+
+113
+00:11:50,080 --> 00:11:57,040
+what we envision it to be is a way that people 
+can say like okay I am on an Android phone you
+
+114
+00:11:57,040 --> 00:12:03,120
+know maybe I use a custom distribution of Android 
+like Lineage OS or something like that but I want
+
+115
+00:12:03,120 --> 00:12:10,480
+to use more free apps or I I'm on iOS and I want 
+to use more free apps like what do I do know the
+
+116
+00:12:10,480 --> 00:12:16,480
+freedom bladder what we want it to be is is a 
+guide in that way like okay if you're here then
+
+117
+00:12:16,480 --> 00:12:21,760
+try doing this if you're here try doing this 
+and if you're at the very end for some reason
+
+118
+00:12:21,760 --> 00:12:26,160
+uh you know congratulations but if you're at 
+the very end you know help somebody else get
+
+119
+00:12:26,160 --> 00:12:30,640
+to the very end because that's the free software 
+movement is going to succeed you know that's kind
+
+120
+00:12:30,640 --> 00:12:36,240
+of how we've gotten to this point uh already 
+the long-term goal of the campaigns team right
+
+121
+00:12:36,240 --> 00:12:42,640
+now is to launch a comprehensive site about that 
+that is proving to be a little bit more difficult
+
+122
+00:12:42,640 --> 00:12:49,280
+uh than we thought because we you know want to 
+have it as easily accessible as possible to people
+
+123
+00:12:49,280 --> 00:12:57,120
+who are not in the free software world already you 
+know um the freedom ladder initiative like once it
+
+124
+00:12:57,120 --> 00:13:04,080
+is fully launched you know you should not have 
+to know words like kernel firmware binary blob
+
+125
+00:13:04,080 --> 00:13:09,440
+uh proprietary all of these terms that you know 
+jargon that we throw around the average person
+
+126
+00:13:09,440 --> 00:13:16,240
+just doesn't isn't familiar with this right if you 
+if you use the word firmware to someone uh walking
+
+127
+00:13:16,240 --> 00:13:20,640
+down the street today there's a pretty good chance 
+that they would not know what you were talking
+
+128
+00:13:20,640 --> 00:13:28,160
+about right um and so you know communicating about 
+that is really difficult because if you if you're
+
+129
+00:13:28,160 --> 00:13:33,600
+trying to share free software with somebody and 
+you have to start that conversation by giving
+
+130
+00:13:33,600 --> 00:13:38,480
+the definition for about nine different terms or 
+something like that that person is going to tune
+
+131
+00:13:38,480 --> 00:13:47,200
+out very quickly You know I've seen it happen like 
+over 100 times I'm I'm going to say uh where you
+
+132
+00:13:47,200 --> 00:13:53,440
+know like somebody who's kind of new to advocating 
+for free software let's say like oh well a binary
+
+133
+00:13:53,440 --> 00:13:58,800
+block is blah blah blah a firmware is blah blah 
+blah and by the time that they actually get to the
+
+134
+00:13:58,800 --> 00:14:03,440
+point that they're trying to deliver that person 
+has just tuned out and all they want to do is get
+
+135
+00:14:03,440 --> 00:14:09,040
+out of the conversation uh communicating about 
+free software effectively especially to someone
+
+136
+00:14:09,040 --> 00:14:14,880
+who isn't technical is one of the most important 
+and one of the most difficult things you can do as
+
+137
+00:14:14,880 --> 00:14:20,000
+a free software uh supporter So that's why we're 
+kind of still working on the freedom ladder still
+
+138
+00:14:20,000 --> 00:14:26,000
+trying to get it out there in a way that um you 
+know is accessible to as many people possible
+
+139
+00:14:26,000 --> 00:14:32,400
+working very hard on that but it is not really 
+yet a um and I'm going to go through a few other
+
+140
+00:14:32,400 --> 00:14:38,480
+FS campaigns before I kind of talk about uh Libra 
+Planet and the Libra Planet community in general
+
+141
+00:14:38,480 --> 00:14:43,760
+One of our biggest ones is of course affected by 
+design which is our campaign against uh digital
+
+142
+00:14:43,760 --> 00:14:50,720
+restrictions management DRM The film industry 
+the video game industry the music industry will
+
+143
+00:14:50,720 --> 00:14:57,520
+often use another word for DRM Uh I'm going to say 
+that word Uh because what it really is is digital
+
+144
+00:14:57,520 --> 00:15:04,080
+restrictions management right you are being 
+restricted There is someone in an office somewhere
+
+145
+00:15:04,080 --> 00:15:10,800
+in Redmond Washington who is trying to figure out 
+how can I get how can I prevent user from sharing
+
+146
+00:15:10,800 --> 00:15:17,040
+window can I prevent users from you know sharing 
+the next version of whatever proprietary software
+
+147
+00:15:17,040 --> 00:15:24,160
+we're going to come out with uh which is it's 
+a free software issue in so far as you know if
+
+148
+00:15:24,160 --> 00:15:32,480
+DRM existed in free software um it would just be 
+written out because no user wants to be controlled
+
+149
+00:15:32,480 --> 00:15:38,480
+and what they can or can't do with a piece of 
+media what they can or can't do with a program
+
+150
+00:15:38,480 --> 00:15:46,000
+um like you know one one uh example that we've 
+been using more and more frequently is this
+
+151
+00:15:46,000 --> 00:15:52,800
+uh you know streaming services at least in the 
+United ates you're often kind of prohibited by the
+
+152
+00:15:52,800 --> 00:15:59,760
+uh browser typically from taking a screenshot 
+I mean it's a screenshot like who cares right
+
+153
+00:15:59,760 --> 00:16:09,520
+uh that's DRM and and you know no sane person 
+would uh enjoy that feature right it's it DRM
+
+154
+00:16:09,520 --> 00:16:14,960
+is comprised of anti-features Uh and why it's a 
+free software issue is because it's implemented
+
+155
+00:16:14,960 --> 00:16:19,520
+through non-free software right because if it 
+weren't people would just strip it out and say
+
+156
+00:16:19,520 --> 00:16:24,800
+you know here here's my version of you know 
+Google Widevine uh level you know whatever
+
+157
+00:16:24,800 --> 00:16:31,680
+the highest level is that will uh allow you to 
+take screenshots or what have you you know Um
+
+158
+00:16:31,680 --> 00:16:37,760
+and and so it's important to be uh campaigning 
+against DRM you know as much as we can because
+
+159
+00:16:37,760 --> 00:16:43,520
+streaming services are only becoming more and 
+more entrenched in society uh there's you know
+
+160
+00:16:43,520 --> 00:16:51,120
+streaming services it does not function in any way 
+differently from downloading a file uh period The
+
+161
+00:16:51,120 --> 00:16:55,760
+only difference is that you know that file is 
+being handled in a particular manner and being
+
+162
+00:16:55,760 --> 00:17:02,400
+deleted you know immediately after it's it's been 
+uh seen or streamed heard whatever and since it's
+
+163
+00:17:02,400 --> 00:17:08,880
+a file it should be uh you know subject to the 
+same rules that any other file is And that's
+
+164
+00:17:08,880 --> 00:17:16,560
+uh DRM why you might want to refuse to use it Um 
+and there's a there's a kind of often there's an
+
+165
+00:17:16,560 --> 00:17:22,160
+overlap between people who are uh uh free software 
+people and people who are very concerned about
+
+166
+00:17:22,160 --> 00:17:27,520
+their privacy You know one FSF talking point that 
+you may have heard is that you cannot have true
+
+167
+00:17:27,520 --> 00:17:34,080
+privacy with a free software Right if you're using 
+a um you know encrypted messenger and they don't
+
+168
+00:17:34,080 --> 00:17:40,160
+exactly share how their encryption is being done 
+you know I'm thinking of WhatsApp when I say this
+
+169
+00:17:40,160 --> 00:17:46,400
+uh that's that's a prompt that they're making 
+to you is you know is is a company like Meta
+
+170
+00:17:46,400 --> 00:17:53,360
+known for keeping their promises or known for uh 
+speaking accurately about things like that you
+
+171
+00:17:53,360 --> 00:17:57,520
+know you might you might have a different opinion 
+I'm going to say no they aren't trustworthy and
+
+172
+00:17:57,520 --> 00:18:02,560
+so you know privacy is is is something that you 
+can only verify if you're running free software
+
+173
+00:18:02,560 --> 00:18:07,760
+on that program Uh and to that end you know 
+part of the FSF's work is to encourage more
+
+174
+00:18:07,760 --> 00:18:15,520
+people to encrypt their communications Um 
+because starting with um in the early 2000s
+
+175
+00:18:15,520 --> 00:18:21,840
+we became kind of more and more interested in 
+opposing bulk surveillance right as thei as the
+
+176
+00:18:21,840 --> 00:18:27,680
+uh intelligence agencies in the United States you 
+know be kept kind of collecting more and more data
+
+177
+00:18:27,680 --> 00:18:33,920
+uh the FSF began to advocate for encrypting your 
+communications as much as possible So we set up
+
+178
+00:18:33,920 --> 00:18:42,000
+a guide to encrypting your email uh called email 
+self-defense It's that at that URL right there Um
+
+179
+00:18:42,000 --> 00:18:47,600
+so that's another initiative that we have Um 
+but there's there's like one you know pretty
+
+180
+00:18:47,600 --> 00:18:54,480
+major problem facing uh free software people in 
+today right like okay I'm going to boot up my
+
+181
+00:18:54,480 --> 00:19:00,960
+fully free distribution of GNU Linux I'm going to 
+open up a browser and I'm going to go to you know
+
+182
+00:19:00,960 --> 00:19:06,560
+uh docs.google.com right well okay If I 
+go there I'm going to immediately be be
+
+183
+00:19:06,560 --> 00:19:14,240
+downloading like a 100 megabyte file of uh 
+proprietary JavaScript all in one extremely
+
+184
+00:19:14,240 --> 00:19:21,520
+uh long line of minified JavaScript that no 
+programmer is just really capable of reading right
+
+185
+00:19:21,520 --> 00:19:29,040
+and so we're kind of getting to the point as uh 
+as a you know computing society I guess where
+
+186
+00:19:29,040 --> 00:19:38,320
+um less than the OS right so when that's the 
+case you know you need to be able to inspect
+
+187
+00:19:38,320 --> 00:19:44,400
+the JavaScript uh running on your computer right 
+and which you can do right even right now I can go
+
+188
+00:19:44,400 --> 00:19:51,200
+to Google Docs I can you know rightclick and say 
+view source or whatever and I will see the you
+
+189
+00:19:51,200 --> 00:19:59,280
+what is nominally the the source code to Google 
+Docs but it is is just so intensely uh obiscated
+
+190
+00:19:59,280 --> 00:20:06,640
+and made deliberately vague by running through 
+uh you know a few different programs um that it's
+
+191
+00:20:06,640 --> 00:20:13,040
+just not source code in any kind of useful sense 
+of that word So to that end you know the FSF uh
+
+192
+00:20:13,040 --> 00:20:19,040
+encourages the development of a particular browser 
+extension called Libra.js JS which will uh you
+
+193
+00:20:19,040 --> 00:20:26,320
+know if you visit a site it will check for license 
+headers in the um in the top of the JavaScript
+
+194
+00:20:26,320 --> 00:20:34,720
+file It knows um different ways to uh you know 
+give different signs of offiscated JavaScript It's
+
+195
+00:20:34,720 --> 00:20:43,920
+able to detect that It's not perfect uh there are 
+uh there's at least one major um you know way of
+
+196
+00:20:43,920 --> 00:20:50,800
+recording JavaScript licenses that Librajs cannot 
+do yet It's being worked on um but it's not there
+
+197
+00:20:50,800 --> 00:20:55,040
+yet But you know if you're a free software person 
+and you're thinking about these issues you can't
+
+198
+00:20:55,040 --> 00:21:00,800
+ignore JavaScript because JavaScript uh as much as 
+someone like me is horrified by the idea it's here
+
+199
+00:21:00,800 --> 00:21:07,520
+to stay right it's not going anywhere Um so it's 
+an important kind of vector to consider in your
+
+200
+00:21:07,520 --> 00:21:14,720
+free software advocacy for sure Um that brings 
+me to what the Libra Planet Network is right so
+
+201
+00:21:14,720 --> 00:21:18,480
+there's all of these ways that you can support 
+free software all of these ways that you can
+
+202
+00:21:18,480 --> 00:21:26,080
+be talking about free software but how exactly do 
+you do that where would you go you know are there
+
+203
+00:21:26,080 --> 00:21:32,640
+other people who can help you do this and you 
+know if you're watching this you were at some
+
+204
+00:21:32,640 --> 00:21:38,240
+kind of gathering of these people right now If you 
+weren't you know if you were just one person who
+
+205
+00:21:38,240 --> 00:21:43,760
+you know one night found out about free software 
+found out about GNU Linux what would you do you
+
+206
+00:21:43,760 --> 00:21:48,720
+know uh if you wanted to share that with people 
+you could do a one-on-one advocacy or you could
+
+207
+00:21:48,720 --> 00:21:54,880
+network with people And from the beginning 
+Libra Planet Network is what the FSF uh you
+
+208
+00:21:54,880 --> 00:22:02,960
+know it's its kind of own way of facilitating 
+communication What it looks like basically um
+
+209
+00:22:02,960 --> 00:22:10,160
+so what it is I mean literally it's a media wiki 
+instance uh and the wiki is about free software
+
+210
+00:22:10,160 --> 00:22:18,080
+from start to finish Um how it began is the FSF 
+has an annual conference also called Libra Planet
+
+211
+00:22:18,080 --> 00:22:22,480
+um which but that's only once a year right so you 
+need you know you can't just be advocating for
+
+212
+00:22:22,480 --> 00:22:27,680
+for software once a year You need to be doing it 
+constantly if it's if it's going to be gaining any
+
+213
+00:22:27,680 --> 00:22:35,680
+kind of traction Um and so Libra planet started I 
+mean essentially as a way to for people to network
+
+214
+00:22:35,680 --> 00:22:42,560
+uh based on where they live right so one of 
+the main parts of Libraet is uh a map and you
+
+215
+00:22:42,560 --> 00:22:47,280
+can click your country and then it kind of gets 
+a little bit more fine grain from there to to
+
+216
+00:22:47,280 --> 00:22:54,400
+network with free software people Um and that's 
+opposed to you know quote unquote open source
+
+217
+00:22:54,400 --> 00:23:03,360
+people Libra Libra planet is a way of organizing 
+or is a is a medium of organizing that uh you know
+
+218
+00:23:03,360 --> 00:23:09,920
+the people who you might meet there who you would 
+collaborate with there are people who prioritize
+
+219
+00:23:09,920 --> 00:23:15,680
+you know the message of freedom rather than the 
+message of like oh it will be technically better
+
+220
+00:23:15,680 --> 00:23:22,000
+you know better on a technical level if the source 
+code to your program were free well I mean that
+
+221
+00:23:22,000 --> 00:23:28,080
+might be true but it also might not be true right 
+the main advantage is of uh freedom of of of you
+
+222
+00:23:28,080 --> 00:23:33,920
+know enjoying your freedom of having control over 
+your own life Um and so the liver planet network
+
+223
+00:23:33,920 --> 00:23:41,520
+is is you know what it is is a uh a gathering of 
+those of that particular kind of person of that
+
+224
+00:23:41,520 --> 00:23:46,640
+particular kind of free software activist and a 
+place for them to network with the other So you
+
+225
+00:23:46,640 --> 00:23:53,280
+know what in practice would that look like you 
+know say like you've um signed up to the labor
+
+226
+00:23:53,280 --> 00:23:58,480
+planet.org quickie You've kind of browsed around a 
+little bit but what do you do from there well you
+
+227
+00:23:58,480 --> 00:24:03,360
+know a lot of it would look like what you're doing 
+right now essentially like hosting meetups like
+
+228
+00:24:03,360 --> 00:24:09,680
+this one you know sharing ad strategies on how to 
+advocate for free software There are uh a lot of
+
+229
+00:24:09,680 --> 00:24:14,480
+interesting pages on libupplanet.org where people 
+have thought through these questions particularly
+
+230
+00:24:14,480 --> 00:24:23,440
+in the freedom ladder Um you know freedom ladder 
+we started developing it in 2020 I think of
+
+231
+00:24:23,440 --> 00:24:29,520
+uh you know this series of conversations like okay 
+we are the FSF we always want to be prioritizing
+
+232
+00:24:29,520 --> 00:24:36,000
+freedom but how do we do that you know on a 
+practical level how can we effectively communicate
+
+233
+00:24:36,000 --> 00:24:43,760
+uh the next step to what people's you know own 
+personal journey to freedom would look like Libra
+
+234
+00:24:43,760 --> 00:24:48,240
+planet it's the natural place to do that because 
+that's where we collaborate That's where we know
+
+235
+00:24:48,240 --> 00:24:53,680
+where the people who care about free software are 
+You know the most thing the thing that we've done
+
+236
+00:24:53,680 --> 00:25:01,520
+most recently of course is uh on October 4th 2025 
+the FSF turns 40 years old We've been encouraging
+
+237
+00:25:01,520 --> 00:25:09,760
+people to host meetups um about free software not 
+necessarily about the FSF Inspect the JavaScript
+
+238
+00:25:09,760 --> 00:25:14,560
+uh running on your computer right and which you 
+can do right even right now I can go to Google
+
+239
+00:25:14,560 --> 00:25:21,280
+Docs I can you know rightclick and say view source 
+or whatever and I will see the you know what is
+
+240
+00:25:21,280 --> 00:25:29,760
+nominally the the source code to Google Docs but 
+it is is just so intensely uh obiscated and made
+
+241
+00:25:29,760 --> 00:25:36,480
+deliberately vague by running through uh you 
+know a few different programs um that it's just
+
+242
+00:25:36,480 --> 00:25:42,320
+not source code in any kind of useful sense 
+of that word So to that end you know the FSF
+
+243
+00:25:42,320 --> 00:25:48,400
+uh encourages the development of a particular 
+browser extension called Libra.js which will
+
+244
+00:25:48,400 --> 00:25:55,520
+uh you know if you visit a site it will check 
+for license headers in the um in the top of the
+
+245
+00:25:55,520 --> 00:26:03,600
+JavaScript file it knows um different ways to 
+uh you know have different signs of offiscated
+
+246
+00:26:03,600 --> 00:26:11,200
+JavaScript It's able to detect that It's not 
+perfect Uh there are uh there's at least one major
+
+247
+00:26:11,200 --> 00:26:19,280
+um you know way of recording JavaScript licenses 
+that Librajs cannot do yet It's being worked on
+
+248
+00:26:19,280 --> 00:26:23,200
+um but it's not there yet But you know if you're 
+a free software person and you're thinking about
+
+249
+00:26:23,200 --> 00:26:28,960
+these issues you can't ignore JavaScript because 
+JavaScript as much as someone like me is horrified
+
+250
+00:26:28,960 --> 00:26:36,160
+by the idea it's here to stay right it's not going 
+anywhere Um so it's an important kind of vector to
+
+251
+00:26:36,160 --> 00:26:42,720
+consider in your free software advocacy for sure 
+Um that brings me to what the Libra planet network
+
+252
+00:26:42,720 --> 00:26:47,920
+is right so there's all of these ways that you 
+can support free software all of these ways that
+
+253
+00:26:47,920 --> 00:26:55,200
+you can be talking about free software but how 
+exactly do you do that where would you go you
+
+254
+00:26:55,200 --> 00:27:01,520
+know are there other people who can help you 
+do this and you know if you're watching this
+
+255
+00:27:01,520 --> 00:27:06,160
+you were at some kind of gathering of these people 
+right now If you weren't you know if you were just
+
+256
+00:27:06,160 --> 00:27:12,800
+one person who you know one night found out about 
+free software found out about GNU Linux what would
+
+257
+00:27:12,800 --> 00:27:17,840
+you do you know uh if you wanted to share that 
+with people you could do a one-on-one advocacy
+
+258
+00:27:17,840 --> 00:27:24,080
+or you could network with people And from the 
+beginning the Libra planet network is what the FSF
+
+259
+00:27:24,080 --> 00:27:30,960
+uh you know it's its kind of own way of 
+facilitating communication what it looks like
+
+260
+00:27:30,960 --> 00:27:39,440
+basically Um so what it is I mean literally it's a 
+media wiki instance uh and the wiki is about free
+
+261
+00:27:39,440 --> 00:27:46,560
+software from start to finish Um how it began is 
+the FSF has an annual conference also called Liber
+
+262
+00:27:46,560 --> 00:27:52,160
+Planet Um which but that's only once a year right 
+so you need you know you can't just be advocating
+
+263
+00:27:52,160 --> 00:27:56,640
+for free software once a year You need to be 
+doing it constantly if it's if it's going to
+
+264
+00:27:56,640 --> 00:28:03,440
+be gaining any kind of traction Um and so Libra 
+Bunnet started I mean essentially as a way to
+
+265
+00:28:03,440 --> 00:28:10,400
+for people to network uh based on where they live 
+right so what are the main parts of Liberet it's
+
+266
+00:28:10,400 --> 00:28:15,840
+uh a map and you can click your country and then 
+it kind of gets a little bit more fine grain from
+
+267
+00:28:15,840 --> 00:28:23,600
+there to to network with free software people 
+Um and that's opposed to you know quote unquote
+
+268
+00:28:23,600 --> 00:28:32,720
+open source people Libra Libra planet is a way of 
+organizing or is a is a medium of organizing that
+
+269
+00:28:32,720 --> 00:28:38,560
+you know the people who you might meet there who 
+you would collaborate with there are people who
+
+270
+00:28:38,560 --> 00:28:44,560
+prioritize you know the message of freedom rather 
+than the message of like oh it will be technically
+
+271
+00:28:44,560 --> 00:28:51,200
+better you know better on a technical level if 
+the source code to your program were free Well
+
+272
+00:28:51,200 --> 00:28:56,240
+I mean that might be true but it also might 
+not be true right the main advantage is of
+
+273
+00:28:56,240 --> 00:29:02,640
+uh freedom of of of you know enjoying your freedom 
+of having control over your own life Um and so the
+
+274
+00:29:02,640 --> 00:29:10,320
+Libra Planet Network is is you know what it is is 
+a uh a gathering of those of that particular kind
+
+275
+00:29:10,320 --> 00:29:15,360
+of person of that particular kind of free software 
+activist and a place for them to network with each
+
+276
+00:29:15,360 --> 00:29:22,720
+other So you know what in practice would that look 
+like you know say like you've um signed up to the
+
+277
+00:29:22,720 --> 00:29:28,000
+libranet.org wiki you've kind of browsed around 
+a little bit but what do you do from there well
+
+278
+00:29:28,000 --> 00:29:32,880
+you know a lot of it would look like what you're 
+doing right now essentially like hosting meetups
+
+279
+00:29:32,880 --> 00:29:39,280
+like this one you know sharing ad strategies on 
+how to advocate for free software There are a lot
+
+280
+00:29:39,280 --> 00:29:44,240
+of interesting pages on libranet.org where people 
+have thought through these questions particularly
+
+281
+00:29:44,240 --> 00:29:53,120
+in the freedom ladder um you know freedom ladder 
+we started developing it in 2020 I think of
+
+282
+00:29:53,120 --> 00:29:59,200
+uh you know this series of conversations like okay 
+we are the FSF we always want to be prioritizing
+
+283
+00:29:59,200 --> 00:30:05,680
+freedom but how do we do that you know on a 
+practical level how can we effectively communicate
+
+284
+00:30:05,680 --> 00:30:13,520
+uh the next step to what people's you know own 
+personal journey to freedom would look like Libra
+
+285
+00:30:13,520 --> 00:30:18,000
+planet's the natural place to do that because 
+that's where we collaborate That's where we know
+
+286
+00:30:18,000 --> 00:30:23,360
+where the people who care about free software are 
+You know the most thing the thing that we've done
+
+287
+00:30:23,360 --> 00:30:31,200
+most recently of course is uh on October 4th 2025 
+the FSF turns 40 years old We've been encouraging
+
+288
+00:30:31,200 --> 00:30:38,960
+people to host meetups um about free software not 
+necessarily about the FSF just to kind of show the
+
+289
+00:30:38,960 --> 00:30:46,720
+wider world uh how far free software has come you 
+know it's not just that GNU Linux powers the bulk
+
+290
+00:30:46,720 --> 00:30:51,520
+of you know the servers running the internet or 
+something like that It's that it's really made
+
+291
+00:30:51,520 --> 00:30:59,520
+this like positive impact over countless people 
+Um and that's something that we want to celebrate
+
+292
+00:30:59,520 --> 00:31:05,120
+right like that's something that we want to uh 
+which we need to celebrate if free software is
+
+293
+00:31:05,120 --> 00:31:10,800
+going to you know go further than it has right 
+now because right now more people are using free
+
+294
+00:31:10,800 --> 00:31:16,400
+software than ever before but they don't know 
+that they're using free software Um and I'll
+
+295
+00:31:16,400 --> 00:31:24,320
+touch on that in a second Here it is Um mobile 
+phone freedom So you know there are right now
+
+296
+00:31:24,320 --> 00:31:30,480
+uh particularly or yeah particularly if you have 
+any Android phone there are probably programs in
+
+297
+00:31:30,480 --> 00:31:37,760
+it that are copyrighted by the FSF Um or that at 
+least are licensed under the GNU General public
+
+298
+00:31:37,760 --> 00:31:44,000
+license not on iOS but licensed under some free 
+software licenses pro most likely one of our free
+
+299
+00:31:44,000 --> 00:31:49,680
+software licenses um you know anything that 
+runs the Kel Linux it is licensed under the
+
+300
+00:31:49,680 --> 00:31:57,680
+GPL v2 which is a license that we wrote in 1991 
+um and so anytime anyone activates a phone for
+
+301
+00:31:57,680 --> 00:32:03,680
+the first time they're using free software that's 
+success in some way you know they're you literally
+
+302
+00:32:03,680 --> 00:32:09,360
+using the program but they're still oppressed 
+right they're still being um they still don't
+
+303
+00:32:09,360 --> 00:32:18,000
+have software freedom they deserve free software 
+there's nothing at all um intrinsically different
+
+304
+00:32:18,000 --> 00:32:24,880
+from phone and a computer A phone is a computer 
+It should run free software The FSF believes that
+
+305
+00:32:24,880 --> 00:32:29,360
+every computer should run free software right and 
+of course it becomes a little bit more complicated
+
+306
+00:32:29,360 --> 00:32:36,720
+than that because uh you know behind iOS or 
+behind Android there operating system called
+
+307
+00:32:36,720 --> 00:32:42,240
+the bassband operating system I won't go into 
+that too much but you know that is one way that
+
+308
+00:32:42,240 --> 00:32:48,640
+the that that the phone phones are a little bit 
+more complicated than than uh computers but on a
+
+309
+00:32:48,640 --> 00:32:53,360
+on an ethical level you know there's no separation 
+You should run be able to run fully free software
+
+310
+00:32:53,360 --> 00:33:00,880
+on your phone Um and the kind of way that that 
+looks right now is Android is nominally free
+
+311
+00:33:00,880 --> 00:33:07,200
+software right you might have heard of something 
+called the AOSP or the Android open source project
+
+312
+00:33:07,200 --> 00:33:14,480
+um as it comes out you know that's free software 
+the problem is when it gets combined with you
+
+313
+00:33:14,480 --> 00:33:19,840
+know first of all the the bassband operating 
+system of which as far as I know there is no
+
+314
+00:33:19,840 --> 00:33:26,880
+free software bassband operating system uh that 
+could power the radio communications of a phone
+
+315
+00:33:26,880 --> 00:33:32,320
+um but more than that you know when Android 
+gets paired with uh the Google Play services
+
+316
+00:33:32,320 --> 00:33:40,000
+for example or when Android gets paired with 
+uh most often you basic device drivers like the
+
+317
+00:33:40,000 --> 00:33:46,160
+uh even something as simple as lighting up 
+a screen or you know turning on and off a
+
+318
+00:33:46,160 --> 00:33:52,880
+Bluetooth network card will typically involve 
+running some non-free firmware Um why that's
+
+319
+00:33:52,880 --> 00:33:58,240
+done you know we could talk about it for a long 
+time but it's kind of just the way that the
+
+320
+00:33:58,240 --> 00:34:05,600
+uh you know device peripheral uh industry works 
+essentially right it's it's what they've done
+
+321
+00:34:05,600 --> 00:34:14,640
+they have no real impetus to change that Um but 
+you know there are ways to run a more or less
+
+322
+00:34:14,640 --> 00:34:19,840
+free phone The best that we can do right now 
+is a project that uh the FSF sponsor is called
+
+323
+00:34:19,840 --> 00:34:26,240
+Replicant It's a free distribution of Android and 
+at this point it's an interesting project but runs
+
+324
+00:34:26,240 --> 00:34:34,560
+on very few devices There was a short amount of 
+time where we were able to recommend it Um but as
+
+325
+00:34:34,560 --> 00:34:41,280
+uh the networks the mobile networks that the 
+phones that ran replicant uh kind of closed
+
+326
+00:34:41,280 --> 00:34:47,920
+down over time like the you know the deprecation 
+of 3G in particular It's it's it's not really a
+
+327
+00:34:47,920 --> 00:34:53,600
+phone at this point anymore The devices that run 
+it basically become tablets because they you know
+
+328
+00:34:53,600 --> 00:35:00,960
+uh use outdated um you know mobile phone 
+radio communications But you know it's it's
+
+329
+00:35:00,960 --> 00:35:06,560
+an interesting project Of course there are other 
+things like uh the uh hobbyist projects like the
+
+330
+00:35:06,560 --> 00:35:12,160
+Librim 5 or you know the Pine Phone things 
+like that Uh our perspective is that those
+
+331
+00:35:12,160 --> 00:35:18,160
+are interesting projects but we haven't had the 
+opportunity to evaluate any kind of you know
+
+332
+00:35:18,160 --> 00:35:26,720
+quote unquote Linux phone um on a on a on a really 
+closely detailed level Although basically based on
+
+333
+00:35:26,720 --> 00:35:30,720
+you know the state-of-the-art right now there's 
+almost no chance that it would be able to run
+
+334
+00:35:30,720 --> 00:35:38,080
+fully free software Um and another way that you 
+can just kind of like use uh more and more free
+
+335
+00:35:38,080 --> 00:35:45,040
+media or communicate in more of a free way is to 
+use federated social media right like so uh from
+
+336
+00:35:45,040 --> 00:35:53,280
+the last time that I gave this talk uh Twitter has 
+changed it to X Twitter was also taken over by a
+
+337
+00:35:54,160 --> 00:36:01,600
+let's just say oligarch Um and you know it's it's 
+it's kind of had its own kind of social challenges
+
+338
+00:36:01,600 --> 00:36:09,200
+but something to remember is that network services 
+are neither free or nonfree They're just there You
+
+339
+00:36:09,200 --> 00:36:15,360
+know you are not necessarily doing anything 
+to your software freedom rights in particular
+
+340
+00:36:15,360 --> 00:36:20,560
+if you're on a network service or if you're 
+connecting to a website something like that
+
+341
+00:36:20,560 --> 00:36:25,360
+that's that's not something where free software 
+really enters into play Um but where it does
+
+342
+00:36:25,360 --> 00:36:32,560
+matter is if you're supplied software thereby the 
+server itself you know sending you JavaScript or
+
+343
+00:36:32,560 --> 00:36:39,760
+uh you know them necessitating that you use some 
+kind of app whatever that software must be free
+
+344
+00:36:39,760 --> 00:36:46,880
+uh and so that's something that we'll always uh 
+advocate around but on a practical level you know
+
+345
+00:36:46,880 --> 00:36:52,960
+uh independent of free software the FSF is 
+interested in helping people avoid government
+
+346
+00:36:52,960 --> 00:36:57,760
+surveillance especially bulk government 
+surveillance like the NSA in the United
+
+347
+00:36:57,760 --> 00:37:03,760
+States practices Um and to that end you know 
+we recommend the use of federated social media
+
+348
+00:37:03,760 --> 00:37:11,200
+platforms wherever possible Um do they escape bulk 
+surveillance no But what they do do is they you
+
+349
+00:37:11,200 --> 00:37:19,360
+know kind of diversify the uh points of failure 
+more or less It's like if Elon shuts X down
+
+350
+00:37:19,360 --> 00:37:25,920
+tomorrow for whatever you know bananas reason he 
+might come up with uh where would all that go it
+
+351
+00:37:25,920 --> 00:37:32,720
+would it would go away But if you were federated 
+you know I have a a server in my house right now
+
+352
+00:37:32,720 --> 00:37:39,920
+uh that is running a federated social media 
+instance right and you know if I run in my
+
+353
+00:37:39,920 --> 00:37:44,800
+bedroom and my neighbor runs it and so on and so 
+on you know no one can take down that network no
+
+354
+00:37:44,800 --> 00:37:50,800
+matter how hard they try So in the interest of 
+you know helping people to avoid censorship that
+
+355
+00:37:50,800 --> 00:37:55,440
+is something that the FSF has been focused on 
+for a long time you know encouraging people to
+
+356
+00:37:55,440 --> 00:38:01,760
+use federated social media uh like Mastadon Uh we 
+haven't had the chance to look into blue sky too
+
+357
+00:38:01,760 --> 00:38:08,800
+closely We understand that it can be used with 
+fully free software Um but beyond reading the
+
+358
+00:38:08,800 --> 00:38:15,440
+API I have not done as much blue sky research as 
+I probably should have I confess to that Um but
+
+359
+00:38:15,440 --> 00:38:23,520
+any network based on the activity pro protocol 
+like uh pleoma you know miskey things like that
+
+360
+00:38:23,520 --> 00:38:28,800
+um you know they're going to have the same benefit 
+that maston does We recommend Raston because it's
+
+361
+00:38:28,800 --> 00:38:37,840
+um the most widespread at at the moment Um and 
+it's it's licensed under the AGPL uh which of
+
+362
+00:38:37,840 --> 00:38:43,600
+course we wrote um which is a version of the 
+GPL v3 that's specifically intended for software
+
+363
+00:38:43,600 --> 00:38:51,360
+served over the network Um so we can advocate 
+for maston you know because of that Um but you
+
+364
+00:38:51,360 --> 00:38:58,560
+know independent of like uh specific programs or 
+telling people how do I uh you know you should use
+
+365
+00:38:58,560 --> 00:39:04,960
+social uh federated social media or you should 
+use a freeer phone or free apps if you can How
+
+366
+00:39:04,960 --> 00:39:12,560
+do you do it in general i mean and the way that 
+we've found successful uh over our long history
+
+367
+00:39:12,560 --> 00:39:17,120
+and the way that I found successful you know 
+even before I worked at the FSF when I was just
+
+368
+00:39:17,120 --> 00:39:25,200
+a random free software uh advocate essentially 
+is just to encourage people to say no The the
+
+369
+00:39:25,200 --> 00:39:32,160
+the hardest thing to do it seems is to just say 
+no to a non-free program like I mentioned earlier
+
+370
+00:39:32,160 --> 00:39:40,000
+Um and there's a very insidious network effect to 
+that right like if I am a student and I'm required
+
+371
+00:39:40,000 --> 00:39:48,480
+to use uh you know Zoom or if I'm required to take 
+my exam through this non-free uh program that will
+
+372
+00:39:48,480 --> 00:39:54,960
+you know incidentally spy on me the entire time 
+I'm doing my exam Uh what do I do and this you
+
+373
+00:39:54,960 --> 00:40:01,840
+know this is a very serious problem The FSF hears 
+from students uh I would say you know at least a
+
+374
+00:40:01,840 --> 00:40:07,280
+few times a year where there's the student who's 
+required to use proprietary software for their
+
+375
+00:40:07,280 --> 00:40:15,200
+schooling and you know is unsure what to do and 
+it's very difficult to know like what to recommend
+
+376
+00:40:15,200 --> 00:40:21,520
+in that situation right we've had students who say 
+like I will take an F in this course because I an
+
+377
+00:40:21,520 --> 00:40:25,920
+F in the United States is the lowest uh grade that 
+you can possibly get I don't know if that carries
+
+378
+00:40:25,920 --> 00:40:31,840
+it right here um but you know I will I will fail 
+this of course intentionally because I want to
+
+379
+00:40:31,840 --> 00:40:37,120
+take a stand There are people in the world who do 
+that and that's you know impressive but we can't
+
+380
+00:40:37,120 --> 00:40:43,200
+all be doing that and that's why we need to kind 
+of just normalize saying no to a non-free program
+
+381
+00:40:43,200 --> 00:40:50,240
+That's one of the best things that you can do 
+Um and we need to be advocating in free programs
+
+382
+00:40:50,240 --> 00:40:59,200
+uh as a kind of positive advocacy where we can 
+right like there's uh it requires some tact
+
+383
+00:40:59,200 --> 00:41:06,000
+right especially in you know the early 2000s when 
+new Linux just wasn't completely there yet it's
+
+384
+00:41:06,000 --> 00:41:12,000
+debatable whether um you know you were really 
+doing effective free software advocacy if you
+
+385
+00:41:12,000 --> 00:41:18,720
+said oh you should try you know GNU Linux You have 
+to spend about three hours setting it up and you
+
+386
+00:41:18,720 --> 00:41:25,520
+have to buy this particular graphics card and you 
+have to you know edit the MBR boot record of your
+
+387
+00:41:25,520 --> 00:41:30,400
+motherboard of your hard drive in such a way that 
+you know blah blah blah this goes on for an hour
+
+388
+00:41:30,400 --> 00:41:37,920
+Um you know did that really help the free software 
+movement i mean yes but you you need to have tact
+
+389
+00:41:37,920 --> 00:41:43,360
+um when you choose the things to recommend 
+especially when they're to people who are not free
+
+390
+00:41:43,360 --> 00:41:51,360
+software people or who are not immediately going 
+to be persuaded by the ethical argument Um and you
+
+391
+00:41:51,360 --> 00:41:57,520
+know the way to do that is just to to to find what 
+programs or what apps are the most well polished
+
+392
+00:41:57,520 --> 00:42:03,520
+for the normal person and to say you know hey have 
+you tried this one uh example of this you know
+
+393
+00:42:03,520 --> 00:42:12,480
+Microsoft has uh Office 365 which is kind of what 
+they've collapsed uh Microsoft Word into And you
+
+394
+00:42:12,480 --> 00:42:17,680
+know if somebody's in the position where they're 
+like "Oh I need to pay for this subscription and I
+
+395
+00:42:17,680 --> 00:42:23,600
+don't want to you know what do I do?" One program 
+you can easily recommend in in that situation is
+
+396
+00:42:23,600 --> 00:42:29,760
+to say "Oh no Don't use Office 365 and Microsoft 
+Word Use Libre Office and Libre Office Writer."
+
+397
+00:42:29,760 --> 00:42:36,080
+you know it's good to have a kind of working 
+vocabulary of uh what programs are effective
+
+398
+00:42:36,080 --> 00:42:43,440
+to to to tell about to tell people about you know 
+in that way and like I mentioned before you know
+
+399
+00:42:43,440 --> 00:42:48,800
+a lot of the time there is technical advantage 
+to using a free software and that I mean that
+
+400
+00:42:48,800 --> 00:42:54,640
+uh the the free software program is technically 
+on a technical level better you know it may have
+
+401
+00:42:54,640 --> 00:43:00,640
+more features it may be more stable uh you know 
+run on more oper operating systems whatever But
+
+402
+00:43:00,640 --> 00:43:07,920
+a lot of the times that's not the case You know 
+a a free software program that is targeting some
+
+403
+00:43:07,920 --> 00:43:18,400
+kind of you know obscure field um may not be 
+as polished as the one that um the proprietary
+
+404
+00:43:18,400 --> 00:43:24,080
+one right like we see this a lot especially in 
+in media production but it was more of a thing
+
+405
+00:43:24,080 --> 00:43:30,720
+uh a while back right like for a while uh you know 
+the [ __ ] was not in the [ __ ] is the GNU image
+
+406
+00:43:30,720 --> 00:43:36,320
+uh manipulation program the uh the [ __ ] was not 
+in a place where we could say you know oh if you
+
+407
+00:43:36,320 --> 00:43:41,520
+use Photoshop you should just switch to [ __ ] 
+right because it has all the same things that
+
+408
+00:43:41,520 --> 00:43:47,600
+wasn't 100% true you know as 10 years ago or 
+something like that which was a lot better now
+
+409
+00:43:47,600 --> 00:43:54,640
+but what do you do in situations where the free 
+program isn't as you know typically better as
+
+410
+00:43:54,640 --> 00:44:01,280
+uh the free program as the non-free program Um and 
+in that moment you just have to kind of assess the
+
+411
+00:44:01,280 --> 00:44:07,120
+situation right you have to kind of think to 
+yourself uh okay if I advocate for this free
+
+412
+00:44:07,120 --> 00:44:13,360
+program to this person if I tell them to use you 
+know let's just say uh let's go with Libra Office
+
+413
+00:44:13,360 --> 00:44:19,120
+If I tell them to use Libre Office how is that 
+going to go you know are they more likely to use
+
+414
+00:44:19,120 --> 00:44:24,640
+it and have positive experience and then want to 
+use more free software or are they more likely to
+
+415
+00:44:24,640 --> 00:44:29,760
+say like "Oh my god I know this free software 
+stuff is is too much for me You know I'm just
+
+416
+00:44:29,760 --> 00:44:35,360
+going to stick with Windows and Microsoft Word 
+and blah blah blah." It's important to know how
+
+417
+00:44:35,360 --> 00:44:41,280
+to navigate that situation to and to you know able 
+to think about that on the fly when you're just
+
+418
+00:44:41,280 --> 00:44:47,280
+having a conversation with people That's something 
+that you know we at the FSF have had the privilege
+
+419
+00:44:47,280 --> 00:44:52,160
+of doing it because that's what we do all day But 
+if you're just a student or if you're just you
+
+420
+00:44:52,160 --> 00:44:58,080
+know uh like an accountant somewhere or something 
+the only way that you're going to develop that is
+
+421
+00:44:58,080 --> 00:45:04,080
+through practice And the way to get more practice 
+is to network with as many free software people
+
+422
+00:45:04,080 --> 00:45:11,440
+um as you can So knowing that is important But 
+if you're if you really don't know what to do
+
+423
+00:45:11,440 --> 00:45:17,360
+uh the way that what what I personally think you 
+should do this is not an FSF position exactly What
+
+424
+00:45:17,360 --> 00:45:21,840
+I think you should do is just to kind of always 
+emphasize the ethical If you don't know what to
+
+425
+00:45:21,840 --> 00:45:27,680
+do emphasize the ethical because you know that's 
+something where we will always have the advantage
+
+426
+00:45:27,680 --> 00:45:35,040
+over non-free software Period Um we will always be 
+in a position where we can say you know if you use
+
+427
+00:45:35,040 --> 00:45:41,120
+this program you can share it with other people If 
+you use this program you can know empirically and
+
+428
+00:45:41,120 --> 00:45:48,640
+for a fact that it is not spying on you when you 
+can't know that with the other program Uh knowing
+
+429
+00:45:48,640 --> 00:45:54,800
+those situations and knowing how to navigate them 
+is you know very important So if all else fails
+
+430
+00:45:54,800 --> 00:46:01,120
+you know key to the ethical it will sometimes get 
+you where you need to go Um but that's you know
+
+431
+00:46:01,120 --> 00:46:05,360
+talking about free software is not the only way 
+that you help the free software movement You can
+
+432
+00:46:05,360 --> 00:46:11,120
+also volunteer And of course uh during this talk 
+I've kind of harped a lot on local stuff because
+
+433
+00:46:11,120 --> 00:46:17,600
+you know I personally have had the most success 
+in local stuff um even poor coming to the FSF
+
+434
+00:46:17,600 --> 00:46:24,880
+and the way to really get people passionate about 
+free software I found it's to kind of take them
+
+435
+00:46:24,880 --> 00:46:30,480
+or help them you know better not better than 
+taking them you can help them take themselves
+
+436
+00:46:30,480 --> 00:46:36,080
+uh to this you know greater place of freedom to 
+using more and more free software becoming a free
+
+437
+00:46:36,080 --> 00:46:42,560
+software advocate Uh you know one-on-one 
+communication face to face is just really
+
+438
+00:46:42,560 --> 00:46:48,560
+unparalleled when it comes to that particular 
+thing Um and of course that's why we Libra Planet
+
+439
+00:46:48,560 --> 00:46:54,560
+Wiki to kind of help people coordinate uh not 
+only online meetups but one-on-one meetups Those
+
+440
+00:46:54,560 --> 00:47:00,480
+are the ones that we really like to see But you 
+know we also want to the FSF is very focused on
+
+441
+00:47:00,480 --> 00:47:06,160
+spreading you know the concept of free software 
+but we also just we're free software people We
+
+442
+00:47:06,160 --> 00:47:12,480
+use free software all day So we want the programs 
+themselves to get better Um and to that end you
+
+443
+00:47:12,480 --> 00:47:16,480
+know we recommend that people get involved in 
+their favorite free software project you know
+
+444
+00:47:16,480 --> 00:47:22,480
+the one that they use every day whether it's just 
+filing bugs or write writing documentation or you
+
+445
+00:47:22,480 --> 00:47:30,240
+know contributing 2,000 lines of ANC to whatever 
+program you're using You know wherever you're at
+
+446
+00:47:30,240 --> 00:47:34,960
+there almost definitely something that you can do 
+for the free software program that you you know
+
+447
+00:47:34,960 --> 00:47:40,960
+are particularly passionate about or that you use 
+more than others Um and I encourage you to kind of
+
+448
+00:47:40,960 --> 00:47:46,560
+like try and figure that out A lot of the times 
+you know the bug trackers of these programs will
+
+449
+00:47:46,560 --> 00:47:53,200
+have bugs that are uh tagged you know beginner 
+or newcomer or something like that And they're
+
+450
+00:47:53,200 --> 00:47:59,200
+ways that the maintainers signal to people that 
+okay this is like a this is an issue that a you
+
+451
+00:47:59,200 --> 00:48:05,440
+know reasonably motivated newcomer to our project 
+who's never contributed to you know GNU geeks or
+
+452
+00:48:05,440 --> 00:48:11,280
+whatever uh could tackle by themselves finding 
+those like a really good way to get started
+
+453
+00:48:11,280 --> 00:48:17,760
+um in contributing to a free software project 
+itself and uh you know just kind of furthering
+
+454
+00:48:17,760 --> 00:48:26,160
+free software in a way that's not um spreading 
+the message exactly Uh but if you want to support
+
+455
+00:48:26,160 --> 00:48:31,600
+the FSF in particular the way that you do that the 
+best way you can do that is you know unfortunately
+
+456
+00:48:31,600 --> 00:48:39,440
+it's true it's financial Um you can become an 
+associate member of the FSF Uh so some people
+
+457
+00:48:39,440 --> 00:48:44,400
+think I talked to them that the FSF has a lot of 
+corporate sponsorship because you know of course
+
+458
+00:48:44,400 --> 00:48:49,760
+we uh hold the copyright to GNU and write the GPL 
+and blah blah blah That is absolutely not true
+
+459
+00:48:49,760 --> 00:48:57,200
+Over 90% of the FSF's funding comes from associate 
+members It comes from people you know giving their
+
+460
+00:48:57,200 --> 00:49:04,080
+annual donation to the FSF that signals to us like 
+yes there are people out there in the world who
+
+461
+00:49:04,080 --> 00:49:08,960
+uh you know use free software who are running 
+free software and they're signaling to us that
+
+462
+00:49:08,960 --> 00:49:14,480
+they support us the other in our work for free 
+software um so if you want to support the other
+
+463
+00:49:14,480 --> 00:49:20,320
+in particular what you can do is uh become an 
+associate member that will help us a lot um and
+
+464
+00:49:20,320 --> 00:49:25,680
+in addition to this kind of like very positive 
+feeling of well of well-being that you will get
+
+465
+00:49:25,680 --> 00:49:30,480
+uh you will also get some cool stuff you know it 
+will get you access to our Jity meet server so
+
+466
+00:49:30,480 --> 00:49:37,200
+you can do uh encrypted voice calls um our 
+member forum and a bootable USB card with
+
+467
+00:49:37,200 --> 00:49:42,720
+uh Triscoll GNU Linux pre-installed that's a 
+fully free distribution of GNU Linux and you
+
+468
+00:49:42,720 --> 00:49:50,560
+can do that at that URL fsf.org uh/join 
+and I think that's it for uh in terms
+
+469
+00:49:50,560 --> 00:49:58,400
+of slides um thanks for the invite uh it was 
+short notice but I hope that I you know have
+
+470
+00:49:59,040 --> 00:50:05,520
+given you a perspective to consider that you have 
+not uh done so already There was probably some
+
+471
+00:50:05,520 --> 00:50:10,400
+uh overlap there in terms of you know what 
+already may know but we're very grateful for
+
+472
+00:50:10,400 --> 00:50:15,040
+the opportunity to speak to anyone anywhere 
+about free software So thank you Delta for
+
+473
+00:50:15,040 --> 00:50:21,600
+contacting us Uh thanks to anyone involved 
+coordinating this event Um you know it's
+
+474
+00:50:21,600 --> 00:50:26,960
+fun for me to always get to talk about yourself 
+So thanks very much Happy hacking See you later

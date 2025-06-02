@@ -1,0 +1,582 @@
+1
+00:00:00,000 --> 00:00:02,000
+‫این زیرنویس با ابزار مترجم سگارو ترجمه شده‬
+‫برای ترجمه اتوماتیک زیرنویس از وبسایت iSega.ro دیدن کنید‬
+
+2
+00:00:00,000 --> 00:00:02,000
+‫‫This subtitle has been translated with Segaro Translator tool‬
+‫For automatic subtitle translation, visit iSega.ro website‬‬
+
+3
+00:00:02,450 --> 00:00:12,759
+‫‫[Music] Uh, okay kids, here we have the Libre Planet event,‬‬
+
+4
+00:00:12,759 --> 00:00:19,199
+‫‫which is also accompanied by a LAN party hackathon, which is after the event itself, which is held in‬‬
+
+5
+00:00:19,199 --> 00:00:25,680
+‫‫the room over there, at 4:30 sharp, and its executive judge and leader is Farooq‬‬
+
+6
+00:00:25,680 --> 00:00:30,720
+‫‫Karimizadeh, whom you see there. Do you want to stand up for a minute so the kids can see you? Many people‬‬
+
+7
+00:00:30,720 --> 00:00:37,960
+‫‫were waiting for you. Yes, members who are in the PC Warm-up, that's Farooq. Yes.‬‬
+
+8
+00:00:37,960 --> 00:00:45,039
+‫‫Then the hackathon will also be held there at 4:30, but when the hackathon is held in that room,‬‬
+
+9
+00:00:45,039 --> 00:00:49,719
+‫‫here we also have open networking discussion for the kids who don't want to participate in the hackathon.‬‬
+
+10
+00:00:49,719 --> 00:00:56,480
+‫‫There are also some who only bought hackathon tickets and will come at 4:30 sharp just to participate in the‬‬
+
+11
+00:00:56,480 --> 00:01:03,079
+‫‫hackathon. Let me explain something to you, we wanted to hold this event in a very‬‬
+
+12
+00:01:03,079 --> 00:01:11,000
+‫‫simple way. What was common and in other countries, free software events were held in this way. Events in Iran have become a bit too luxurious. We tried‬‬
+
+13
+00:01:11,000 --> 00:01:16,000
+‫‫to do it this way. For example, we could have held classes, or even taken the whole‬‬
+
+14
+00:01:16,000 --> 00:01:20,280
+‫‫lower hall and filled it with 600 people, but the output was more valuable to us, and‬‬
+
+15
+00:01:20,280 --> 00:01:26,439
+‫‫here you see we have no pixels, no stickers, no lanyards; things that‬‬
+
+16
+00:01:26,439 --> 00:01:29,479
+‫‫Tehran.log does, we don't imitate them. Who here are from Tehran?‬‬
+
+17
+00:01:29,479 --> 00:01:33,960
+‫‫From Tehran? We had some. Are you all from Tehran? Yes, three people.‬‬
+
+18
+00:01:33,960 --> 00:01:39,439
+‫‫Yes, three people from Tehran. Kids, who are from other cities?‬‬
+
+19
+00:01:39,439 --> 00:01:44,920
+‫‫Well, you are definitely from Fasa. Is Farooq from Bandar? Is Delta also from Bandar?‬‬
+
+20
+00:01:44,920 --> 00:01:52,640
+‫‫And you? Didn't you come from Dezful yourself? Why are you holding your hand down? Are you from Shiraz too?‬‬
+
+21
+00:01:52,640 --> 00:01:58,960
+‫‫Also from Shiraz. Okay. Uh, I mentioned to you that the introduction is with a video that‬‬
+
+22
+00:01:58,960 --> 00:02:06,240
+‫‫our kids produced. We will start with that, and the presentations will be in the order they were supposed to be‬‬
+
+23
+00:02:06,240 --> 00:02:13,360
+‫‫held. Before all this, we have an introduction. In the introduction, given the number of people we are, a last name, the field you are working in, if you have a free project,‬‬
+
+24
+00:02:13,360 --> 00:02:18,800
+‫‫well, introduce it. Say, for example, I released this project, it solves this need, or‬‬
+
+25
+00:02:18,800 --> 00:02:23,160
+‫‫if you have a specific field you are learning or are proficient in, you can also mention that. It will be done from‬‬
+
+26
+00:02:23,160 --> 00:02:30,200
+‫‫the front. This side in this order. I will manage it myself. Go ahead. We want you to stand up‬‬
+
+27
+00:02:30,200 --> 00:02:37,840
+‫‫so the kids get to know you and you introduce yourself to the kids.‬‬
+
+28
+00:02:37,840 --> 00:02:43,200
+‫‫Tell us about the video. Hello everyone. I'm Delta. Okay, no, what are you doing?‬‬
+
+29
+00:02:43,200 --> 00:02:49,360
+‫‫I'm not doing anything special. Okay kids, this is Delta.‬‬
+
+30
+00:02:49,360 --> 00:02:55,440
+‫‫You? I'm Niousha, a web programmer.‬‬
+
+31
+00:02:55,440 --> 00:03:00,120
+‫‫Are you? Oh, you will come up and explain? You don't have to stand up if you're not comfortable.‬‬
+
+32
+00:03:00,120 --> 00:03:04,120
+‫‫I'm Elnaz, a C++ programmer. And you don't have a free project? You should make a PR on GitHub tonight.‬‬
+
+33
+00:03:05,400 --> 00:03:13,920
+‫‫I'm Nastaran, I work on frontend. Okay.‬‬
+
+34
+00:03:13,920 --> 00:03:23,440
+‫‫I'm Yalda, frontend developer. Frontend? I'm Sajjad.‬‬
+
+35
+00:03:23,440 --> 00:03:29,200
+‫‫Yes. Backend programmer. Oh, and you don't have any free projects? Stand up! It's very simple. Yes. Okay, no, well, introduce it.‬‬
+
+36
+00:03:29,760 --> 00:03:32,760
+‫‫It's okay. Tell us its name. It's a browser extension. Tell us its name. Widgetify.‬‬
+
+37
+00:03:34,040 --> 00:03:42,080
+‫‫Well, besides Widgetify, you wrote something else too. There's a dnsChanger. Yes, that's it.‬‬
+
+38
+00:03:42,080 --> 00:03:47,120
+‫‫His free project even had 77,000 users. He says he didn't do anything!‬‬
+
+39
+00:03:47,120 --> 00:03:52,640
+‫‫What? Okay, I'm Mahan.‬‬
+
+40
+00:03:52,640 --> 00:03:58,439
+‫‫I am, interested in Linux and free software. How many?‬‬
+
+41
+00:03:58,439 --> 00:04:02,959
+‫‫Yes, that's you. This side, I work on Android. You had two free projects?‬‬
+
+42
+00:04:02,959 --> 00:04:08,400
+‫‫You should have said. Oh, it's finished? Will you put your free project in the group?‬‬
+
+43
+00:04:08,400 --> 00:04:16,720
+‫‫It's not free? And that's okay too. Kids will come and contribute. Mohammad, are you here?‬‬
+
+44
+00:04:19,639 --> 00:04:24,160
+‫‫I'm Mohammad Shojaei, I work on Artificial Intelligence. My specialty is LLM language models.‬‬
+
+45
+00:04:24,160 --> 00:04:32,720
+‫‫I have a free project page on GitHub, it will come.‬‬
+
+46
+00:04:32,720 --> 00:04:40,919
+‫‫Put your GitHub in the group too. Yes, you? I'm Nazanin Zahra.‬‬
+
+47
+00:04:40,919 --> 00:04:48,280
+‫‫Yes, okay. Is there no one on that side? This side again. Mohammad, you who are filming, also‬‬
+
+48
+00:04:48,280 --> 00:04:57,360
+‫‫introduce yourself. Yes, greetings and good day. I'm Mohammad Zare, currently a cinematographer.‬‬
+
+49
+00:04:57,440 --> 00:05:03,639
+‫‫Good luck. Give them the microphone. Oh, wait a second. The microphone, I don't know.‬‬
+
+50
+00:05:03,639 --> 00:05:11,800
+‫‫where it is. I'm Saeed, I've been working with the kids and in Fasa.log for several years.‬‬
+
+51
+00:05:13,800 --> 00:05:23,319
+‫‫are active. If the kids are here, my specialty is PHP.‬‬
+
+52
+00:05:25,120 --> 00:05:33,120
+‫‫Kids, take the microphone, they are recording a video. Pass it around so it gets in the video.‬‬
+
+53
+00:05:33,120 --> 00:05:43,720
+‫‫Now, the ones that didn't get in, I'll fix them myself with AI, don't worry. Are you‬‬
+
+54
+00:05:45,199 --> 00:05:51,960
+‫‫here? Hello, I'm Haniyeh, a computer engineering student, a beginner, interested in...‬‬
+
+55
+00:05:51,960 --> 00:05:58,919
+‫‫Are you also free? Yes, yes. Hello, I'm Arezoo Kamaneh.‬‬
+
+56
+00:05:58,919 --> 00:06:06,840
+‫‫I work with .NET, a very good thinker. Hello, I'm Fatemeh Tayebi, backend developer, Django.‬‬
+
+57
+00:06:06,840 --> 00:06:13,000
+‫‫Django framework. Good luck. Hello, I'm Ali Najjari, frontend developer. Is your spot‬‬
+
+58
+00:06:13,000 --> 00:06:21,479
+‫‫not bad? No, okay, okay. Hello, good time. I'm Ali Rezadeh, I work with .NET, but‬‬
+
+59
+00:06:21,479 --> 00:06:28,440
+‫‫I became interested in free and open-source software. Thanks, thank you. Amir Hossein, pass the microphone to‬‬
+
+60
+00:06:28,440 --> 00:06:37,280
+‫‫that side. It's easier to pass it from here.‬‬
+
+61
+00:06:37,280 --> 00:06:44,400
+‫‫Hello, I'm Nazia, I haven't chosen my field yet, I'm learning. Very good, good luck.‬‬
+
+62
+00:06:44,400 --> 00:06:49,720
+‫‫Hello, I'm Mohammad, full-stack web programmer. Good luck.‬‬
+
+63
+00:06:50,880 --> 00:06:57,400
+‫‫I'm Parsa, UI/UX designer and I work with Blender.‬‬
+
+64
+00:06:57,400 --> 00:07:05,680
+‫‫Hello, I'm Reza, you said there was a friend from Dezful. I'm also from Dezful. Actually, I came from‬‬
+
+65
+00:07:05,680 --> 00:07:12,240
+‫‫Tehran, but well, count me as Dezfuli too. Sajjad wants to start Dezful.log.‬‬
+
+66
+00:07:13,479 --> 00:07:20,240
+‫‫With him? Seriously? Definitely talk to him later. Talk, Sajjad. Yes, talk. I'm a mobile programmer. I contribute to‬‬
+
+67
+00:07:20,240 --> 00:07:25,039
+‫‫my open source project on GitHub, in the Android field. Very good.‬‬
+
+68
+00:07:25,039 --> 00:07:32,080
+‫‫Hello, I'm Farooq. Farooq Karimizadeh, supporter of free culture, including free software and‬‬
+
+69
+00:07:32,080 --> 00:07:35,080
+‫‫contributor to Persian and English Wikipedia. Thank you. Well, Sardar Danial, stand up. Hello,‬‬
+
+70
+00:07:35,080 --> 00:07:41,160
+‫‫I'm Danial Ebrahimi, a bit of DevOps and networking.‬‬
+
+71
+00:07:42,280 --> 00:07:49,520
+‫‫Hello, I'm Ronak, interested in data science and IT. I'm developing a game.‬‬
+
+72
+00:07:49,520 --> 00:07:56,759
+‫‫I like it a bit.‬‬
+
+73
+00:07:56,759 --> 00:08:03,319
+‫‫Hello, I'm Hossein, I do web design and development.‬‬
+
+74
+00:08:05,240 --> 00:08:13,599
+‫‫Hello, I'm Setayesh, currently learning and working on web design and development. Amir Hossein,‬‬
+
+75
+00:08:13,599 --> 00:08:18,360
+‫‫pass it to Paniz.‬‬
+
+76
+00:08:20,879 --> 00:08:26,960
+‫‫Hello, I'm Paniz, backend programmer, backend developer. You didn't have a free project?‬‬
+
+77
+00:08:26,960 --> 00:08:33,599
+‫‫Make one tonight. Hello, I'm Arash Andishgar, interested in free software.‬‬
+
+78
+00:08:33,599 --> 00:08:37,120
+‫‫Hello, I'm Goudarz Jafari, a little bit of a programmer and I contribute a little bit. A little bit?‬‬
+
+79
+00:08:37,399 --> 00:08:46,200
+‫‫And the "little bit" he talks about, if you check his stats, it's a lot. Hello, I'm Shahriar, IT technician, a little bit interested in Linux, from that large community,‬‬
+
+80
+00:08:46,200 --> 00:08:51,800
+‫‫and a fierce enemy of showmen. Yes, greetings to you. Showmen. He fights showmen.‬‬
+
+81
+00:08:51,800 --> 00:08:59,680
+‫‫Greetings, I'm Mehdi, C developer. I have two projects, one is Relive GUI, which is a game‬‬
+
+82
+00:08:59,680 --> 00:09:05,560
+‫‫engine, and an auto-reloader project for reloading‬‬
+
+83
+00:09:05,560 --> 00:09:13,160
+‫‫applications. Greetings to you. I'm Shervin Ahmadi, interested in Linux and free software, and‬‬
+
+84
+00:09:13,160 --> 00:09:21,760
+‫‫I try a little bit, if possible, to help a project or something. Yes.‬‬
+
+85
+00:09:21,760 --> 00:09:28,079
+‫‫Okay, thanks everyone. We have a video, this video is produced by FSF, and on our kids' side, it has been‬‬
+
+86
+00:09:28,079 --> 00:09:32,959
+‫‫dubbed. Let me bring this over here.‬‬
+
+87
+00:09:34,399 --> 00:09:40,880
+‫‫Kids, right here, I'll curse Mac for a bit, it's really a crappy system. I'm forced to‬‬
+
+88
+00:09:40,880 --> 00:09:43,800
+‫‫use it out of necessity.‬‬
+
+89
+00:09:43,800 --> 00:09:52,680
+‫‫And it's okay, for promoting free software, sometimes our operating system is like this. If the Tehran.log kids were here,‬‬
+
+90
+00:09:52,680 --> 00:09:58,760
+‫‫they would attack, but they can't attack us. Oh,‬‬
+
+91
+00:09:58,760 --> 00:10:06,920
+‫‫Where did it go?‬‬
+
+92
+00:10:09,360 --> 00:10:14,880
+‫‫The decisions we make about the technology we use in our daily lives shape the world. For example, consider electric cars or the apps on your phone,‬‬
+
+93
+00:10:14,880 --> 00:10:19,000
+‫‫your personal computer, or on the internet, the software you use for work or study. The creators of these programs build a compelling way to experience the world,‬‬
+
+94
+00:10:19,000 --> 00:10:24,880
+‫‫but don't make this mistake, they don't serve you. Ultimately, our work is about‬‬
+
+95
+00:10:24,880 --> 00:10:32,760
+‫‫لاگ اگر چیز بودن حمله میشد ولی به ما
+
+نمیتونن آ‬‬
+
+96
+00:10:36,680 --> 00:10:40,200
+‫‫کجا رفت‬‬
+
+97
+00:10:48,639 --> 00:10:53,880
+‫‫تصمیمی که درباره فناوری که در زندگی
+
+روزمره استفاده می‌کنیم می‌گیریم به دنیا‬‬
+
+98
+00:10:53,880 --> 00:10:59,720
+‫‫شکل می‌دهد برای مثال خودروهای الکتریکی
+
+را در نظر بگیرید یا برنامه‌های روی تلفن‬
+
+99
+00:10:59,720 --> 00:11:05,839
+‫همراهتان رایانه شخصیتان یا روی اینترنت
+
+نرم‌افزارهایی که برای کار یا تحصیل‬
+
+100
+00:11:05,839 --> 00:11:11,040
+‫استفاده می‌کنید سازندگان این برنامه‌ها
+
+راهی متقاعد کننده برای تجربه دنیا‬
+
+101
+00:11:11,040 --> 00:11:17,480
+‫می‌سازند اما این اشتباه رو نکنید آن‌ها
+
+به شما خدمت نمی‌کنند در نهایت کارمان به‬
+
+102
+00:11:17,480 --> 00:11:22,560
+‫Software arrives that often deprives us of important rights and freedoms, in other words,‬
+
+103
+00:11:22,560 --> 00:11:28,079
+‫with non-free software, we walk in the dark. We cannot understand popular software‬
+
+104
+00:11:28,079 --> 00:11:33,720
+‫today because most of them are proprietary, which means our active participation‬
+
+105
+00:11:33,720 --> 00:11:39,160
+‫is deliberately limited. Instead, ultimately, the software controls us. This‬
+
+106
+00:11:39,160 --> 00:11:44,480
+‫is a story about how the world is and how it could be, when we don't examine‬
+
+107
+00:11:44,480 --> 00:11:49,519
+‫what happens? What happens when we follow the trail of breadcrumbs with the promise of convenience?‬
+
+108
+00:11:49,519 --> 00:11:54,600
+‫Given the presence of software in your life, shouldn't you be able to look inside‬
+
+109
+00:11:54,600 --> 00:11:59,279
+‫the software to see how it works? Shouldn't you be able to use‬
+
+110
+00:11:59,279 --> 00:12:03,920
+‫them however you want, make any changes you want, and share them‬
+
+111
+00:12:03,920 --> 00:12:08,320
+‫within your community? To live in a world where we control‬
+
+112
+00:12:08,320 --> 00:12:15,260
+‫our technologies, we need software that is free.‬
+
+113
+00:12:15,260 --> 00:12:20,639
+‫[Applause] Every software is essentially a set of‬
+
+114
+00:12:20,639 --> 00:12:26,120
+‫instructions to the computer that assemble like bricks to build your software.‬
+
+115
+00:12:26,120 --> 00:12:32,040
+‫There is a global community of people who believe software should‬
+
+116
+00:12:32,040 --> 00:12:39,519
+‫serve you, the user. You should be able to freely access these building blocks,‬
+
+117
+00:12:39,519 --> 00:12:44,320
+‫make changes, and share them however you want, and when‬
+
+118
+00:12:44,320 --> 00:12:49,519
+‫you can do these things, we call that free software. With free software,‬
+
+119
+00:12:49,519 --> 00:12:54,279
+‫not only can you check that the software does what it says,‬
+
+120
+00:12:54,279 --> 00:12:59,920
+‫like protecting your privacy, you can change it to do new work,‬
+
+121
+00:12:59,920 --> 00:13:05,399
+‫something creative. You can solve any problem you can imagine.‬
+
+122
+00:13:05,399 --> 00:13:10,839
+‫We protect this freedom using a concept called copyleft. This‬
+
+123
+00:13:10,839 --> 00:13:17,199
+‫ensures that all modified and extended versions of the software are also required to be‬
+
+124
+00:13:17,199 --> 00:13:23,720
+‫free. Software freedom is worth fighting for. As a user, you have the power‬
+
+125
+00:13:23,720 --> 00:13:30,079
+‫to demand change. You can make conscious decisions towards freedom.‬
+
+126
+00:13:30,079 --> 00:13:35,639
+‫Gradually and step by step. There are free programs you can start using from‬
+
+127
+00:13:35,639 --> 00:13:42,120
+‫today, which provide ethical alternatives to the software on your computer and mobile phone.‬
+
+128
+00:13:42,120 --> 00:13:47,839
+‫Over time, you can replace more and more parts of‬
+
+129
+00:13:47,839 --> 00:13:52,320
+‫your digital life. Pay attention now. A shocking new video‬
+
+130
+00:13:52,320 --> 00:13:56,120
+‫from a school teacher, who wandered into a bar and realized what's really going on inside the devices we carry in‬
+
+131
+00:13:56,120 --> 00:14:00,079
+‫our pockets. It turned out they are a kind of mind control and‬
+
+132
+00:14:00,079 --> 00:14:04,160
+‫that ultimately, you suddenly walk straight into the mouth of monsters. Software freedom‬
+
+133
+00:14:04,160 --> 00:14:10,240
+‫is important. Not just when we think about technology, but for a free society.‬
+
+134
+00:14:10,240 --> 00:14:16,040
+‫So from now on, when you talk about any kind of freedom, please‬
+
+135
+00:14:16,040 --> 00:14:21,120
+‫consider the role that software also plays in it. The Free Software Foundation‬
+
+136
+00:14:21,120 --> 00:14:27,360
+‫has fought for software freedom since 1985. The journey‬
+
+137
+00:14:27,360 --> 00:14:34,920
+‫will not end until we all climb the ladder of freedom.‬
+
+138
+00:14:34,920 --> 00:14:40,680
+‫[Music] Okay guys, that was the video "Escape to Freedom"‬
+
+139
+00:14:40,680 --> 00:14:46,000
+‫which was sent to us by the FSF, where we had a story that likened the promises of‬
+
+140
+00:14:46,000 --> 00:14:52,440
+‫monopolists and the use of non-free software to walking towards darkness.‬
+
+141
+00:14:52,440 --> 00:14:57,560
+‫We have also put the video on the channel, you can share it. There is another video‬
+
+142
+00:14:57,560 --> 00:15:04,800
+‫as well. That will be shown tomorrow on the second day of LibrePlanet.‬
+

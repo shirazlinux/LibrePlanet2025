@@ -1,0 +1,1232 @@
+1
+00:00:00,000 --> 00:00:02,000
+‫این زیرنویس با ابزار مترجم سگارو ترجمه شده‬
+‫برای ترجمه اتوماتیک زیرنویس از وبسایت iSega.ro دیدن کنید‬
+
+2
+00:00:00,000 --> 00:00:02,000
+‫This subtitle was translated using Segaro Translator tool
+Visit iSega.ro website for automatic subtitle translation‬
+
+3
+00:00:02,450 --> 00:00:10,679
+‫[Music]
+Hello and good time everyone‬
+
+4
+00:00:10,679 --> 00:00:16,800
+‫I am Zahra Bakhshandeh and I know
+almost many of the children who are here.‬
+
+5
+00:00:16,800 --> 00:00:24,119
+‫Familiar faces! I'm very happy to be with you
+at this conference today and I hope that...‬
+
+6
+00:00:24,119 --> 00:00:30,039
+‫the content presented will be useful for you.
+As the title of my presentation indicates,‬
+
+7
+00:00:30,039 --> 00:00:37,239
+‫we are going to talk about the discussion related to decentralized
+and free software in the healthcare space.‬
+
+8
+00:00:37,239 --> 00:00:45,440
+‫A topic that has a lot of potential for improvement
+and is very critical, yet in many...‬
+
+9
+00:00:45,440 --> 00:00:50,440
+‫places it has been left out in technology.‬
+
+10
+00:00:51,039 --> 00:00:56,879
+‫Well, I'll start my slides with an introduction
+to talk about the shortcomings of technology in the world of healthcare.‬
+
+11
+00:00:56,879 --> 00:01:03,640
+‫After that, we'll go to free software
+and also decentralized storage of health and medical data.‬
+
+12
+00:01:03,640 --> 00:01:11,119
+‫And finally, we'll take a look at
+the future that the world of healthcare can have considering...‬
+
+13
+00:01:11,119 --> 00:01:17,799
+‫free software as well as decentralized
+data.‬
+
+14
+00:01:17,799 --> 00:01:24,360
+‫Well, first of all, let's go to the shortcomings
+that exist. The discussion of health and medicine is one of the...‬
+
+15
+00:01:25,400 --> 00:01:33,399
+‫completely critical discussions for all communities
+around the world. However, in terms of technology...‬
+
+16
+00:01:33,399 --> 00:01:40,720
+‫it has a lot of challenges. One of them
+is that most of the software in this field...‬
+
+17
+00:01:40,720 --> 00:01:45,840
+‫is under the supervision of specific companies
+and has more of a commercial view towards them. Well, now...‬
+
+18
+00:01:45,840 --> 00:01:53,079
+‫What is wrong with this? It is quite clear that
+when we do not have access to the code of a software,...‬
+
+19
+00:01:53,079 --> 00:01:59,520
+‫we are not aware of its flaws. The flaw might
+be related to security. This is also problematic, meaning...‬
+
+20
+00:01:59,520 --> 00:02:05,680
+‫there is no transparency whatsoever. The issue of security
+is also likely to face problems. But, in addition to these...‬
+
+21
+00:02:05,680 --> 00:02:11,319
+‫since it is under the supervision of a company, naturally,
+only a specific group works on it.‬
+
+22
+00:02:11,319 --> 00:02:17,800
+‫And this causes our problem, which is
+improving that software, to be limited. And...‬
+
+23
+00:02:17,800 --> 00:02:24,720
+‫many of the existing ideas cannot be implemented
+on them. And this actually...‬
+
+24
+00:02:24,720 --> 00:02:32,360
+‫becomes problematic, for what? For the discussion
+of global medical improvement. But the second...‬
+
+25
+00:02:32,360 --> 00:02:37,400
+‫point that exists...‬
+
+26
+00:02:37,400 --> 00:02:48,400
+‫point that exists‬
+
+27
+00:02:48,400 --> 00:02:51,400
+‫exists‬
+
+28
+00:02:52,440 --> 00:02:59,319
+‫exists. Well, friends, our discussion was about the challenges
+that exist in the field of healthcare. The first‬
+
+29
+00:02:59,319 --> 00:03:05,319
+‫point was that most of the software
+that exists is not free‬
+
+30
+00:03:05,319 --> 00:03:11,480
+‫and is under the supervision of different companies, but
+the second point that exists and which many‬
+
+31
+00:03:11,480 --> 00:03:18,519
+‫can say is a challenge is that data storage
+is completely centralized. What does that mean? It means‬
+
+32
+00:03:18,519 --> 00:03:24,599
+‫that if an organization has a software
+and receives some data from patients,‬
+
+33
+00:03:24,599 --> 00:03:32,159
+‫it stores that data on its own server, and if a second organization
+also exists, it also has its own system,‬
+
+34
+00:03:32,159 --> 00:03:38,640
+‫meaning that the concept of data
+integration simply does not exist here. A simple example, if we want to say, let's assume that‬
+
+35
+00:03:38,640 --> 00:03:44,120
+‫in the field of healthcare, someone goes and gets a test
+done at a laboratory, which is a routine thing‬
+
+36
+00:03:44,120 --> 00:03:50,519
+‫that always exists. Well, now if they want to visit
+a cardiologist,‬
+
+37
+00:03:50,519 --> 00:03:55,959
+‫they have to manually bring the data
+obtained from that laboratory and submit it,‬
+
+38
+00:03:55,959 --> 00:04:01,360
+‫meaning there is often no connection
+between doctors, clinics, and hospitals,‬
+
+39
+00:04:01,360 --> 00:04:07,760
+‫and the reason for this is that data is stored in a centralized manner.
+Well, now we are going to‬
+
+40
+00:04:07,760 --> 00:04:14,159
+‫talk about what happens if we take healthcare towards
+free software. What happens if we go‬
+
+41
+00:04:14,159 --> 00:04:20,959
+‫towards decentralization? And have any efforts been made so far or not? First‬
+
+42
+00:04:20,959 --> 00:04:27,199
+‫of all, let's assume that we take the discussion of healthcare
+towards using free software. Well, what happens here?‬
+
+43
+00:04:27,199 --> 00:04:35,479
+‫The first thing that is clear is that
+since the code exists, there is more trust‬
+
+44
+00:04:35,479 --> 00:04:42,360
+‫and better transparency for patients
+to use different software, but the key point‬
+
+45
+00:04:42,360 --> 00:04:48,280
+‫is that we separate ownership from the discussion
+of healthcare on different software. Well, what does this lead to? This leads to‬
+
+46
+00:04:48,280 --> 00:04:55,160
+‫the software that exists, instead of being
+simply under the supervision of one company, a team from‬
+
+47
+00:04:55,160 --> 00:05:00,720
+‫all over the world can work on it, implement
+different ideas on it, and well, this‬
+
+48
+00:05:00,720 --> 00:05:06,440
+‫allows us to have a very good global
+improvement in the field of healthcare [__].‬
+
+49
+00:05:06,440 --> 00:05:12,520
+‫And the main point that exists is that healthcare
+is essential for everywhere in the world. We do something‬
+
+50
+00:05:12,520 --> 00:05:18,120
+‫so that we can have a very good global
+improvement in the field of healthcare [__].‬
+
+51
+00:05:18,120 --> 00:05:24,680
+‫And the main point that exists is that healthcare
+is essential for everywhere in the world. We do something‬
+
+52
+00:05:24,680 --> 00:05:32,120
+‫so that we don't improve the scaling solely on a specific area and instead improve it‬
+
+53
+00:05:32,120 --> 00:05:42,400
+‫in a completely global manner. But with these explanations, is the project actually open source software?‬
+
+54
+00:05:42,400 --> 00:05:50,560
+‫or not? Unfortunately, despite this topic being very important and fundamental and potentially very helpful,‬
+
+55
+00:05:50,560 --> 00:05:57,759
+‫due to commercial considerations and a certain perspective they currently have on projects, the security they aim for,‬
+
+56
+00:05:57,759 --> 00:06:04,400
+‫from the perspective they currently have on projects, the security they aim for,‬
+
+57
+00:06:04,400 --> 00:06:09,759
+‫the topic of open source software in healthcare hasn't‬
+
+58
+00:06:09,759 --> 00:06:16,759
+‫become widespread enough. However, there are some projects. One of the most well-known is the‬
+
+59
+00:06:16,759 --> 00:06:24,960
+‫GNU Health project. This project was launched in 2010 and is actually used for managing digital records‬
+
+60
+00:06:24,960 --> 00:06:30,759
+‫of patients. The space it provides is for working with hospitals and‬
+
+61
+00:06:30,759 --> 00:06:36,280
+‫different clinics. Because it allows them to share their data with each other‬
+
+62
+00:06:36,280 --> 00:06:42,800
+‫as well. Furthermore, the vision it has, the goals it actually has,‬
+
+63
+00:06:42,800 --> 00:06:50,160
+‫are beyond this. It deals with various epidemics like Corona, Influenza, and collects data,‬
+
+64
+00:06:50,160 --> 00:06:57,800
+‫stores it, and through that, it can have statistical and analytical insights.‬
+
+65
+00:06:57,800 --> 00:07:06,080
+‫Besides these cases, it is also active in the area of social health [__], and its goal is‬
+
+66
+00:07:06,080 --> 00:07:12,160
+‫to be able to provide positive points in the fields of poverty and nutrition, especially in countries that are not‬
+
+67
+00:07:12,160 --> 00:07:18,520
+‫developed. It is currently being used in different places‬
+
+68
+00:07:18,520 --> 00:07:26,199
+‫and is among the projects in the open world that have been able to get a good output‬
+
+69
+00:07:26,199 --> 00:07:31,720
+‫from it. But another project that exists, which was launched in the year‬
+
+70
+00:07:31,720 --> 00:07:42,720
+‫2011, is Orthanc. This project is actually a server. A server that allows‬
+
+71
+00:07:42,720 --> 00:07:48,680
+‫first of all, it's very light, very easy to work with, and it allows‬
+
+72
+00:07:48,680 --> 00:07:52,520
+‫different organizations working in the medical field‬
+
+73
+00:07:52,520 --> 00:08:00,479
+‫to install this server, and those devices related to medical images,‬
+
+74
+00:08:00,479 --> 00:08:05,919
+‫like CT scans, like MRI, they can easily connect these to it‬
+
+75
+00:08:05,919 --> 00:08:12,599
+‫and thus manage their image data, and‬
+
+76
+00:08:12,599 --> 00:08:19,280
+‫it also uses the format for medical images and has no problem with it.‬
+
+77
+00:08:19,280 --> 00:08:25,960
+‫it. A good point it has is that its installation is extremely simple. It's cross-platform, meaning it runs easily on‬
+
+78
+00:08:25,960 --> 00:08:34,039
+‫Windows, Mac, and Linux. It doesn't need very specific hardware.‬
+
+79
+00:08:34,039 --> 00:08:39,399
+‫To the extent that it can be run on very simple single-board computers (like Raspberry Pi?), and one point that‬
+
+80
+00:08:39,399 --> 00:08:44,279
+‫exists is that it allows us to have REST APIs from the data we have, which makes working with it‬
+
+81
+00:08:44,279 --> 00:08:49,800
+‫very easy for us. This project also currently exists and‬
+
+82
+00:08:49,800 --> 00:08:57,839
+‫is being used. Well, so far we've talked about using open-source software‬
+
+83
+00:08:57,839 --> 00:09:04,800
+‫in the world of healthcare, but one point that exists is that the healthcare world is very full‬
+
+84
+00:09:04,800 --> 00:09:10,120
+‫of various challenges. Meaning when you enter it, even with a small project, you easily‬
+
+85
+00:09:10,120 --> 00:09:16,000
+‫see these challenges, for example, from different‬
+
+86
+00:09:16,000 --> 00:09:22,959
+‫organizations there are certain challenges, and also from the different data that is stored,‬
+
+87
+00:09:22,959 --> 00:09:30,279
+‫the issue of that data's security. So it can be said that in this world, what needs to be done‬
+
+88
+00:09:30,279 --> 00:09:36,120
+‫should be a bit beyond open-source software, a bit deeper. What does that mean? It means we need to‬
+
+89
+00:09:36,120 --> 00:09:44,240
+‫go towards using open architectures that exist for decentralizing data.‬
+
+90
+00:09:44,240 --> 00:09:51,560
+‫What does that mean? In the discussion of centralization, we said that the data of each organization, each software, is‬
+
+91
+00:09:51,560 --> 00:09:57,640
+‫running on its own dedicated server, and this causes us to not have the discussion related to data uniformity.‬
+
+92
+00:09:57,640 --> 00:10:05,000
+‫We don't have data uniformity, and another important point here is that the user does not own their data‬
+
+93
+00:10:05,000 --> 00:10:10,519
+‫in the context of centralization. Why? When I go and get a test, that test is being‬
+
+94
+00:10:10,519 --> 00:10:16,519
+‫stored as data on the server of an organization, and the ownership of that data and‬
+
+95
+00:10:16,519 --> 00:10:23,920
+‫its validity goes to that organization, not me, the user. The discussion of decentralization specifically arose to solve this very‬
+
+96
+00:10:23,920 --> 00:10:28,480
+‫problem, and open architectures like blockchain can also be used in this area.‬
+
+97
+00:10:28,480 --> 00:10:35,360
+‫used. In this world, it says let's consider a network where users‬
+
+98
+00:10:35,360 --> 00:10:41,200
+‫can store their data. In fact, different patients. This data should be completely‬
+
+99
+00:10:41,200 --> 00:10:47,480
+‫integrated. Meaning if I visit a cardiologist, all the tests and events‬
+
+100
+00:10:47,480 --> 00:10:52,959
+‫that have happened should be stored there. If I have a simple test, like a blood test, it should also be stored there again.‬
+
+101
+00:10:52,959 --> 00:11:00,600
+‫be stored there. Furthermore, it allows that user, that patient, to have access.‬
+
+102
+00:11:00,600 --> 00:11:08,959
+‫‫can share their data with different people. This means the data ownership completely falls into the user's hands. This‬‬
+
+103
+00:11:08,959 --> 00:11:16,320
+‫‫What does that mean? It means I know that if I have a test, exactly who is seeing this test?‬‬
+
+104
+00:11:16,320 --> 00:11:22,360
+‫‫Something that doesn't exist right now is the discussion of our medical data. It's not clear‬‬
+
+105
+00:11:22,360 --> 00:11:29,959
+‫‫where it goes from where and what happens to it. If we want to explain this topic very simply,‬‬
+
+106
+00:11:29,959 --> 00:11:36,320
+‫‫how it is and how this happens, let's assume there is a network,‬‬
+
+107
+00:11:36,320 --> 00:11:42,480
+‫‫for example, a blockchain network. Different patients and...‬‬
+
+108
+00:11:42,480 --> 00:11:50,120
+‫‫Let's consider doctors as nodes in this network, and now doctors as specialists and‬‬
+
+109
+00:11:50,120 --> 00:11:55,959
+‫‫other users as different patients who exist. Everyone who is here,‬‬
+
+110
+00:11:55,959 --> 00:12:01,519
+‫‫meaning both those who are specialists and those who are patients, should have a data wallet.‬‬
+
+111
+00:12:01,519 --> 00:12:07,160
+‫‫Something that currently exists on the blockchain in different projects is having a data wallet,‬‬
+
+112
+00:12:07,160 --> 00:12:14,079
+‫‫so that through this, they can store all their medical data in one place. This‬‬
+
+113
+00:12:14,079 --> 00:12:20,480
+‫‫What does this mean? If we consider from birth, from those initial tests that were done for us,‬‬
+
+114
+00:12:20,480 --> 00:12:28,000
+‫‫up to the rest of the journey, we have all of it completely. Often in the medical field,‬‬
+
+115
+00:12:28,000 --> 00:12:33,639
+‫‫what are the problems that arise? It's that we don't know if this event that just happened‬‬
+
+116
+00:12:33,639 --> 00:12:39,639
+‫‫has roots in childhood or not. Why? Because we don't have most of the data. Now, this data wallet of ours‬‬
+
+117
+00:12:39,639 --> 00:12:45,600
+‫‫comes completely securely and stores all this data. It's on the blockchain platform, so it's completely‬‬
+
+118
+00:12:45,600 --> 00:12:54,120
+‫‫encrypted, and this data is only visible to the patient themselves, not anyone else. Well now,‬‬
+
+119
+00:12:54,120 --> 00:12:59,320
+‫‫in this space, this space that now exists, it's not just for storing data.‬‬
+
+120
+00:12:59,320 --> 00:13:06,120
+‫‫It's also supposed to facilitate communication between specialists and patients. For example, I can get a‬‬
+
+121
+00:13:06,120 --> 00:13:12,800
+‫‫diet plan here, or I can get a report from a cardiologist. Well, since everything is‬‬
+
+122
+00:13:12,800 --> 00:13:17,079
+‫‫safe and secure, what happens? I can't do this anymore, because‬‬
+
+123
+00:13:17,079 --> 00:13:23,480
+‫‫except for myself, no one else had permission to see this data. In this state, we can‬‬
+
+124
+00:13:23,480 --> 00:13:32,800
+‫‫consider a method where the person can specifically open only the part of their data that is intended‬‬
+
+125
+00:13:32,800 --> 00:13:40,040
+‫‫for a specific specialist. Just a part of their data that is intended. For example, I‬‬
+
+126
+00:13:40,040 --> 00:13:46,880
+‫‫have all my medical data from birth. Now I have started a diet and‬‬
+
+127
+00:13:46,880 --> 00:13:52,040
+‫‫the person who wants to give me a diet said that they want my blood pressure, for example. Well, I‬‬
+
+128
+00:13:52,040 --> 00:13:56,680
+‫‫go into my data and look at all the tests related to my blood pressure at different stages of my life...‬‬
+
+129
+00:13:56,680 --> 00:14:03,920
+‫‫I unlock only that part and send it.‬‬
+
+130
+00:14:03,920 --> 00:14:09,720
+‫‫to that nutritionist. Well, what happened here is that it specifies who the data should go to.‬‬
+
+131
+00:14:09,720 --> 00:14:16,680
+‫‫Or what data. Now, here he has sent his blood sugar, and we can even say...‬‬
+
+132
+00:14:16,680 --> 00:14:22,320
+‫‫for how long. Meaning, for how long can this specific nutritionist have access to my data.‬‬
+
+133
+00:14:22,320 --> 00:14:28,680
+‫‫and this way, besides security, the issue of data control also completely falls into the patient's hands. This is something that is clearly the fundamental right of a user who is active in a healthcare system,‬‬
+
+134
+00:14:28,680 --> 00:14:36,680
+‫‫completely falls into the patient's hands. This is something that is clearly the fundamental right of a user who is active in a healthcare system,‬‬
+
+135
+00:14:36,680 --> 00:14:44,079
+‫‫is active in a healthcare system. And something that doesn't exist at all currently. Well, now let's see...‬‬
+
+136
+00:14:44,079 --> 00:14:49,839
+‫‫if this is beneficial for us or not? Moving towards being decentralized...‬‬
+
+137
+00:14:49,839 --> 00:14:55,759
+‫‫Naturally, from what I've said, you should now understand‬‬
+
+138
+00:14:55,759 --> 00:15:03,199
+‫‫the benefit it has. The first benefit it has, which is actually the most important one, is the issue of managing data ownership and...‬‬
+
+139
+00:15:03,199 --> 00:15:09,800
+‫‫now, controlling it is completely in the patient's hands. And this is the key point that should be here.‬‬
+
+140
+00:15:09,800 --> 00:15:15,399
+‫‫The next issue is security. Since...‬‬
+
+141
+00:15:15,399 --> 00:15:22,800
+‫‫the data is encrypted, the data that is stored is completely secure. And the next issue‬‬
+
+142
+00:15:22,800 --> 00:15:31,000
+‫‫is that communication between different people in that network is also established.‬‬
+
+143
+00:15:31,000 --> 00:15:38,360
+‫‫is in that network, the possibility of choosing data also happens where the user wants it to. And...‬‬
+
+144
+00:15:38,360 --> 00:15:44,319
+‫‫Another point is that everything is transparent and clear for one person, as a patient.‬‬
+
+145
+00:15:44,319 --> 00:15:51,880
+‫‫They can completely track who has been able to see their data and in what time frame. But let's go to projects that are open-source software...‬‬
+
+146
+00:15:51,880 --> 00:15:58,880
+‫‫see it. But let's go to projects that are open-source software...‬‬
+
+147
+00:15:58,880 --> 00:16:03,040
+‫‫and decentralized, which exist now.‬‬
+
+148
+00:16:03,040 --> 00:16:07,959
+‫‫Unfortunately, in this field, the number of projects that exist is much fewer than...‬‬
+
+149
+00:16:07,959 --> 00:16:13,959
+‫‫projects that are simply centralized and open-source software. However,‬‬
+
+150
+00:16:13,959 --> 00:16:20,040
+‫‫Despite this, I have brought two examples here. The first case is MedChain. This is a...‬‬
+
+151
+00:16:20,040 --> 00:16:27,279
+‫‫relatively small project that a group of students developed. It came up in 2022.‬‬
+
+152
+00:16:27,279 --> 00:16:34,440
+‫It hasn't reached the production stage yet, but it has an interesting method.‬
+
+153
+00:16:34,440 --> 00:16:40,959
+‫Its method is that we have a set of doctors, and now a set of patients want to visit those doctors.‬
+
+154
+00:16:40,959 --> 00:16:47,000
+‫Instead of storing their information in a database, they come and store it on the blockchain platform,‬
+
+155
+00:16:47,000 --> 00:16:52,000
+‫meaning the platform it uses for decentralization is the blockchain.‬
+
+156
+00:16:52,000 --> 00:16:59,600
+‫Okay, what happens is that the doctor in question comes and logs in.‬
+
+157
+00:16:59,600 --> 00:17:07,400
+‫To what? To the wallet they have, which is usually MetaMask. After they come and‬
+
+158
+00:17:07,400 --> 00:17:15,120
+‫are logged in, they get the public address of that specific user, that specific patient, and once they‬
+
+159
+00:17:15,120 --> 00:17:21,520
+‫receive it, what they do is store that specific test or that specific feedback for that‬
+
+160
+00:17:21,520 --> 00:17:29,760
+‫specific patient on their own wallet, and for storing it, it's stored on IPFS,‬
+
+161
+00:17:29,760 --> 00:17:36,280
+‫which provides a secure space so that it can, both in terms of not burdening the blockchain platform,‬
+
+162
+00:17:36,280 --> 00:17:42,320
+‫and in terms of being able to manage these data securely, store them.‬
+
+163
+00:17:42,320 --> 00:17:48,880
+‫This way, all the data the user receives from different doctors are stored on their wallet‬
+
+164
+00:17:48,880 --> 00:17:53,000
+‫and they can access them.‬
+
+165
+00:17:53,000 --> 00:18:01,240
+‫And for the things used in it, like React and Solidity for‬
+
+166
+00:18:01,240 --> 00:18:10,440
+‫smart contracts, and Ethereum and IPFS, which I mentioned for data storage, are used.‬
+
+167
+00:18:10,440 --> 00:18:16,480
+‫But this project that existed, we said it is currently, meaning it hasn't reached the production stage yet,‬
+
+168
+00:18:16,480 --> 00:18:24,240
+‫only its code is on GitHub and it's a relatively small project. But another project‬
+
+169
+00:18:24,240 --> 00:18:32,159
+‫that exists is the topic of HIA of One. The 'One' at the end refers to the idea of‬
+
+170
+00:18:32,159 --> 00:18:37,720
+‫individual, or personalized. What kind of project is this? This is a‬
+
+171
+00:18:37,720 --> 00:18:44,520
+‫relatively larger project. It was presented in 2017, it's decentralized and open‬
+
+172
+00:18:44,520 --> 00:18:53,280
+‫source as well, but it has some points that we will talk about. This project actually‬
+
+173
+00:18:53,280 --> 00:19:01,600
+‫manages user data exactly like the example I explained here,‬
+
+174
+00:19:01,600 --> 00:19:08,080
+‫meaning it comes and stores user data inside wallets. And what happens is‬
+
+175
+00:19:08,080 --> 00:19:14,799
+‫what? At different times, it only allows, with this structure (Who, What),‬
+
+176
+00:19:14,799 --> 00:19:21,799
+‫to be able to share our data between different doctors, meaning between different experts.‬
+
+177
+00:19:21,799 --> 00:19:29,280
+‫The structure it has is exactly this example, but based on the explanation I gave, some of its points are:‬
+
+178
+00:19:29,280 --> 00:19:37,200
+‫The main point is that this project is not on the blockchain platform, meaning it has used...‬
+
+179
+00:19:37,200 --> 00:19:43,640
+‫some other methods for its decentralization, but...‬
+
+180
+00:19:43,640 --> 00:19:49,240
+‫it's not necessarily on the blockchain platform. So, generally speaking...‬
+
+181
+00:19:49,240 --> 00:19:56,200
+‫At any scale, combining decentralization, even though currently on...‬
+
+182
+00:19:56,200 --> 00:20:02,120
+‫various articles are working on this topic and it's also present in different projects, still...‬
+
+183
+00:20:02,120 --> 00:20:09,840
+‫a project that is both free software and decentralized, and can be...‬
+
+184
+00:20:09,840 --> 00:20:16,520
+‫used, to that extent, doesn't exist, while there is a very high potential for this field.‬
+
+185
+00:20:16,520 --> 00:20:21,880
+‫exists. And if we want to take a look at the future that can happen for healthcare [__]...‬
+
+186
+00:20:21,880 --> 00:20:27,480
+‫well, if the existing method continues in this way, well, the challenges will increase every day.‬
+
+187
+00:20:27,480 --> 00:20:34,000
+‫more and more. But if we move healthcare towards free software and also...‬
+
+188
+00:20:34,000 --> 00:20:40,039
+‫towards decentralization, based on the free architectures that exist, there are positive points...‬
+
+189
+00:20:40,039 --> 00:20:46,080
+‫in this regard, as there is a very high potential in this field, and to the extent that...‬
+
+190
+00:20:46,080 --> 00:20:51,360
+‫even very small projects can be started in this field and advanced...‬
+
+191
+00:20:51,360 --> 00:20:59,400
+‫to monitor a part of this healthcare world. If we move projects...‬
+
+192
+00:20:59,400 --> 00:21:06,280
+‫in this direction, what happens is we reach a world of healthcare, a place where all patients...‬
+
+193
+00:21:06,280 --> 00:21:12,440
+‫have ownership of their own data. In addition, security is paramount for patients...‬
+
+194
+00:21:12,440 --> 00:21:19,000
+‫Doctors can communicate with each other, patients with each other easily and securely...‬
+
+195
+00:21:19,000 --> 00:21:25,279
+‫is completely possible. And that community is created which is growing and can globally...‬
+
+196
+00:21:25,279 --> 00:21:32,559
+‫expand this space. Some projects are currently working on these...‬
+
+197
+00:21:32,559 --> 00:21:37,600
+‫matters. All four items that I talked about...‬
+
+198
+00:21:37,600 --> 00:21:44,360
+‫as free software, I have provided their GitHub links and websites here...‬
+
+199
+00:21:44,360 --> 00:21:50,919
+‫so that if you want information, you can find and use it. I hope the content was useful...‬
+
+200
+00:21:50,919 --> 00:21:56,200
+‫for you. If you have any questions, please ask.‬
+
+201
+00:22:01,440 --> 00:22:04,640
+‫Please, do you have a question?‬
+
+202
+00:22:06,799 --> 00:22:11,840
+‫I'll put this file. Yes, I'll put the file.
+You...‬
+
+203
+00:22:11,840 --> 00:22:20,080
+‫The question you asked was if it's a usable software
+for end-users like doctors and their patients who use it.‬
+
+204
+00:22:20,080 --> 00:22:28,440
+‫They do. Its main goal is public health,
+meaning as an end-user, doctors can also...‬
+
+205
+00:22:28,440 --> 00:22:36,000
+‫use it, this is one of its goals, but the main
+goal that this project focuses on is the...‬
+
+206
+00:22:36,000 --> 00:22:39,679
+‫connection between clinics and...‬
+
+207
+00:22:39,919 --> 00:22:46,480
+‫hospitals.
+Mostly, yes, exactly. And that second tool that...‬
+
+208
+00:22:46,480 --> 00:22:52,360
+‫existed, its installation is very simple, and it
+can be used by various doctors who work in the field of...‬
+
+209
+00:22:52,360 --> 00:22:59,919
+‫images.
+Another question, it was about the blockchain service, I don't
+remember.‬
+
+210
+00:22:59,919 --> 00:23:04,159
+‫That's very good, Reza, this file between doctor
+and patient and now... they need a transaction...‬
+
+211
+00:23:04,159 --> 00:23:14,240
+‫Exactly, cost? No, not a financial transaction, no, block-
+chain is purely... Now, the project I'm working on myself, this example...‬
+
+212
+00:23:14,240 --> 00:23:19,000
+‫is. Blockchain is not solely for financial transactions.
+It's for when a group of people as nodes...‬
+
+213
+00:23:19,000 --> 00:23:27,480
+‫are added to a space, to a network,
+and in that existing network...‬
+
+214
+00:23:27,480 --> 00:23:33,640
+‫that trust needs to be formed, right? So
+it's purely for this, now that transaction that...‬
+
+215
+00:23:33,640 --> 00:23:39,880
+‫happens, something that is usually in
+our minds, well, it's the financial aspect that exists...‬
+
+216
+00:23:39,880 --> 00:23:46,320
+‫exists, but here, the transaction that
+happens becomes about data transfer, about...‬
+
+217
+00:23:46,320 --> 00:23:52,679
+‫receiving feedback from the doctor and...‬
+
+218
+00:23:52,679 --> 00:23:56,760
+‫so on. Okay, no questions?
+Please ask.‬
+
+219
+00:23:57,480 --> 00:24:04,640
+‫Many organizations...‬
+
+220
+00:24:04,640 --> 00:24:07,760
+‫fake work...‬
+
+221
+00:24:07,760 --> 00:24:11,919
+‫do that come...‬
+
+222
+00:24:12,120 --> 00:24:18,080
+‫Many times an organization wants to
+train an AI model on its patients' data.‬
+
+223
+00:24:18,080 --> 00:24:23,320
+‫With what you said, this work practically
+becomes impossible, I forgot to mention this.‬
+
+224
+00:24:23,320 --> 00:24:30,200
+‫Thank you very much for mentioning it. One of the
+most fundamental... Now, because I myself worked on this project...‬
+
+225
+00:24:30,200 --> 00:24:35,480
+‫worked, meaning the main details it has, something
+I missed...‬
+
+226
+00:24:35,480 --> 00:24:43,200
+‫is the topic related to AI. Well, these projects
+that are now coming up in the field of healthcare, one goal...‬
+
+227
+00:24:43,200 --> 00:24:50,679
+‫they have is to be able to improve the topic related
+to healthcare from several aspects? In terms of... Well, they are...‬
+
+228
+00:24:50,679 --> 00:24:56,559
+‫already storing data from birth.
+They should be able to detect from a certain point onwards if...‬
+
+229
+00:24:56,559 --> 00:25:01,880
+‫a certain specific disease will occur or not.
+Meaning they can do prediction and in some places, prevention.‬
+
+230
+00:25:01,880 --> 00:25:07,919
+‫Why? Despite having very strong models now
+in other fields.‬
+
+231
+00:25:07,919 --> 00:25:13,880
+‫In the field of healthcare, this is not the case.
+This is the biggest challenge for people.‬
+
+232
+00:25:13,880 --> 00:25:20,399
+‫What happens here? We have a network where different
+people have wallets. Well, that wallet that exists...‬
+
+233
+00:25:20,399 --> 00:25:26,919
+‫is completely secure, meaning no one can see that
+data. So, consequently, according to our view...‬
+
+234
+00:25:26,919 --> 00:25:32,000
+‫AI models cannot use it.
+Why? Because in reality, the data is encrypted.‬
+
+235
+00:25:32,000 --> 00:25:38,120
+‫But a new AI has emerged, the topic of federated learning.
+It doesn't need the data.‬
+
+236
+00:25:38,120 --> 00:25:45,320
+‫What it actually does, it doesn't ask for the data
+from me, the programmer. It works on the encrypted data.‬
+
+237
+00:25:45,320 --> 00:25:52,240
+‫And now it returns those weights and that final output
+to us.‬
+
+238
+00:25:52,240 --> 00:25:59,559
+‫So in this space that exists, there is a very large
+volume of data, all of which is like a...‬
+
+239
+00:25:59,559 --> 00:26:07,440
+‫single fabric/piece stored. Now suppose we implement
+federated learning on such a network...‬
+
+240
+00:26:07,440 --> 00:26:13,240
+‫we can get better results than taking a limited
+amount of data...‬
+
+241
+00:26:13,240 --> 00:26:18,600
+‫from a hospital. The same data they give, they usually apply many modifications to it...‬
+
+242
+00:26:18,600 --> 00:26:24,120
+‫so that the security of patients is not questioned. And
+they usually give us a part of the data...‬
+
+243
+00:26:24,120 --> 00:26:29,720
+‫which cannot yield good results.
+Meaning AI comes to work on the data...‬
+
+244
+00:26:29,720 --> 00:26:33,600
+‫that is encrypted, yes, to be trained. Yes, yes.
+Without the programmer understanding anything...‬
+
+245
+00:26:33,600 --> 00:26:38,640
+‫So it returns the output to the programmer.
+Interesting.‬
+
+246
+00:26:38,640 --> 00:26:42,760
+‫Then it's anonymous. Meaning the idea that
+people's identity won't be revealed, right? No, revealed...‬
+
+247
+00:26:42,760 --> 00:26:51,159
+‫won't be. Okay, no more questions?‬
+
+248
+00:26:51,159 --> 00:26:59,960
+‫Go ahead. It's in their hands for a limited time, yes.
+They can...‬
+
+249
+00:26:59,960 --> 00:27:05,360
+‫specify the time.
+Data can be taken from birth...‬
+
+250
+00:27:05,360 --> 00:27:11,679
+‫up until now, until their current age. Then when you go
+to the doctor, until that moment, for example, for a...‬
+
+251
+00:27:11,679 --> 00:27:16,399
+‫limited time it's in their hands. Then whenever you
+don't want it anymore, they cancel it, yes. And...‬
+
+252
+00:27:16,399 --> 00:27:21,840
+‫‫Everything goes back to the individual
+person again. The information is completely there. One of...‬‬
+
+253
+00:27:21,840 --> 00:27:27,640
+‫‫the features that can be considered is how
+long that expert, meaning our expert here is the doctor,‬‬
+
+254
+00:27:27,640 --> 00:27:32,039
+‫‫should have access to the information?‬‬
+
+255
+00:27:38,200 --> 00:27:42,799
+‫‫Okay, any other questions?‬‬
+
+256
+00:27:46,320 --> 00:27:52,840
+‫‫Excuse me, why can't this data be stored
+on the web? Is it because of potential data leaks?‬‬
+
+257
+00:27:52,840 --> 00:28:01,480
+‫‫That's right. Currently, Cloudflare has added
+a new feature that prevents AI from infiltrating websites.‬‬
+
+258
+00:28:01,480 --> 00:28:07,640
+‫‫Is this sufficient? Can we use it? No,
+it's really not...‬‬
+
+259
+00:28:07,640 --> 00:28:13,240
+‫‫data is stored there, well. But here,
+hash data... data is stored. Meaning everything is completely...‬‬
+
+260
+00:28:13,240 --> 00:28:18,799
+‫‫encrypted and stored with it... now, with
+the various methods that exist, it's very...‬‬
+
+261
+00:28:18,799 --> 00:28:24,880
+‫‫different. Since only the hash data is stored
+and now there are some...‬‬
+
+262
+00:28:24,880 --> 00:28:30,159
+‫‫methods. For example, Zero Knowledge exists,
+MPC exists. If we check these...‬‬
+
+263
+00:28:30,159 --> 00:28:34,960
+‫‫now, we see that they are being used for this
+very data storage.‬‬
+
+264
+00:28:34,960 --> 00:28:41,799
+‫‫For data encryption, actually for encrypting
+and decrypting it, where the data itself is not...‬‬
+
+265
+00:28:41,799 --> 00:28:48,240
+‫‫stored at all. Meaning even when my data reaches
+the expert, the expert again...‬‬
+
+266
+00:28:48,240 --> 00:28:52,519
+‫‫has to decrypt it, which itself has different
+algorithms there.‬‬
+
+267
+00:28:52,519 --> 00:28:58,919
+‫‫So, the reason it's stored on the web is
+because of its security, right? Yes, it's because of its security and...‬‬
+
+268
+00:28:58,919 --> 00:29:07,240
+‫‫that, well, it accepts a specific set, right?
+This is going to be much larger.‬‬
+
+269
+00:29:19,039 --> 00:29:25,720
+‫‫Go ahead. Go ahead, yes, yes, yes. The point was that
+there is a...‬‬
+
+270
+00:29:25,720 --> 00:29:31,720
+‫‫environment for medical students. As far as
+I know, the information is called Sermo, I think.‬‬
+
+271
+00:29:31,720 --> 00:29:37,200
+‫‫There is an environment where doctors from
+all over the world come and share their information. Meaning...‬‬
+
+272
+00:29:37,200 --> 00:29:42,919
+‫‫even give you a prescription there. You
+can get a prescription there. In my opinion, even from...‬‬
+
+273
+00:29:42,919 --> 00:29:50,480
+‫‫that environment can be used for better diagnoses,
+right? Yes, these cases exist and...‬‬
+
+274
+00:29:50,480 --> 00:29:55,919
+‫‫their number is not limited, but the problem is
+that even those are limited. Meaning now they seem large...‬‬
+
+275
+00:29:55,919 --> 00:30:02,840
+‫‫but when we get into it, we see that it might
+not even include one percent of the world's population.‬‬
+
+276
+00:30:02,840 --> 00:30:08,360
+‫‫Meaning that information is not... not publicly
+available at all. Yes, not... not publicly...‬‬
+
+277
+00:30:08,360 --> 00:30:14,360
+‫‫available at all. Yes, available to them. Generally,
+the availability of medical data for programmers is also...‬‬
+
+278
+00:30:14,360 --> 00:30:18,880
+‫‫always a challenge and difficult. Meaning
+from that side they don't give us data and from this side if we don't have data‬‬
+
+279
+00:30:18,880 --> 00:30:25,039
+‫‫we can... if we don't have data we can't
+do things... Thank you, be well.‬‬
+

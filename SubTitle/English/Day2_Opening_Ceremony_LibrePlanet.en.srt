@@ -1,0 +1,253 @@
+1
+00:00:00,000 --> 00:00:02,000
+‫این زیرنویس با ابزار مترجم سگارو ترجمه شده‬
+‫برای ترجمه اتوماتیک زیرنویس از وبسایت iSega.ro دیدن کنید‬
+
+2
+00:00:00,000 --> 00:00:02,000
+‫This subtitle has been translated using Segaro translator tool.
+Visit iSega.ro for automatic subtitle translation.‬
+
+3
+00:00:07,240 --> 00:00:13,519
+‫Alright kids, hello again. Temperature and weather,
+is everything okay?‬
+
+4
+00:00:13,519 --> 00:00:20,519
+‫You who are on that side, do you see if those on the other side are okay too?
+It's the second day of the conference.‬
+
+5
+00:00:20,519 --> 00:00:25,840
+‫LibrePlanet. If I want to briefly compare with yesterday, well, there were some weaknesses.‬
+
+6
+00:00:25,840 --> 00:00:31,199
+‫Mostly regarding the venue. So far, from our side as well, well, some‬
+
+7
+00:00:31,199 --> 00:00:35,719
+‫issues existed, but well, we tried to be able to fix them today. We promised that these‬
+
+8
+00:00:35,719 --> 00:00:42,640
+‫would be clarified, but well, they turned off their phones on us and don't answer. Which now, these...‬
+
+9
+00:00:42,640 --> 00:00:49,680
+‫I apologize to you. The next point is, we have received a video from FSF.‬
+
+10
+00:00:49,680 --> 00:00:55,960
+‫But subtitling it...
+Doing the translation has become time-consuming. I‬
+
+11
+00:00:55,960 --> 00:01:02,920
+‫have the translation, but if I put the English video, well, I don't think the entire group‬
+
+12
+00:01:02,920 --> 00:01:09,320
+‫will be fully proficient, and it's a bit troublesome for the other kids. Yes, we'll try to put it on the channel tonight or tomorrow with‬
+
+13
+00:01:09,320 --> 00:01:14,439
+‫Farsi subtitles on the channel.
+What does it have in English subtitles? English subtitles?‬
+
+14
+00:01:14,439 --> 00:01:20,479
+‫It doesn't have. We got the English subtitles, translated them, but we haven't been able to do the other tasks yet,‬
+
+15
+00:01:20,479 --> 00:01:28,720
+‫and we'll put this on the channel. And the next point, FSF itself has a form that‬
+
+16
+00:01:28,720 --> 00:01:35,119
+‫I'll put the link in the channel now as well.
+You can also scan the QR code so that we‬
+
+17
+00:01:35,119 --> 00:01:40,600
+‫should come into the form. When you click it, now this is localized to Farsi. Where it's by‬
+
+18
+00:01:40,600 --> 00:01:47,079
+‫default English, make sure to select the country Iran, which in Iran is Shiraz, meaning right here‬
+
+19
+00:01:47,079 --> 00:01:53,520
+‫where we've set it up, and leave your comments there, which now are mostly about‬
+
+20
+00:01:53,520 --> 00:02:01,560
+‫local liberal and it asks you a few questions. How was your experience with Reza‬
+
+21
+00:02:01,560 --> 00:02:08,679
+‫and so on. It also has another page.
+Ah, where it mostly says how‬
+
+22
+00:02:08,679 --> 00:02:12,360
+‫you got to know us. And Mohammad, my image is completely...‬
+
+23
+00:02:12,360 --> 00:02:20,280
+‫here. God's power! You paid attention for once, okay?
+And it asks you about the survey this way. More completely,‬
+
+24
+00:02:20,280 --> 00:02:26,800
+‫the questions here are in Farsi. We'll put this too so you can fill it out there. Okay. The thing is,‬
+
+25
+00:02:26,800 --> 00:02:31,760
+‫I don't think there will be a problem if the kids write in Farsi.‬
+
+26
+00:02:34,360 --> 00:02:39,640
+‫Now you can use ChatGPT. Yes, I suggest you write in Farsi, give it to this to become English.‬
+
+27
+00:02:39,640 --> 00:02:46,200
+‫Give your feedback, it's better. Because it's the first year it's held in Iran, and our collaboration is supposed to continue‬
+
+28
+00:02:46,200 --> 00:02:50,760
+‫with FSF, not just in LibrePlanet. We're going to run a few operational campaigns.‬
+
+29
+00:02:50,760 --> 00:02:56,959
+‫run. Of course, I think "operation translate" is wrong. Everyone thinks of operations‬
+
+30
+00:02:56,959 --> 00:03:04,200
+‫like suicide attacks and stuff. Yes, but the intention is the same campaign and promotion of free software culture, in this‬
+
+31
+00:03:04,200 --> 00:03:07,560
+‫way. We also have another video, meaning yesterday‬
+
+32
+00:03:07,560 --> 00:03:15,680
+‫that the kids dubbed, I'll put it for you to watch. It's a very cool video, the kids‬
+
+33
+00:03:15,680 --> 00:03:22,400
+‫liked it. I'll play the video, then we'll go to Mohammad's first presentation‬
+
+34
+00:03:22,400 --> 00:03:26,720
+‫Shojaei's, also about artificial intelligence.‬
+
+35
+00:03:27,159 --> 00:03:30,159
+‫Not translated‬
+
+36
+00:03:56,420 --> 00:03:59,879
+‫[Music]
+I found a problem that puts drivers‬
+
+37
+00:03:59,879 --> 00:04:04,959
+‫of vehicles at risk. Contact my team.‬
+
+38
+00:04:06,760 --> 00:04:10,879
+‫I think we should watch this. Hackers found our work. I found a problem in your proprietary‬
+
+39
+00:04:10,879 --> 00:04:15,239
+‫system that allows unauthorized remote control via Bluetooth.‬
+
+40
+00:04:15,239 --> 00:04:19,519
+‫Your vehicles are unsafe. No, my team has created free software that blocks Bluetooth‬
+
+41
+00:04:19,519 --> 00:04:24,440
+‫access to the internal system. Who are you? I'm David, alias Kernel Frog.‬
+
+42
+00:04:24,440 --> 00:04:31,199
+‫We're releasing this in 24 hours.
+Everyone get out. Hey, I have something for you.‬
+
+43
+00:04:31,199 --> 00:04:35,039
+‫I'm running the final test. I'm uploading it from the lab internet. It will be about half‬
+
+44
+00:04:35,039 --> 00:04:38,880
+‫an hour until you receive it.‬
+
+45
+00:05:00,920 --> 00:05:10,440
+‫[Music]
+Honestly, you won't believe what happened. What‬
+
+46
+00:05:10,440 --> 00:05:14,280
+‫happened? A motorcycle hit me, I fell down, in an ambulance.‬
+
+47
+00:05:14,280 --> 00:05:18,560
+‫One of the new self-driving models. On the way to the hospital. Someone took control of the ambulance.‬
+
+48
+00:05:18,560 --> 00:05:23,000
+‫I have your location. Whoever is doing this must be near you. That same motorcycle‬
+
+49
+00:05:23,000 --> 00:05:28,840
+‫rider who knocked me down is now behind us. I'll be there in two minutes.‬
+
+51
+00:05:53,400 --> 00:05:57,510
+‫[Music]‬
+
+52
+00:06:00,960 --> 00:06:05,919
+‫Beckett Resen, it disables remote control.
+Follow me. The police found the motorcycle rider.‬
+
+53
+00:06:05,919 --> 00:06:09,520
+‫‫It turned out they were hired by the same villains, they knew about this vulnerability, this was a‬‬
+
+54
+00:06:09,520 --> 00:06:13,080
+‫‫backdoor designed to create a "Corona" market in the private security industry. They had put‬‬
+
+55
+00:06:13,080 --> 00:06:17,240
+‫‫millions of users at risk. Everyone should have the right to run, study, modify, and‬‬
+
+56
+00:06:17,240 --> 00:06:21,160
+‫‫share the software they use, especially when public safety is concerned. [music]‬‬
+
+57
+00:06:21,160 --> 00:06:26,000
+‫‫Proprietary software creates unacceptable risks in a world increasingly dependent on automated systems.‬‬
+
+58
+00:06:26,000 --> 00:06:31,400
+‫‫Help build the future we want. Join the Free Software Foundation.‬‬
+
+59
+00:06:31,400 --> 00:06:36,639
+‫‫Join the Free Software Foundation.‬‬
+
+60
+00:06:36,639 --> 00:06:40,520
+‫‫Free Software Foundation.‬‬
+
+61
+00:06:42,199 --> 00:06:45,080
+‫‫‏‬‬
+

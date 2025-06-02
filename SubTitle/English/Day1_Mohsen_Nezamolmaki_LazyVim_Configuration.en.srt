@@ -1,0 +1,713 @@
+1
+00:00:00,000 --> 00:00:02,000
+‫این زیرنویس با ابزار مترجم سگارو ترجمه شده‬
+‫برای ترجمه اتوماتیک زیرنویس از وبسایت iSega.ro دیدن کنید‬
+
+2
+00:00:00,000 --> 00:00:02,000
+‫This subtitle is translated by Segaro translator tool
+Visit iSega.ro for automatic subtitle translation‬
+
+3
+00:00:07,680 --> 00:00:12,880
+‫Hello. Hello, hope you're not tired. Thank you for coming and dedicating your time.‬
+
+4
+00:00:12,880 --> 00:00:16,440
+‫dedicating your time and...‬
+
+5
+00:00:18,680 --> 00:00:21,359
+‫Yeah, just a...‬
+
+6
+00:00:21,840 --> 00:00:30,759
+‫My name is Mohsen Nezamolmolki, I'm a developer, and I'm here to introduce you to LazyVim editor. It's the editor that I use for my own development work.‬
+
+7
+00:00:30,759 --> 00:00:36,440
+‫I use it for all my editing work, both for system administration tasks and software development.‬
+
+8
+00:00:36,440 --> 00:00:43,719
+‫And before anything else, is there anyone here who has worked with Vim?‬
+
+9
+00:00:43,719 --> 00:00:51,520
+‫With Vim, maybe just for Git commits, Git commits?‬
+
+10
+00:00:51,520 --> 00:00:57,440
+‫So, nobody has worked with Vim. LazyVim is actually the same Vim but with some default‬
+
+11
+00:00:58,399 --> 00:01:03,800
+‫configurations that allow you to set up your Vim much faster‬
+
+12
+00:01:03,800 --> 00:01:09,960
+‫and start working with it. Vim is a well-known editor that is difficult to work with‬
+
+13
+00:01:09,960 --> 00:01:15,680
+‫on its own, but in return, it significantly increases speed and is usually not for beginners‬
+
+14
+00:01:15,680 --> 00:01:22,079
+‫and newcomers. And since there's no one here who has worked with Vim, I need to give you an‬
+
+15
+00:01:22,079 --> 00:01:30,400
+‫introduction about Vim. Vim is terminal-based and very configurable.‬
+
+16
+00:01:30,400 --> 00:01:38,360
+‫And its main point is that you...‬
+
+17
+00:01:38,360 --> 00:01:44,040
+‫meaning its main feature is that its entire focus is on the keyboard, and you can perform all‬
+
+18
+00:01:44,040 --> 00:01:51,119
+‫the actions you would do on an editor or IDE without taking your hands off the keyboard.‬
+
+19
+00:01:51,119 --> 00:01:57,159
+‫Perform them without using a mouse. This is suitable for people who work a lot with the keyboard.‬
+
+20
+00:01:57,159 --> 00:02:01,719
+‫suitable for people who work a lot with the keyboard.‬
+
+21
+00:02:01,719 --> 00:02:04,600
+‫But let's see in practice what this Vim‬
+
+22
+00:02:05,560 --> 00:02:11,040
+‫is. For example, I will open a file.‬
+
+23
+00:02:11,040 --> 00:02:15,920
+‫A file that I wrote before. It's a bash script. Okay, I have opened Vim now. This is the Vim environment.‬
+
+24
+00:02:17,120 --> 00:02:24,920
+‫By default, when you enter the Vim environment, you‬
+
+25
+00:02:24,920 --> 00:02:29,480
+‫cannot type anything.‬
+
+26
+00:02:29,480 --> 00:02:32,440
+‫cannot type‬
+
+27
+00:02:33,120 --> 00:02:36,360
+‫In...‬
+
+28
+00:02:36,640 --> 00:02:43,280
+‫For example, if you press the "j" key or the "Carro" key, you move between lines.‬
+
+29
+00:02:43,280 --> 00:02:51,720
+‫And if, for example, you press the "j" key twice, you go to the beginning of the line, or if you press Shift+g...‬
+
+30
+00:02:51,720 --> 00:02:56,080
+‫...you go to the end of the file. But you cannot type anything.‬
+
+31
+00:02:56,080 --> 00:03:02,920
+‫Because Vim is a modal editor, meaning it has different modes. When you open Vim,‬
+
+32
+00:03:02,920 --> 00:03:10,560
+‫you are in normal mode, meaning Vim's operators are active; meaning instead of‬
+
+33
+00:03:10,560 --> 00:03:12,799
+‫writing "j",‬
+
+34
+00:03:12,840 --> 00:03:18,080
+‫it moves one line down. Meaning...‬
+
+35
+00:03:18,080 --> 00:03:22,920
+‫...it comes down, with "k" it moves up. It navigates, so to speak.‬
+
+36
+00:03:22,920 --> 00:03:27,680
+‫And for example, if you want to go to the end of a line, you can use...‬
+
+37
+00:03:27,680 --> 00:03:35,480
+‫...the star key to go to the end of that line. If you paid attention to the cursor. But if...‬
+
+38
+00:03:35,480 --> 00:03:41,680
+‫...you want to type something in it, you must enter another mode called insert. And how do you...‬
+
+39
+00:03:41,680 --> 00:03:48,040
+‫...enter insert mode? You just need to press the "i" key. If I am on this line now...‬
+
+40
+00:03:48,040 --> 00:03:52,120
+‫...and press the "i" key,‬
+
+41
+00:03:52,120 --> 00:03:57,439
+‫it writes "INSERT" down here for me. Meaning I am now in insert mode, and now any key...‬
+
+42
+00:03:57,439 --> 00:04:03,200
+‫...I press on the keyboard will start typing. If I press Escape again...‬
+
+43
+00:04:03,200 --> 00:04:09,480
+‫...it exits insert mode. It no longer writes "INSERT" here and enters normal mode. And...‬
+
+44
+00:04:09,480 --> 00:04:16,359
+‫...now I can again move around in my code between lines, with letters; which are actually...‬
+
+45
+00:04:16,359 --> 00:04:24,639
+‫...my keyboard keys. Like j, k, and other keys where each key has an action.‬
+
+46
+00:04:24,960 --> 00:04:29,440
+‫...action. This means I don't have to take my hand off the keyboard. With the j key I can...‬
+
+47
+00:04:29,440 --> 00:04:34,479
+‫...go up and down without wanting to use the mouse, or without wanting to use the up...‬
+
+48
+00:04:34,479 --> 00:04:38,199
+‫...and down arrow keys.‬
+
+49
+00:04:45,479 --> 00:04:50,080
+‫Ah, yes, yes, good point.‬
+
+50
+00:04:56,120 --> 00:05:02,240
+‫Okay, but now I want to talk about LazyVim. This is just a simple editor and, well,‬
+
+51
+00:05:02,240 --> 00:05:07,919
+‫it has nothing. It doesn't have a file tree, nor does it give me errors if I write code in it. But...‬
+
+52
+00:05:07,919 --> 00:05:13,560
+‫‫...what I want to talk about now is an
+editor like VS Code, which is...‬‬
+
+53
+00:05:13,560 --> 00:05:18,000
+‫‫actually based on Vim and runs in the terminal.‬‬
+
+54
+00:05:37,160 --> 00:05:43,160
+‫‫This editor is LazyVim. Now I'll start and
+introduce its features.‬‬
+
+55
+00:05:43,160 --> 00:05:48,199
+‫‫The first feature I want to introduce is a file tree.
+You don't have this by default in Vim, but well,‬‬
+
+56
+00:05:48,199 --> 00:05:52,800
+‫‫if you want to use it as an IDE, everyone
+expects their IDE to have something like this, a file tree.‬‬
+
+57
+00:05:52,800 --> 00:05:57,800
+‫‫LazyVim gives you this by default.
+Of course, I moved it to the right side.‬‬
+
+58
+00:05:57,800 --> 00:06:03,880
+‫‫Usually, file trees are on the left. The Vim editor
+is very customizable, and I changed it, moved it to the right side‬‬
+
+59
+00:06:03,880 --> 00:06:10,680
+‫‫for myself.‬‬
+
+60
+00:06:10,680 --> 00:06:15,840
+‫‫Here, I can navigate in the file tree with the same Vim keys.‬‬
+
+61
+00:06:15,840 --> 00:06:22,160
+‫‫All of this is done with the keyboard, and you can see here
+which key I'm pressing whenever I press a key.‬‬
+
+62
+00:06:22,160 --> 00:06:27,400
+‫‫I'll open a file. It also has an explorer here,
+which if I click on it,‬‬
+
+63
+00:06:27,840 --> 00:06:32,400
+‫‫I can find the file name by searching,‬‬
+
+64
+00:06:32,400 --> 00:06:37,440
+‫‫like this. I'll open it again and find a file‬‬
+
+65
+00:06:39,039 --> 00:06:45,319
+‫‫in it.‬‬
+
+66
+00:06:45,319 --> 00:06:48,240
+‫‫Okay, we have a set of keybindings in the Vim editor
+that we use for our tasks.‬‬
+
+67
+00:06:53,880 --> 00:06:59,479
+‫‫Since we practically don't use the mouse here,
+most of our keybindings start with a specific key,‬‬
+
+68
+00:06:59,479 --> 00:07:06,039
+‫‫which is the space key here. For example, if I press
+space twice, something like this opens up, and I can find the file‬‬
+
+69
+00:07:06,039 --> 00:07:11,039
+‫‫by typing its name. And now I'm in this file.‬‬
+
+70
+00:07:11,039 --> 00:07:19,039
+‫‫Okay, I opened the server.rs file, and it opened in a new tab for me.
+I can switch between tabs with Alt+J or Alt+K.‬‬
+
+71
+00:07:23,080 --> 00:07:26,960
+‫‫Again, I'll open another file to make it three.‬‬
+
+72
+00:07:27,039 --> 00:07:37,240
+‫‫‬‬
+
+73
+00:07:39,120 --> 00:07:48,319
+‫‫I can move my tabs with Alt and Shift and,‬‬
+
+74
+00:07:48,319 --> 00:07:50,440
+‫‫for example, J. And if you saw, I moved this Cargo‬‬
+
+75
+00:07:50,879 --> 00:07:57,199
+‫‫to the first tab, I rearranged it.‬‬
+
+76
+00:07:57,199 --> 00:08:01,400
+‫‫Okay, keybindings: by default, Vim has some keybindings, which
+you might...‬‬
+
+77
+00:08:01,400 --> 00:08:05,840
+‫‫when you use them, because of...
+install it. But LazyVim has a good option...‬‬
+
+78
+00:08:16,680 --> 00:08:22,759
+‫‫When you press the space key, it shows you the keys, meaning
+the keybindings, here.‬‬
+
+79
+00:08:22,759 --> 00:08:28,000
+‫‫It shows and guides you. If you have forgotten them,
+you can remember them again.‬‬
+
+80
+00:08:28,000 --> 00:08:33,440
+‫‫For example, here, if I press space one more time,
+it opens for finding files.‬‬
+
+81
+00:08:33,440 --> 00:08:38,839
+‫‫I can find my files. If I press B...‬‬
+
+82
+00:08:38,839 --> 00:08:44,640
+‫‫a new pop-up window opened again and tells me that
+if I press Delete, for example, it will close this buffer or...‬‬
+
+83
+00:08:44,640 --> 00:08:50,160
+‫‫that tab for me. I'll press D now, and Cargo was closed. All...‬‬
+
+84
+00:08:50,480 --> 00:08:59,880
+‫‫of this is done with the keyboard.‬‬
+
+85
+00:08:59,880 --> 00:09:06,360
+‫‫I can split my windows with the key, with this key. Now we have two separate windows.‬‬
+
+86
+00:09:06,360 --> 00:09:09,279
+‫‫I can split this window again once more.‬‬
+
+87
+00:09:11,880 --> 00:09:16,880
+‫‫And now I have three windows, and I can now change the size of these with the mouse.‬‬
+
+88
+00:09:16,880 --> 00:09:23,399
+‫‫‬‬
+
+89
+00:09:23,399 --> 00:09:27,680
+‫‫Okay, let me close these extra windows.‬‬
+
+90
+00:09:27,680 --> 00:09:34,800
+‫‫‬‬
+
+91
+00:09:34,800 --> 00:09:37,120
+‫‫Okay, now let's talk about some features that we usually use in VS...‬‬
+
+92
+00:09:42,839 --> 00:09:47,440
+‫‫Code. Like, for example, commenting code, which we have all of this here. I can comment out a line of code with...‬‬
+
+93
+00:09:51,480 --> 00:09:54,480
+‫‫this keybinding. I can select and comment.‬‬
+
+94
+00:09:55,200 --> 00:09:59,480
+‫‫‬‬
+
+95
+00:09:59,480 --> 00:10:05,240
+‫‫Okay, our Vim editor is equipped with LSP. This means that in this file, where the function...‬‬
+
+96
+00:10:05,240 --> 00:10:10,240
+‫‫hello... I have features like Go to References, meaning the places...‬‬
+
+97
+00:10:10,240 --> 00:10:13,240
+‫‫where this function has been called, with the key combination GR.‬‬
+
+98
+00:10:17,000 --> 00:10:26,320
+‫‫It jumps into, well, Go to References to the references made to this function in...‬‬
+
+99
+00:10:26,320 --> 00:10:31,640
+‫‫‬‬
+
+100
+00:10:31,640 --> 00:10:37,399
+‫‫‬‬
+
+101
+00:10:37,399 --> 00:10:43,680
+‫‫‬‬
+
+102
+00:10:43,680 --> 00:10:48,800
+‫‫File. I have a good definition. I can jump to the
+definition of this...‬‬
+
+103
+00:10:48,800 --> 00:10:52,320
+‫‫referenced function.‬‬
+
+104
+00:10:55,519 --> 00:11:00,880
+‫‫With this method, I can see the descriptions of functions or
+types...‬‬
+
+105
+00:11:00,880 --> 00:11:08,360
+‫‫see. Here I see the type "Result", if I press Shift+K, I see its description. This description...‬‬
+
+106
+00:11:08,360 --> 00:11:13,360
+‫‫which is defined in the library, and I'm seeing it.‬‬
+
+107
+00:11:16,720 --> 00:11:22,720
+‫‫I can also have a global rename, meaning I can rename a function or a variable...‬‬
+
+108
+00:11:22,720 --> 00:11:28,040
+‫‫in a way that its name changes throughout the entire project.‬‬
+
+109
+00:11:32,760 --> 00:11:39,079
+‫‫Okay, for example, I'll change this "Seh Hello" to "Seh Goodbye".‬‬
+
+110
+00:11:39,440 --> 00:11:43,720
+‫‫Now, other places where this is called will also change...‬‬
+
+111
+00:11:43,720 --> 00:11:48,560
+‫‫it will change, wherever it's called.‬‬
+
+112
+00:11:54,760 --> 00:12:01,440
+‫‫Okay, for example, we see errors, we see warnings. In LazyVim, exactly...‬‬
+
+113
+00:12:01,440 --> 00:12:08,000
+‫‫as you expect and use in VS Code. Now I can see the full warning...‬‬
+
+114
+00:12:08,000 --> 00:12:13,320
+‫‫that is given here...‬‬
+
+115
+00:12:15,040 --> 00:12:20,000
+‫‫see. The warning given, for example, says that this import you've done is an unnecessary import.‬‬
+
+116
+00:12:20,000 --> 00:12:25,360
+‫‫It's unused. And we also have something called Code...‬‬
+
+117
+00:12:25,360 --> 00:12:31,839
+‫‫Action which can fix warnings and errors for us. Code Action, for example, is like this...‬‬
+
+118
+00:12:31,839 --> 00:12:36,639
+‫‫For instance, well, you should know its keybinding, but you can also use this popup...‬‬
+
+119
+00:12:36,639 --> 00:12:44,240
+‫‫use. You need to go to the "SP" section and if you click the first option, Code Action...‬‬
+
+120
+00:12:44,240 --> 00:12:47,639
+‫‫a series...‬‬
+
+121
+00:12:47,839 --> 00:12:53,000
+‫‫gives us a series of options for making some changes suitable for fixing that warning or...‬‬
+
+122
+00:12:53,000 --> 00:12:55,800
+‫‫error, to perform...‬‬
+
+123
+00:12:56,079 --> 00:13:01,240
+‫‫them. And if you look at the last one, it says "Remove unused import".‬‬
+
+124
+00:13:01,240 --> 00:13:07,120
+‫‫If I select this last one, it automatically removes the imports...‬‬
+
+125
+00:13:07,120 --> 00:13:12,079
+‫‫that are unused for me.‬‬
+
+126
+00:13:20,519 --> 00:13:24,040
+‫‫Anothe interesting thing is that when you are writing code and you haven't imported something...‬‬
+
+127
+00:13:24,040 --> 00:13:28,360
+‫‫you haven't, by using this same Code Action, it automatically adds the import for you...‬‬
+
+128
+00:13:28,360 --> 00:13:31,360
+‫‫does.‬‬
+
+129
+00:13:33,279 --> 00:13:40,440
+‫‫Let me talk about Git features in this editor. These colored parts of the code...‬‬
+
+130
+00:13:40,440 --> 00:13:45,720
+‫‫...mean they are new lines and haven't been committed yet.‬‬
+
+131
+00:13:45,720 --> 00:13:53,920
+‫‫Again, with key bindings, you can jump between these very quickly.‬‬
+
+132
+00:14:09,079 --> 00:14:15,440
+‫‫If you paid attention to the letters I typed, it was clear that with three words, with...‬‬
+
+133
+00:14:15,440 --> 00:14:21,959
+‫‫...three keys, meaning one key binding, I could switch between these.‬‬
+
+134
+00:14:25,000 --> 00:14:30,320
+‫‫I can stage it, this line of code...‬‬
+
+135
+00:14:32,639 --> 00:14:39,480
+‫‫...is now staged. This line and its color changed.‬‬
+
+136
+00:14:39,480 --> 00:14:44,639
+‫‫Just this line, I just staged this line. If, for example, you change two parts in a file...‬‬
+
+137
+00:14:44,639 --> 00:14:50,800
+‫‫...only that part is now staged.‬‬
+
+138
+00:14:50,800 --> 00:14:57,759
+‫‫I only staged this part of the line, not the whole file. The whole file...‬‬
+
+139
+00:14:57,759 --> 00:15:02,920
+‫‫...can be staged, if you want.‬‬
+
+140
+00:15:02,920 --> 00:15:09,040
+‫‫Now, to have, in fact, full access to everything that Git wants, the task that...‬‬
+
+141
+00:15:09,040 --> 00:15:14,360
+‫‫...you want to do with Git, it has a Git editor inside itself.‬‬
+
+142
+00:15:14,360 --> 00:15:18,680
+‫‫which opens like this.‬‬
+
+143
+00:15:18,680 --> 00:15:26,000
+‫‫And on the left side are the files, and the right side...‬‬
+
+144
+00:15:26,000 --> 00:15:31,600
+‫‫...shows the content of the file, it actually shows their diff, and now here you can...‬‬
+
+145
+00:15:31,600 --> 00:15:37,560
+‫‫...stage any file you want. For example, I can now stage the client.‬‬
+
+146
+00:15:38,800 --> 00:15:42,759
+‫‫All of it. Again, the Git Blame...‬‬
+
+147
+00:15:44,079 --> 00:15:48,800
+‫‫...we have. If I now press Git Blame, maybe it's not very, very clear, but this is a...‬‬
+
+148
+00:15:48,800 --> 00:15:53,759
+‫‫...popup and there it says, for example, who made this commit and what the commit name...‬‬
+
+149
+00:15:53,759 --> 00:15:56,720
+‫‫...was and what its diff was.‬‬
+
+150
+00:16:11,279 --> 00:16:20,160
+‫‫Let me just say, this Git feature you're showing, is it LazyGit or LeGit? No, it was LazyGit...‬‬
+
+151
+00:16:20,160 --> 00:16:23,759
+‫‫...itself, yes.‬‬
+
+152
+00:16:25,720 --> 00:16:30,000
+‫‫I myself use LazyGit separately, I don't open it within it, it's easier this way. But if...‬‬
+
+153
+00:16:30,000 --> 00:16:35,240
+‫‫If you install LazyGit, it has LazyGit too, right?
+You need to install LazyGit for this to show up as well.‬‬
+
+154
+00:16:35,240 --> 00:16:41,480
+‫‫You really need to install it.
+There's not much time left for installing it anyway.‬‬
+
+155
+00:16:41,480 --> 00:16:46,800
+‫‫I won't enter its website, you can go and check it out.
+But its configuration...‬‬
+
+156
+00:16:48,839 --> 00:16:56,160
+‫‫in the file, in the configuration path
+of Neovim.‬‬
+
+157
+00:17:03,600 --> 00:17:11,160
+‫‫Here, here the configurations are in this section.
+In the configuration, there are general configurations, key...‬‬
+
+158
+00:17:11,160 --> 00:17:16,760
+‫‫You can define the keymaps here, if you want
+to change them, just as I just did...‬‬
+
+159
+00:17:16,760 --> 00:17:23,559
+‫‫and the options for general editor changes, for example, a white theme...‬‬
+
+160
+00:17:23,559 --> 00:17:30,760
+‫‫or for instance, how much spacing tabs should have
+and now some other options that well...‬‬
+
+161
+00:17:30,760 --> 00:17:34,280
+‫‫mostly Vim users are familiar with.‬‬
+
+162
+00:17:36,240 --> 00:17:42,640
+‫‫And also in the plugins, configurations that
+are related to plugins that are added separately...‬‬
+
+163
+00:17:42,640 --> 00:17:49,280
+‫‫to Vim. And LazyVim itself already had some
+plugins, and you need to...‬‬
+
+164
+00:17:49,280 --> 00:17:57,720
+‫‫change them here. For example, I open this file.
+Each of these is a plugin...‬‬
+
+165
+00:17:57,720 --> 00:18:05,080
+‫‫and for instance, if I want to change this, under
+the title, well, this file is Lua, but also very...‬‬
+
+166
+00:18:05,080 --> 00:18:11,240
+‫‫well, similar, somewhat similar to JSON as
+well. Now it gets configured here.‬‬
+
+167
+00:18:11,240 --> 00:18:16,440
+‫‫Now, you should go and study more about it yourself,
+because it's also very time-consuming.‬‬
+
+168
+00:18:16,440 --> 00:18:20,640
+‫‫There's also not much time left for me to explain
+more...‬‬
+
+169
+00:18:24,200 --> 00:18:36,190
+‫‫give. That's it. Thank you.
+[Applause]‬‬
+

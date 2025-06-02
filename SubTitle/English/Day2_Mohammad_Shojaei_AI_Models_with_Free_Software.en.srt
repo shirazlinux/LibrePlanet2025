@@ -1,0 +1,979 @@
+1
+00:00:00,000 --> 00:00:02,000
+‫این زیرنویس با ابزار مترجم سگارو ترجمه شده‬
+‫برای ترجمه اتوماتیک زیرنویس از وبسایت iSega.ro دیدن کنید‬
+
+2
+00:00:00,000 --> 00:00:02,000
+‫```
+This subtitle has been translated using Segaro Translator tool
+Visit iSega.ro website for automatic subtitle translation‬
+
+3
+00:00:07,640 --> 00:00:14,240
+‫Okay, hello. I'm Mohammad, an AI specialist.
+My main expertise is Large Language Models or LLMs.‬
+
+4
+00:00:14,240 --> 00:00:20,359
+‫In today's presentation, we want to talk about
+the deployment and local setup of Large Language...‬
+
+5
+00:00:20,359 --> 00:00:28,199
+‫...Models and introduce three popular open-source tools for them.
+One of them is also an ecosystem.‬
+
+6
+00:00:28,199 --> 00:00:32,400
+‫We will introduce an ecosystem with two popular tools.‬
+
+7
+00:00:33,320 --> 00:00:39,559
+‫Okay, this is the ecosystem that probably many...
+If you've dealt with AI and open source,‬
+
+8
+00:00:39,559 --> 00:00:44,520
+‫you must know the Hugging Face ecosystem.
+Hugging Face is something like GitHub,‬
+
+9
+00:00:44,520 --> 00:00:48,960
+‫but for artificial intelligence; you can find models, datasets...‬
+
+10
+00:00:48,960 --> 00:00:56,960
+‫and Spaces... Now, Spaces are also
+some areas for running demos for...‬
+
+11
+00:00:56,960 --> 00:01:02,160
+‫...apps that are built.
+Now these... Uh, now I'll open the Hugging‬
+
+12
+00:01:02,160 --> 00:01:08,840
+‫Face website itself and show you a few things from it.‬
+
+13
+00:01:25,079 --> 00:01:28,320
+‫This extension... It's not this.‬
+
+14
+00:01:29,320 --> 00:01:34,960
+‫...Face.
+Okay, if we want, first we go to the Models. Three...‬
+
+15
+00:01:34,960 --> 00:01:39,840
+‫It has main things: one is Models, one is Datasets, and one is...‬
+
+16
+00:01:39,840 --> 00:01:47,119
+‫...Spaces. For example, if you want to download a model, not
+just an LLM, any AI model,‬
+
+17
+00:01:47,119 --> 00:01:53,600
+‫use it as open source or even contribute. It's like GitHub, here...‬
+
+18
+00:01:53,600 --> 00:01:59,640
+‫you come to the Models section. These are the current trending models today. This model, for example, is from NVIDIA, a...‬
+
+19
+00:01:59,640 --> 00:02:06,159
+‫...Speech-to-Text model, it converts speech into text. This is a TTS model.‬
+
+20
+00:02:06,159 --> 00:02:12,760
+‫For example, this model is from DeepMind, you've probably heard of DeepMind. This LLM, several...‬
+
+21
+00:02:12,760 --> 00:02:16,560
+‫...weeks ago, it came from Cohere, one of the most powerful text-based LLMs...‬
+
+22
+00:02:16,560 --> 00:02:22,519
+‫...available. Now you want to use this. To use an LLM, you have several...‬
+
+23
+00:02:22,519 --> 00:02:27,840
+‫...ways. One is to use the Transformers library. A library for Python,‬
+
+24
+00:02:27,840 --> 00:02:32,720
+‫it's also for JavaScript. You can use that, but its speed isn't great, it's mostly for testing.‬
+
+25
+00:02:32,720 --> 00:02:38,519
+‫Another way is to use the providers...‬
+
+26
+00:02:38,519 --> 00:02:46,440
+‫...who provide it, get an API and use it. Getting an API is simple...‬
+
+27
+00:02:47,400 --> 00:02:53,519
+‫...enough. Another way is to use something else which we'll get to now. Here, for example, when you click Use...‬
+
+28
+00:02:53,519 --> 00:02:59,640
+‫...This Model, Transformers suggests it to you. We will explain VLLM in the last slide as well.‬
+
+29
+00:02:59,640 --> 00:03:04,879
+‫This is mostly for production. You want to run a model on your server and serve it for‬
+
+30
+00:03:04,879 --> 00:03:11,010
+‫your customers. At that time, VLLM is used, okay.‬
+
+31
+00:03:11,010 --> 00:03:18,879
+‫[Music]
+Okay, I really don't like this behavior here.‬
+
+32
+00:03:18,879 --> 00:03:25,080
+‫I don't have it anymore. You can use other models, Speech-to-Text models, even video generation.‬
+
+33
+00:03:25,080 --> 00:03:31,040
+‫This, for example, is a video generation model that has recently made a lot of noise, they are multimodal which can do several things.‬
+
+34
+00:03:31,040 --> 00:03:37,640
+‫They can do. They can generate images, generate text, text to image, text to...‬
+
+35
+00:03:37,640 --> 00:03:39,799
+‫...text.‬
+
+36
+00:03:40,319 --> 00:03:44,680
+‫In short, whatever model you want, even very large companies like IBM provide models here.‬
+
+37
+00:03:44,680 --> 00:03:50,439
+‫You can use Hugging Face. One of the best platforms if you want to use‬
+
+38
+00:03:50,439 --> 00:03:53,760
+‫open-source models.‬
+
+39
+00:03:55,680 --> 00:04:02,159
+‫The next tool that I want to introduce is Ollama. If you want to very simply,‬
+
+40
+00:04:02,159 --> 00:04:08,920
+‫for free and locally, run an LLM on your laptop, I've even seen it on servers.‬
+
+41
+00:04:08,920 --> 00:04:16,400
+‫It's used, but because its parallelism, meaning its ability to support multiple customers simultaneously,‬
+
+42
+00:04:16,400 --> 00:04:21,680
+‫is not very strong. It's mostly used for personal use, but its speed is very good and it's very‬
+
+43
+00:04:21,680 --> 00:04:26,040
+‫easy to work with. The thing you need to do to use‬
+
+44
+00:04:26,040 --> 00:04:33,280
+‫Ollama is to go to its website ollama.com, even to its GitHub repository.‬
+
+45
+00:04:33,280 --> 00:04:38,680
+‫You can go there and download it. Here‬
+
+46
+00:04:38,680 --> 00:04:45,720
+‫you click GitHub, its GitHub repository opens, or you can download it directly from the website itself.‬
+
+47
+00:04:46,520 --> 00:04:51,000
+‫Download. This filter is like a sanction.‬
+
+48
+00:05:07,320 --> 00:05:12,360
+‫Okay, here you see you can download for the operating system you need. For Linux, you just need to‬
+
+49
+00:05:12,360 --> 00:05:18,280
+‫run this command and it downloads it itself. For Windows, it downloads an executable file.‬
+
+50
+00:05:18,280 --> 00:05:23,919
+‫After you download it, you install it, it gets installed on your‬
+
+51
+00:05:24,039 --> 00:05:30,840
+‫operating system, then you run it. Here a symbol appears showing that Ollama is running, after that
+```‬
+
+52
+00:05:30,840 --> 00:05:33,800
+‫Now you need to go find the popular model you want to
+run.‬
+
+53
+00:05:33,800 --> 00:05:41,639
+‫For Persian, or generally my favorite model to use
+locally is Jammast.‬
+
+54
+00:05:41,639 --> 00:05:47,000
+‫There's the Llama 3 model from Meta, the Deepseek model from its own company.‬
+
+55
+00:05:47,000 --> 00:05:53,160
+‫Deepseek, of course, this Deepseek is very heavy, not suitable for laptops. The Qwen model is also very powerful.‬
+
+56
+00:05:53,160 --> 00:05:58,000
+‫or among its most powerful models. My personal usage, I mostly use Jammast myself.‬
+
+57
+00:05:58,000 --> 00:06:04,600
+‫I use Wunser. Now I'll show you how to run Jammast. When you open Jammast,‬
+
+58
+00:06:04,600 --> 00:06:10,880
+‫this is the page now. Yes, here you can, it has several versions. The 1 billion parameter version,‬
+
+59
+00:06:10,880 --> 00:06:17,599
+‫800 MB, its 4 billion parameter is 3 MB, 3 GB, 12 and‬
+
+60
+00:06:17,599 --> 00:06:23,080
+‫it has 27 MB, which 27 is the most powerful. But the more powerful the model, the more GPU you need.‬
+
+61
+00:06:23,080 --> 00:06:29,240
+‫you have. Now what is what? Your GPU must be powerful enough to run it. Its VRAM, every GPU‬
+
+62
+00:06:29,240 --> 00:06:35,319
+‫has VRAM, which is actually video RAM that‬
+
+63
+00:06:35,319 --> 00:06:41,840
+‫is used inside the graphics, the graphics card. Now considering my graphics card, which is an RTX‬
+
+64
+00:06:41,840 --> 00:06:48,680
+‫3050 and I have 6 GB of VRAM, I can run the 6 billion parameter model.‬
+
+65
+00:06:48,680 --> 00:06:55,880
+‫That is, I can run the 4, but not the 12. Now I have already downloaded the 4.‬
+
+66
+00:06:56,759 --> 00:07:03,560
+‫I did. You click on the 4, and here it writes a command itself. Ollama run. When you run this in your‬
+
+67
+00:07:03,560 --> 00:07:08,360
+‫terminal, it must be running. Even if you haven't downloaded it, it will automatically download‬
+
+68
+00:07:08,360 --> 00:07:10,840
+‫itself.‬
+
+69
+00:07:13,680 --> 00:07:19,680
+‫You type this in your terminal, press Enter. If you haven't downloaded‬
+
+70
+00:07:19,680 --> 00:07:24,840
+‫it, here it starts downloading 4 GB. Once downloaded, it will run. If you have‬
+
+71
+00:07:24,840 --> 00:07:31,479
+‫already downloaded it before, like me, it is already running here. Now I can send it a message.‬
+
+72
+00:07:33,919 --> 00:07:40,479
+‫Now it's running locally. Even if I turn off my internet, it will run.‬
+
+73
+00:07:40,479 --> 00:07:43,479
+‫There you go.‬
+
+74
+00:07:43,720 --> 00:07:49,120
+‫Yes, I'll explain now. Okay, now this itself has a Python package.‬
+
+75
+00:07:49,120 --> 00:07:54,919
+‫It also has a JavaScript package, and you can use it inside your applications.‬
+
+76
+00:07:54,919 --> 00:08:01,120
+‫it. If you want a GUI to run it graphically like ChatGPT, there also,‬
+
+77
+00:08:01,120 --> 00:08:06,639
+‫first after you run it, its sign appears here. Now I myself have a desktop app‬
+
+78
+00:08:06,639 --> 00:08:12,440
+‫I'm still developing it, it's not complete but a...‬
+
+79
+00:08:13,440 --> 00:08:19,560
+‫It has an extension for Chrome and also for other browsers.‬
+
+80
+00:08:19,560 --> 00:08:24,919
+‫There is an extension. When you click this, first if it's running, it becomes... but after it's running...‬
+
+81
+00:08:24,919 --> 00:08:30,720
+‫Here it also has internet search. The extension is actually very good. Here now up there...‬
+
+82
+00:08:30,720 --> 00:08:34,080
+‫you must select your model...‬
+
+83
+00:08:36,240 --> 00:08:42,120
+‫you do. Here, the system itself shows the list of models you have downloaded...‬
+
+84
+00:08:42,120 --> 00:08:47,160
+‫it does. Of course, in the command line itself, in the terminal if you put `ollama list`...‬
+
+85
+00:08:47,160 --> 00:08:52,640
+‫it shows the list of downloaded models. Here, for example, select whichever model you want...‬
+
+86
+00:08:52,640 --> 00:08:58,560
+‫you do. Here, for example, I have a model, I trained this myself, Hamase Persian, the same Hamase...‬
+
+87
+00:08:58,560 --> 00:09:05,120
+‫I fine-tuned on Persian so it's better. Now here we give it a prompt.‬
+
+88
+00:09:14,560 --> 00:09:20,839
+‫The first time we give it a prompt, its speed is a bit low, but after that it increases. Now I think in the...‬
+
+89
+00:09:20,839 --> 00:09:26,800
+‫settings, I enabled JSON mode, it gives me JSON output. Oh, no! This, this is Jammast Tools. This...‬
+
+90
+00:09:26,800 --> 00:09:32,160
+‫is the wrong model. This is the model I trained for JSON.‬
+
+91
+00:09:35,399 --> 00:09:38,959
+‫Let's use the original Hamase Iran...‬
+
+92
+00:09:54,680 --> 00:10:00,839
+‫do. The lighter the model, this is now 4 billion parameters. The lighter the model and...‬
+
+93
+00:10:00,839 --> 00:10:04,240
+‫the stronger your GPU, the speed of its response...‬
+
+94
+00:10:04,240 --> 00:10:08,920
+‫is higher. That's it, it's that simple, now you can run it locally, without even needing the internet...‬
+
+95
+00:10:08,920 --> 00:10:15,160
+‫to use, or put your data at the disposal of foreign companies, or a lot of...‬
+
+96
+00:10:15,160 --> 00:10:20,720
+‫pay dollar costs. How much is ChatGPT's subscription now?‬
+
+97
+00:10:20,720 --> 00:10:28,040
+‫If you want to calculate in Iranian Toman, 20 dollars is 2 million, a little over 2 million.‬
+
+98
+00:10:28,040 --> 00:10:33,399
+‫Very easily and for free, you can run it on your own system. Especially gaming systems.‬
+
+99
+00:10:33,399 --> 00:10:36,720
+‫You can even run a more powerful model, because its GPU...‬
+
+100
+00:10:36,720 --> 00:10:45,240
+‫is strong. Okay, this was about Ollama. Does anyone have any questions? What is this page?‬
+
+101
+00:10:45,240 --> 00:10:50,760
+‫It's an assistant. This is a Chrome extension, it's in the Chrome Web Store. Page Assistant.‬
+
+102
+00:10:50,760 --> 00:10:57,560
+‫There's another thing too, the web UI. You can use that too.‬
+
+103
+00:10:58,120 --> 00:11:02,959
+‫Go ahead, why does it have this advantage?‬
+
+104
+00:11:03,120 --> 00:11:08,880
+‫Its advantage is that it's free. It's open source, and your data isn't shared with other companies. 2‬
+
+105
+00:11:08,880 --> 00:11:12,800
+‫You don't need to pay 2 million for a subscription.
+[Music]‬
+
+106
+00:11:12,800 --> 00:11:18,880
+‫The capabilities that the 2 million offers, depend on the GPU. If you run this 27 million‬
+
+107
+00:11:18,880 --> 00:11:26,180
+‫parameter model, yes, it gives you the same amount of power as that.‬
+
+108
+00:11:26,180 --> 00:11:30,320
+‫[Music]
+But if you know a bit of programming...‬
+
+109
+00:11:30,320 --> 00:11:36,440
+‫If you program, or there are other programs. They're based on scientists' work, on GitHub.‬
+
+110
+00:11:36,440 --> 00:11:41,160
+‫There are many programs. Now I'm developing a desktop program myself, it has an agent.‬
+
+111
+00:11:41,160 --> 00:11:47,800
+‫It has MCP, everything, but it's not finished yet, essentially, it's under development. But overall, you can make many‬
+
+112
+00:11:47,800 --> 00:11:50,519
+‫uses of it, which are even better than ChatGPT.‬
+
+113
+00:11:50,519 --> 00:11:58,839
+‫Can you say, well, actually, yes you can. Now, a tutorial, for this, for this TG site. For example, right now I have a‬
+
+114
+00:11:58,839 --> 00:12:03,440
+‫site, at a company. For example, right now I'm working at a company‬
+
+115
+00:12:03,440 --> 00:12:12,279
+‫I'm working, on our company's website I want to build a chatbot, a simple chatbot. But that Google‬
+
+116
+00:12:12,279 --> 00:12:17,320
+‫I've forgotten the name of Google's chatbot, it's filtered, I can't use that. Can we use‬
+
+117
+00:12:17,320 --> 00:12:22,959
+‫this as a chatbot or a UI to add to our site? Yes, 100%. I'll say, well...‬
+
+118
+00:12:22,959 --> 00:12:27,639
+‫It has a Python library, it has JavaScript too, you integrate it into your program, just as easily as‬
+
+119
+00:12:27,639 --> 00:12:32,279
+‫you use the OpenAI API, you can use this too. Well, now the issue is that my site is based on‬
+
+120
+00:12:32,279 --> 00:12:39,000
+‫WordPress. What should I do? WordPress? Yes, WordPress. I don't know, WordPress...‬
+
+121
+00:12:39,000 --> 00:12:46,000
+‫How is it, M C S, what?‬
+
+122
+00:12:46,000 --> 00:12:51,839
+‫They say it has a plugin, it has its own plugin, and then with the plugin, with this very system‬
+
+123
+00:12:51,839 --> 00:12:55,440
+‫can we add it or do we definitely have to buy a subscription for something?‬
+
+124
+00:12:55,440 --> 00:13:01,680
+‫buy? The same thing can be recommended to him, it's not very suitable for our production because for‬
+
+125
+00:13:01,680 --> 00:13:09,199
+‫handling multi-users it's not very optimized. But now, the presentation, the next slide is about VL‬
+
+126
+00:13:09,199 --> 00:13:14,560
+‫That one is for production, specifically built for production, this one is more for‬
+
+127
+00:13:14,560 --> 00:13:20,680
+‫personal use. Does anyone else have a question? Go ahead.‬
+
+128
+00:13:20,680 --> 00:13:28,839
+‫There's also a model that can design and process photos like, for example, DALL-E, for generating photos.‬
+
+129
+00:13:28,839 --> 00:13:36,519
+‫For generating photos, there are open-source models, like Flux, F L U X, Stable model.‬
+
+130
+00:13:36,519 --> 00:13:42,639
+‫Diffusion. You can run this model, but generally, they require more GPU. Meaning...‬
+
+131
+00:13:42,639 --> 00:13:49,560
+‫You need to have at least a strong gaming laptop. An RTX 40-series or something similar is needed.‬
+
+132
+00:13:52,399 --> 00:13:58,839
+‫What's their advantage over Studio, for example? The advantage of Ollama over Ollama Studio...‬
+
+133
+00:13:58,839 --> 00:14:02,240
+‫Studio is one of the good programs, but the advantage of this is that you can use it in...‬
+
+134
+00:14:02,240 --> 00:14:07,519
+‫Python, JavaScript, that thing, use the API. But Ollama Studio GPU...‬
+
+135
+00:14:07,519 --> 00:14:15,360
+‫has more focus. Both of them, look, both of them are based on... In the end, both of them are using the GGUF file...‬
+
+136
+00:14:15,360 --> 00:14:21,720
+‫they use and run models. They are practically competitors. Now another question...‬
+
+137
+00:14:21,720 --> 00:14:28,000
+‫I have. I couldn't successfully run models like Stable Diffusion in M Studio, and mostly...‬
+
+138
+00:14:28,000 --> 00:14:33,240
+‫they said it's not compatible at all, and it's not possible with M Studio. No, Ollama Studio is for L...‬
+
+139
+00:14:33,240 --> 00:14:39,360
+‫vision models, but not for generating photos. For generating photos, there's something, a library...‬
+
+140
+00:14:39,360 --> 00:14:45,519
+‫called ComfyUI. Install that, you can use it with that. A library...‬
+
+141
+00:14:45,519 --> 00:14:51,480
+‫It's also Python. Diffusers, although I... I pushed a run of Flux...‬
+
+142
+00:14:51,480 --> 00:14:56,440
+‫I just pushed to GitHub. You can use that. Run the Flux work...‬
+
+143
+00:14:56,440 --> 00:15:04,480
+‫Thank you.
+You're welcome. No more questions?‬
+
+144
+00:15:04,560 --> 00:15:13,040
+‫What? Image? What do you mean? Hugging Face had a section where...‬
+
+145
+00:15:13,040 --> 00:15:19,959
+‫In Hugging Face there was a section where you said you could use Spaces or TTS or text...‬
+
+146
+00:15:19,959 --> 00:15:25,360
+‫turn into image. Can we bring that and run it on Ollama or standard, first of all, Ollama...‬
+
+147
+00:15:25,360 --> 00:15:31,480
+‫is for LM and Vision models, only for that. Only text. Yes, if you want to use it for images...‬
+
+148
+00:15:31,480 --> 00:15:37,839
+‫there's ComfyUI, but setting it up, etc., is a bit troublesome. I don't know, I haven't followed it much...‬
+
+149
+00:15:37,839 --> 00:15:43,399
+‫but I usually used ComfyUI.‬
+
+150
+00:15:47,160 --> 00:15:51,079
+‫Another type is, if your GPU isn't sufficient, you can use open-source models...‬
+
+151
+00:15:51,079 --> 00:15:54,759
+‫use them, through Hugging Face itself.‬
+
+152
+00:15:54,759 --> 00:15:57,720
+‫to Hugging Face, which...‬
+
+153
+00:15:58,160 --> 00:16:05,399
+‫Go ahead, well, I'll turn this off now. After this, when you're done with Ollama,‬
+
+154
+00:16:05,399 --> 00:16:08,839
+‫also quit it so it's not running anymore.‬
+
+155
+00:16:10,079 --> 00:16:16,000
+‫Okay, when you go to Hugging Face, there's a section called...‬
+
+156
+00:16:16,000 --> 00:16:23,199
+‫Spaces. Here, the providers themselves create demos of applications.‬
+
+157
+00:16:23,199 --> 00:16:27,680
+‫that you can use for free. Of course, these are mostly demos, not for daily use, but mainly for testing.‬
+
+158
+00:16:27,680 --> 00:16:32,680
+‫Here, for example, you can use a "Quincunx".‬
+
+159
+00:16:32,680 --> 00:16:40,639
+‫There are image generation models, video generation, image generation.‬
+
+160
+00:16:42,240 --> 00:16:48,600
+‫Here, for example, you can use Flax.‬
+
+161
+00:16:51,480 --> 00:16:55,639
+‫You give a prompt here and use Flax.‬
+
+162
+00:16:55,639 --> 00:17:00,560
+‫Now, since this takes so long, I won't go into details, but in general, in Spaces,‬
+
+163
+00:17:00,560 --> 00:17:07,120
+‫you can use many free open-source applications. Okay, let's go to the next slide.‬
+
+164
+00:17:07,120 --> 00:17:14,199
+‫vLLM. This was for usage. Now, if you want, for example, as the friends said, not WordPress, but more on...‬
+
+165
+00:17:14,199 --> 00:17:20,880
+‫programming with vLLM and using it,‬
+
+166
+00:17:20,880 --> 00:17:28,199
+‫you bring it up on a Linux server and run the LLM very quickly. If your server is powerful, you can use LLMs‬
+
+167
+00:17:28,199 --> 00:17:33,559
+‫more powerful than ChatGPT and easily use the LLM for your company, for your software,‬
+
+168
+00:17:33,559 --> 00:17:39,480
+‫build agents with it, build RAG systems with it, build chatbots with it,‬
+
+169
+00:17:39,480 --> 00:17:46,160
+‫build a system like Deep Research, you have access to everything that has been built so far.‬
+
+170
+00:17:46,160 --> 00:17:54,559
+‫That's it. Any AI website you name, you can build it yourself with a little programming.‬
+
+171
+00:17:54,559 --> 00:18:00,480
+‫yourself...‬
+
+172
+00:18:00,480 --> 00:18:02,799
+‫build it.‬
+
+173
+00:18:04,760 --> 00:18:13,320
+‫Now, its basic features are that it has an architecture called PagedAttention which makes its speed much higher.‬
+
+174
+00:18:13,320 --> 00:18:19,440
+‫This is a new method developed by university students... This itself‬
+
+175
+00:18:19,440 --> 00:18:25,559
+‫is from the University of Berkeley, USA. They built this from that university, and this is the most optimized,‬
+
+176
+00:18:25,559 --> 00:18:31,559
+‫meaning the fastest method that can be run in benchmarks.‬
+
+177
+00:18:31,559 --> 00:18:36,919
+‫Compared to its rivals, its competing engines like SGLang, for example...‬
+
+178
+00:18:36,919 --> 00:18:44,080
+‫One of them has the highest score in speed and performance. vLLM, one of its advantages...‬
+
+179
+00:18:44,080 --> 00:18:48,400
+‫is that for many customers you want to run it for, for example, say you have 1000 customers,‬
+
+180
+00:18:48,400 --> 00:18:53,880
+‫they want to use it simultaneously. It has parallelization and you can easily use it with less hardware.‬
+
+181
+00:18:53,880 --> 00:19:00,080
+‫And it's compatible with most models, like Llama, Gemma...‬
+
+182
+00:19:00,080 --> 00:19:05,080
+‫and... It's compatible with all of them and you can use any model you want.‬
+
+183
+00:19:07,480 --> 00:19:14,400
+‫Now, how do you use it? You get a Docker, a Docker Compose, bring it up,‬
+
+184
+00:19:14,400 --> 00:19:20,320
+‫configure it, you can also use Kubernetes. Then you run an API and use that‬
+
+185
+00:19:20,320 --> 00:19:25,559
+‫API. Once the API is running on your server, you can use it very easily.‬
+
+186
+00:19:25,559 --> 00:19:31,960
+‫It's very easy to use. Now, since I don't have a server and stuff here...‬
+
+187
+00:19:32,120 --> 00:19:38,720
+‫If you go to the vLLM website or the vLLM GitHub, they have complete tutorials.‬
+
+188
+00:19:38,720 --> 00:19:46,200
+‫This is also a comparison between vLLM and Ollama. As I said, Ollama is more for local‬
+
+189
+00:19:46,200 --> 00:19:54,039
+‫and small scale and such, but vLLM is for production and very high speed.‬
+
+190
+00:19:54,840 --> 00:19:57,840
+‫high.‬
+
+191
+00:20:00,559 --> 00:20:05,600
+‫Okay, that's it. Any questions about vLLM? Please.‬
+
+192
+00:20:05,600 --> 00:20:09,600
+‫Please go ahead.‬
+
+193
+00:20:10,720 --> 00:20:16,640
+‫Ah. I know they are trained based on some data. I can't hear, sorry.‬
+
+194
+00:20:16,640 --> 00:20:22,080
+‫As far as I know about these models, they are trained based on some data. How can...‬
+
+195
+00:20:22,080 --> 00:20:28,120
+‫when we run it locally, update that data? Well, there are three main ways to provide data to an LLM.‬
+
+196
+00:20:28,120 --> 00:20:34,000
+‫One is RAG, one is KG (Knowledge Graph), one is fine-tuning. Now, I also have an article...‬
+
+197
+00:20:34,000 --> 00:20:38,799
+‫If you search online, I think it will come up. I posted it on Virgool,‬
+
+198
+00:20:38,799 --> 00:20:47,200
+‫on the site, in the Shiraz group channel, I also published the link. I explained it completely there. This‬
+
+199
+00:20:47,200 --> 00:20:51,559
+‫topic, both fine-tuning, and RAG, and...‬
+
+200
+00:21:02,520 --> 00:21:06,120
+‫KG. I can't see.‬
+
+201
+00:21:17,840 --> 00:21:21,080
+‫Here is the complete comparison.‬
+
+202
+00:21:25,960 --> 00:21:29,760
+‫I wrote it. Edit the draft.‬
+
+203
+00:21:33,919 --> 00:21:42,039
+‫Oh, this... Where do I go for its draft? My neck hurts here.‬
+
+204
+00:21:43,679 --> 00:21:48,200
+‫Anyway, if you search for it, it will come up. I wrote it completely. Now I'll give a brief explanation myself, it's like this...‬
+
+205
+00:21:48,200 --> 00:21:53,080
+‫For very... there are some models whose context window is high, meaning input-output is very...‬
+
+206
+00:21:53,080 --> 00:21:57,559
+‫Long. I can say that for them, you can give the entire data to it, which... This...‬
+
+207
+00:21:57,559 --> 00:22:02,400
+‫Of course, it's not a permanent solution, it's only for very short-term uses. It discovers...‬
+
+208
+00:22:02,400 --> 00:22:07,880
+‫In fact, it discovers this process of yours. RAG is like this: something called a vector database...‬
+
+209
+00:22:07,880 --> 00:22:13,840
+‫You have, and your data, whether it's a PDF or whatever, is converted into an index...‬
+
+210
+00:22:13,840 --> 00:22:20,640
+‫...into embeddings. What is an embedding? An embedding is a series of vector arrays that actually...‬
+
+211
+00:22:20,640 --> 00:22:27,480
+‫...are a series of numbers that represent the meaning of those texts. This causes it to be with...‬
+
+212
+00:22:27,480 --> 00:22:32,640
+‫...a series of similarity algorithms, similarity search, to find the most similar part of the text...‬
+
+213
+00:22:32,640 --> 00:22:37,960
+‫...and answers your question based on that most similar part. This is called RAG.‬
+
+214
+00:22:37,960 --> 00:22:42,960
+‫In production, this is often used because given that models are updated every day...‬
+
+215
+00:22:42,960 --> 00:22:47,240
+‫Now I'll explain fine-tuning too. How. Fine-tuning isn't very cost-effective, but RAG is one of the...‬
+
+216
+00:22:47,240 --> 00:22:52,320
+‫...most used in production. I myself have done 10-20 projects for various companies...‬
+
+217
+00:22:52,320 --> 00:22:59,159
+‫...with RAG. Fine-tuning is used less now but is much more powerful. Fine-tuning does a post-...‬
+
+218
+00:22:59,159 --> 00:23:03,640
+‫...training. It adds some new data to the trained model and updates it...‬
+
+219
+00:23:03,640 --> 00:23:07,840
+‫...it. As you said, this itself again has different methods...‬
+
+220
+00:23:07,840 --> 00:23:14,320
+‫...it has. Fine-tuning has SFT which is supervised. That requires Q&A data...‬
+
+221
+00:23:14,320 --> 00:23:19,919
+‫...meaning a question, an answer, a question, an answer. About, more than a thousand, more, the minimum...‬
+
+222
+00:23:19,919 --> 00:23:24,200
+‫...amount you can do it with is to have at least 1000 data points. It must be Q&A pairs, right?‬
+
+223
+00:23:24,200 --> 00:23:28,960
+‫...meaning it must be question and answer. Raw text, like how it works with RAG, doesn't work here. It must...‬
+
+224
+00:23:28,960 --> 00:23:34,480
+‫...definitely be question-answer. Other fine-tuning models include GRPs which have recently become very famous, which...‬
+
+225
+00:23:34,480 --> 00:23:38,640
+‫...uses Reinforcement Learning and is very powerful, but that again...‬
+
+226
+00:23:38,640 --> 00:23:44,240
+‫...requires its own specific data. It requires some reward functions. Anyway, these fine-tuning...‬
+
+227
+00:23:44,240 --> 00:23:49,840
+‫...is a bit more specialized and complex. You must definitely have an AI specialist or something...‬
+
+228
+00:23:49,840 --> 00:23:55,559
+‫...to be able to implement it correctly. These are...‬
+
+229
+00:23:55,559 --> 00:24:01,679
+‫Yes, right. RAG, even with RAG, can be used on these Ollama models. I myself have a...‬
+
+230
+00:24:01,679 --> 00:24:06,919
+‫...repository on my GitHub, let me bring it up.‬
+
+231
+00:24:24,120 --> 00:24:29,799
+‫Here, for example, I used Ollama for translating Persian subtitles, meaning it translates your subtitles...‬
+
+232
+00:24:29,799 --> 00:24:35,399
+‫...locally to Persian without internet. Here, this Ollama RAG system...‬
+
+233
+00:24:35,399 --> 00:24:41,320
+‫...here I have implemented a RAG system with Ollama where you can upload PDFs and whatever files you have...‬
+
+234
+00:24:41,320 --> 00:24:47,080
+‫...it converts them to embeddings, and you can run using that data.‬
+
+235
+00:24:47,080 --> 00:24:53,919
+‫You can do this without needing and it doesn't even have a bit of internet. Very easily, locally...‬
+
+236
+00:24:53,919 --> 00:24:56,120
+‫...it comes up.‬
+
+237
+00:24:56,600 --> 00:25:01,440
+‫Comes up. Does anyone else have questions?‬
+
+238
+00:25:02,760 --> 00:25:08,679
+‫Can I get the information? If we want to get it again, what should we do? We forgot now.‬
+
+239
+00:25:08,679 --> 00:25:16,919
+‫We will put these in a channel somewhere. Yes, yes. That's great. Thank you. Okay, I'll send it to...‬
+
+240
+00:25:16,919 --> 00:25:27,600
+‫Good job. [Applause]‬
+
